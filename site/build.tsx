@@ -86,7 +86,7 @@ function Html(attrs: { title: string, children: any }) {
 function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
 
-    <h2>About Me</h2>
+    <h1>Hi.</h1>
     <p>
       My name is Steven. I am not an important person.
       On Sundays I do public surveys in Chicago.
