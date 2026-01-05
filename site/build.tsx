@@ -28,12 +28,11 @@ export function processSite(tree: FileTree) {
     const path = file.path.replace('.md', '.html')
     blogs.push({ path, title, image, html, date })
   })
+  blogs.sort((a, b) => -(b.date < a.date))
 
   for (const { title, path, image, html } of blogs) {
     pipeline.add(path, BlogPage(title, image, html, blogs))
   }
-
-  blogs.sort((a, b) => -(b.date < a.date))
 
   pipeline.with('^/public/').do(f => {
     pipeline.add(f.path.slice('/public'.length), f.content)
@@ -58,7 +57,7 @@ function Html(attrs: { title: string, children: any }) {
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin='' />
-        <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"></link>
 
       </head>
       <body>
