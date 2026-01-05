@@ -1,5 +1,6 @@
 ---
 title: Are you in despair?
+image: img\areyouindespair.jpg
 ---
 
 This is an earlier sign I did, about mid November, which is why it's such thin marker and hard to read. Because of that, I don't remember many of the specific answers.
