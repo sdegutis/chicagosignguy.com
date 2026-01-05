@@ -87,8 +87,11 @@ function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
 
     <h2>About Me</h2>
-    <p>My name is Steven. I am not an important person.</p>
-    <p>Here is a picture a talented young woman drew of me.</p>
+    <p>
+      My name is Steven. I am not an important person.
+      On Sundays I do public surveys in Chicago.
+      Here is a picture a talented young woman drew of me.
+    </p>
     <p><img src="/img/me.jpg" /></p>
 
     <AllArticles blogs={blogs} />
