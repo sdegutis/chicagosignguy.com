@@ -3,7 +3,6 @@ import { Html } from "./common.tsx"
 
 export function RenderHome(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
-    <h1>Chicago Sign Guy (Steven)</h1>
     <p><img src="/img/me.jpg" /></p>
     <ul>
       {blogs.map(blog => <>

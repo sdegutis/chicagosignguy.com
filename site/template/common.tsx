@@ -10,7 +10,9 @@ export function Html(attrs: { title: string, children: any }) {
       </head>
       <body>
 
-        <header>Chicago Sign Guy's Site</header>
+        <header>
+          <h1>Chicago Sign Guy (Steven)</h1>
+        </header>
 
         <nav>
           <ul>
