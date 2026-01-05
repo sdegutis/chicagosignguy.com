@@ -109,7 +109,7 @@ function BlogPage(title: string, image: string, body: string) {
       come find me in Chicago
       on Sundays, from about Noon to 6pm,
       at the corner of State and Randolph,
-      and let me know your comment.
+      and tell me in person.
     </p>
     <p>
       To leave a comment that others can see,
