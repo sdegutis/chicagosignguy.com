@@ -30,8 +30,8 @@ export function processSite(tree: FileTree) {
   })
   blogs.sort((a, b) => -(b.date < a.date))
 
-  for (const { title, path, image, html } of blogs) {
-    pipeline.add(path, BlogPage(title, image, html, blogs))
+  for (const blog of blogs) {
+    pipeline.add(blog.path, BlogPage(blog, blogs))
   }
 
   pipeline.with('^/public/').do(f => {
@@ -96,12 +96,14 @@ function HomePage(blogs: Blog[]) {
   </Html>
 }
 
-function AllArticles(data: { blogs: Blog[] }) {
+function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
   return <>
     <h2>All Articles</h2>
     <ul style='padding: 0; list-style-type: none'>
       {data.blogs.map(blog => <>
-        <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a></li>
+        <li class={data.blog == blog ? 'currentblog' : ''}>
+          {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
+        </li>
       </>)}
     </ul>
   </>
@@ -113,11 +115,11 @@ function AllArticlesPage(blogs: Blog[]) {
   </Html>
 }
 
-function BlogPage(title: string, image: string, body: string, blogs: Blog[]) {
-  return <Html title={title}>
-    <h1>{title}</h1>
-    <p><img src={image} /></p>
-    <p>{body}</p>
+function BlogPage(blog: Blog, blogs: Blog[]) {
+  return <Html title={blog.title}>
+    <h1>{blog.title}</h1>
+    <p><img src={blog.image} /></p>
+    <p>{blog.html}</p>
     <h2>Leave a comment</h2>
     <p>
       To leave a comment,
@@ -132,6 +134,6 @@ function BlogPage(title: string, image: string, body: string, blogs: Blog[]) {
       which is the group comment period,
       and state your comment while others are present.
     </p>
-    <AllArticles blogs={blogs} />
+    <AllArticles blogs={blogs} blog={blog} />
   </Html>
 }

@@ -84,3 +84,7 @@ body > * {
 img {
   max-width: 100%;
 }
+
+.currentblog {
+  font-weight: bold;
+}

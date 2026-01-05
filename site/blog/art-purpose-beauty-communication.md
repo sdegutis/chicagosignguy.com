@@ -1,5 +1,5 @@
 ---
-title: Art, beauty, purpose, and communication
+title: Art, beauty, purpose, communication
 image: /img/moviestills\Screenshot_2025-12-19_132632.png
 date: 2025-12-19
 ---
