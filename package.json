@@ -1,0 +1,15 @@
+{
+  "name": "chicagosignguy.com",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^24.9.2",
+    "immaculata": "^2.7.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}
