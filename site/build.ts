@@ -10,6 +10,7 @@ export interface Blog {
   title: string
   image: string
   html: string
+  date: Date
 }
 
 const md = new MarkdownIt({})
@@ -23,14 +24,15 @@ export function processSite(tree: FileTree) {
   pipeline.with('\.md$').do(file => {
     const text = file.content.toString('utf8')
     const { attributes, body } = fm(text)
-    const { title, image } = attributes as Record<string, string>
+    const { title, image, date: dateObj } = attributes as Record<string, any>
     const html = md.render(body)
-
+    const date = dateObj as Date
     const path = file.path.replace('.md', '.html')
-    blogs.push({ path, title, image, html })
-
+    blogs.push({ path, title, image, html, date })
     pipeline.add(path, BlogPage(title, image, html))
   })
+
+  blogs.sort((a, b) => -(b.date < a.date))
 
   pipeline.with('^/public/').do(f => {
     pipeline.add(f.path.slice('/public'.length), f.content)

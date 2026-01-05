@@ -1,6 +1,7 @@
 ---
 title: Are soul mates real?
 image: /img/aresoulmatesreal.jpg
+date: 2025-12-22
 ---
 
 I wrote this blog while listening to [this Mr. Brightside cover by Bailey Jehl](https://open.spotify.com/track/2OgcQdE67wV1Yu885Y1ztu?si=1fccfd8c35664713) and I recommend reading it to the same song.

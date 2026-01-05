@@ -7,7 +7,7 @@ export function RenderHome(blogs: Blog[]) {
     <p><img src="/img/me.jpg" /></p>
     <ul>
       {blogs.map(blog => <>
-        <li><a href={blog.path}>{blog.title}</a></li>
+        <li>({blog.date.toLocaleDateString()}) <a href={blog.path}>{blog.title}</a></li>
       </>)}
     </ul>
   </Html>
