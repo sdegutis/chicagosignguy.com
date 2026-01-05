@@ -11,9 +11,9 @@ import { fileURLToPath } from 'url'
 
 const tree = new FileTree('site', import.meta.dirname)
 registerHooks(tree.moduleHooks())
-registerHooks(hooks.compileJsx(compileViaTsc))
-registerHooks(hooks.mapImport('react/jsx-runtime', 'immaculata/jsx-strings.js'))
 registerHooks(hooks.tryAltExts)
+registerHooks(hooks.mapImport('react/jsx-runtime', 'immaculata/jsx-strings.js'))
+registerHooks(hooks.compileJsx(compileViaTsc))
 
 if (process.argv[2] === 'dev') {
   const server = new DevServer(8080, {})
