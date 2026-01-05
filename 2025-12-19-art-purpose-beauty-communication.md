@@ -1,5 +1,6 @@
 ---
 title: Art, beauty, purpose, and communication
+image: img\moviestills\Screenshot_2025-12-19_132632.png
 ---
 
 It seems to me that, when a person likes a work of art, it says far more about the person than the art. Sure, art may be better or worse according to its intended genres. But when the style and content of the work resonate with a person, it says a lot about what they value in life, what they don't, and what they're trying to understand better.
