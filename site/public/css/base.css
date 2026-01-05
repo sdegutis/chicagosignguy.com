@@ -1,18 +1,36 @@
+:root {
+  --b: blanchedalmond;
+  --f: darkslategray;
+  --h: sienna;
+  --l: mediumvioletred;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  :root {
+    --b: black;
+    --f: blanchedalmond;
+    --h: darkorange;
+    --l: hotpink;
+  }
+
+}
+
 html {
   font-family: "EB Garamond", serif;
-  background-color: blanchedalmond;
+  background-color: var(--b);
   font-size: 13pt;
-  color: darkslategray;
+  color: var(--f);
 }
 
 h1, h2, h3 {
   font-family: "Libre Caslon Text", serif;
-  color: sienna;
+  color: var(--h);
   font-weight: normal;
 }
 
 a {
-  color: mediumvioletred;
+  color: var(--l);
 }
 
 header {
