@@ -59,7 +59,7 @@ footer {
 }
 
 body > * {
-  max-width: 30em;
+  max-width: 30rem;
   width: 95%;
   margin: 1em auto;
 }
