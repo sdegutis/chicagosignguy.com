@@ -36,7 +36,7 @@ export function processSite(tree: FileTree) {
     pipeline.add(f.path.slice('/public'.length), f.content)
   })
 
-  pipeline.add('/index.html', RenderHome(blogs))
+  pipeline.add('/index.html', HomePage(blogs))
 
   return pipeline.results()
 }
@@ -80,12 +80,12 @@ function Html(attrs: { title: string, children: any }) {
   </>
 }
 
-function RenderHome(blogs: Blog[]) {
+function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
     <p><img src="/img/me.jpg" /></p>
-    <ul>
+    <ul style='padding: 0; list-style-type: none'>
       {blogs.map(blog => <>
-        <li>({blog.date.toLocaleDateString()}) <a href={blog.path}>{blog.title}</a></li>
+        <li>({blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}) <a href={blog.path}>{blog.title}</a></li>
       </>)}
     </ul>
   </Html>
