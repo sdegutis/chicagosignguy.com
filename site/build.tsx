@@ -82,15 +82,19 @@ function Html(attrs: { title: string, children: any }) {
 
 function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
-    <p><img src="/img/me.jpg" /></p>
-    <h2>About Me</h2>
-    <p>My name is Steven. I am not an important person.</p>
+
     <h2>All Articles</h2>
     <ul style='padding: 0; list-style-type: none'>
       {blogs.map(blog => <>
         <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a></li>
       </>)}
     </ul>
+
+    <h2>About Me</h2>
+    <p>My name is Steven. I am not an important person.</p>
+    <p>Here is a picture a talented young woman drew of me.</p>
+    <p><img src="/img/me.jpg" /></p>
+
   </Html>
 }
 
