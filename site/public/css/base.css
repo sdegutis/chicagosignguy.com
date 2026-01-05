@@ -1,14 +1,14 @@
 
 html {
-  --bgcolor: antiquewhite;
-  --hdcolor: midnightblue;
-  --fgcolor: darkslategray;
-  --lncolor: sienna;
+  --bgcolor: blanchedalmond;
+  --hdcolor: darkolivegreen;
+  --fgcolor: black;
+  --lncolor: green;
 }
 
 @media (prefers-color-scheme: dark) {
   html {
-    --bgcolor: #123;
+    --bgcolor: black;
     --hdcolor: wheat;
     --fgcolor: darkgrey;
     --lncolor: seagreen;
