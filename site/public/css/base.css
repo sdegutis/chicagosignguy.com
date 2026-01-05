@@ -1,34 +1,17 @@
-
-html {
-  --bgcolor: blanchedalmond;
-  --hdcolor: darkolivegreen;
-  --fgcolor: black;
-  --lncolor: green;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    --bgcolor: black;
-    --hdcolor: wheat;
-    --fgcolor: darkgrey;
-    --lncolor: seagreen;
-  }
-}
-
 html {
   font-family: "Cormorant Garamond", serif;
-  background-color: var(--bgcolor);
-  color: var(--fgcolor);
+  background-color: blanchedalmond;
+  color: darkslategray;
 }
 
 h1, h2, h3 {
   font-family: "Libre Caslon Text", serif;
-  color: var(--hdcolor);
+  color: sienna;
   font-weight: normal;
 }
 
 a {
-  color: var(--lncolor);
+  color: rebeccapurple;
 }
 
 header {
