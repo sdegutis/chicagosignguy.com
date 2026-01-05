@@ -30,6 +30,8 @@ Some said they would exercise or go for a walk to calm down.
 
 One young woman's answer was that she reminds herself that it doesn't really matter what other people think of you in an interaction, because they're going to forget about it shortly after anyway. Or at least this is what I remember from our rather long conversation.
 
+An old woman asked if I ever asked anyone why they are anxious. When I asked her why, she said mostly because of politics. She said her solution is to donate to political causes and do her part.
+
 One thing she said that stuck out to me is that most people have a sense that God is watching them but not that God loves them. This gives us a sense of fear of judgment, a constant anxiety. In my experience this is all too true. And it makes sense theologically, since that's the point of this life, is to be tested and see whether we will do good trusting that God loves us while knowing that he judges us. I am glad I met her.
 
 Where today's idea came from
@@ -51,9 +53,9 @@ I bought it just to get it off the shelf of the thrift store. I've met some peo
 Book update
 -----------
 
-The last blog post here was about a book I wanted to write. But I've had no inspiration for it so far. It was meant to be a funny book based on my funny signs and the same kind of humor. But when I imagined writing it, it seemed boring even to me.
+For a while now, I've wondered if I should turn this into a book, and I have decided to go forward with it.
 
-So I think I'll make it a serious book based on my serious signs. It will be a compilation of my surveys, their results, the conversations, and my own thoughts on the subjects, along with stories of the people who tried to mug me while I stood out there, and other odd people, bizarre interactions, and dangerous situations.
+It will be a compilation of my surveys, their results, the conversations, and my own thoughts on the subjects, along with stories of the people who tried to mug me while I stood out there, along with other odd people, bizarre interactions, and dangerous situations.
 
 Here's the tenative cover, though I might have to change it due to copyright laws:
 
