@@ -20,6 +20,10 @@ header {
   justify-content: space-between;
 }
 
+header > :first-child {
+  font-weight: bold;
+}
+
 nav ul {
   padding: 0;
   margin: 0;
