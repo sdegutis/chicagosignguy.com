@@ -55,3 +55,5 @@ The last blog post here was about a book I wanted to write. But I've had no insp
 So I think I'll make it a serious book based on my serious signs. It will be a compilation of my surveys, their results, the conversations, and my own thoughts on the subjects, along with stories of the people who tried to mug me while I stood out there, and other odd people, bizarre interactions, and dangerous situations.
 
 Here's the tenative cover, though I might have to change it due to copyright laws:
+
+![](img\bookcover1.jpg)
