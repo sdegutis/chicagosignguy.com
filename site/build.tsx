@@ -46,17 +46,23 @@ function Html(attrs: { title: string, children: any }) {
     {'<!DOCTYPE html>'}
     <html lang="en">
       <head>
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{attrs.title}</title>
         <link rel="stylesheet" href="/css/base.css" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin='' />
+        <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet"></link>
+
       </head>
       <body>
 
         <header>
+          <span>ChicagoSignGuy.com</span>
           <nav>
             <ul>
-              <li>Chicago Sign Guy</li>
               <li><a href='/'>All articles</a></li>
               <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Spotify playlist</a></li>
             </ul>
