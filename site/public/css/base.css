@@ -71,6 +71,10 @@ footer {
   margin-top: 3em !important;
 }
 
+main li {
+  margin: .25em 0;
+}
+
 body > * {
   max-width: 30rem;
   width: 90%;
