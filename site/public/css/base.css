@@ -3,10 +3,10 @@
    and it's entirely made up of named colors! */
 
 :root {
-  --b: blanchedalmond;
+  --b: antiquewhite;
   --f: darkslategray;
   --h: sienna;
-  --l: steelblue;
+  --l: royalblue;
 }
 
 @media (prefers-color-scheme: dark) {
