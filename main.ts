@@ -5,10 +5,13 @@ import * as hooks from 'immaculata/hooks.js'
 import type { } from 'immaculata/jsx-strings-html.js'
 import type { } from 'immaculata/jsx-strings.js'
 import { registerHooks } from 'module'
+import ts from 'typescript'
+import { fileURLToPath } from 'url'
 
 
 const tree = new FileTree('site', import.meta.dirname)
 registerHooks(tree.moduleHooks())
+registerHooks(hooks.compileJsx(compileViaTsc))
 registerHooks(hooks.mapImport('react/jsx-runtime', 'immaculata/jsx-strings.js'))
 registerHooks(hooks.tryAltExts)
 
@@ -37,4 +40,18 @@ async function processSite() {
   console.log(`Time: ${Date.now() - start} ms`)
 
   return result
+}
+
+function compileViaTsc(str: string, url: string) {
+  return ts.transpileModule(str, {
+    fileName: fileURLToPath(url),
+    compilerOptions: {
+      target: ts.ScriptTarget.ESNext,
+      module: ts.ModuleKind.ESNext,
+      jsx: ts.JsxEmit.ReactJSX,
+      sourceMap: true,
+      inlineSourceMap: true,
+      inlineSources: true,
+    }
+  }).outputText
 }
