@@ -78,7 +78,7 @@ Death and Conflagration
 
 As an aside, some of Adam Chmielowski's art is quite dark and hauntingly beautiful. Neither the movie nor the wikipedia article do his art any justice. I had to hunt around to find the more beautiful things he painted. And one of my favorite art pieces (of all time) is _Death and Conflagration_, the center part of a triptych, which shows what seems to be a cloaked skeleton on a horse, holding a lit torch, blowing fire and trailing smoke, forming a pursuing dragon. Not only is it aesthetically breathtaking to me, but it reminds me of the fleeting nature of this reality, and of our own comfortable lives.
 
-![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Chmielowski_Death_and_conflagration.jpg?v=1766173692)
+![](/img/deathandconflagration.jpg)
 
 Still frames
 ------------
