@@ -9,7 +9,22 @@ export function Html(attrs: { title: string, children: any }) {
         <link rel="stylesheet" href="/css/base.css" />
       </head>
       <body>
-        {attrs.children}
+
+        <header>Chicago Sign Guy's Site</header>
+
+        <nav>
+          <ul>
+            <li><a href='/'>All articles</a></li>
+            <li><a href='/'>Spotify playlist</a></li>
+          </ul>
+        </nav>
+
+        <main>
+          {attrs.children}
+        </main>
+
+        <footer>&copy; 2025-2026 Steven</footer>
+
       </body>
     </html>
   </>
