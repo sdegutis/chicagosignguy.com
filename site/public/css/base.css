@@ -6,7 +6,7 @@
   --b: blanchedalmond;
   --f: darkslategray;
   --h: sienna;
-  --l: mediumvioletred;
+  --l: steelblue;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,7 +14,7 @@
     --b: black;
     --f: blanchedalmond;
     --h: darkgoldenrod;
-    --l: palevioletred;
+    --l: cornflowerblue;
   }
 }
 
@@ -46,6 +46,10 @@ header {
   justify-content: space-between;
   position: sticky;
   top: 0;
+
+  font-family: "Archivo Narrow", sans-serif;
+  font-optical-sizing: auto;
+
   background-color: var(--b);
   padding: 7px 0;
   border-bottom: 1px solid currentColor;
