@@ -4,8 +4,6 @@ image: /img/aresoulmatesreal.jpg
 date: 2025-12-22
 ---
 
-I wrote this blog while listening to [this Mr. Brightside cover by Bailey Jehl](https://open.spotify.com/track/2OgcQdE67wV1Yu885Y1ztu?si=1fccfd8c35664713) and I recommend reading it to the same song.
-
 Today's question was whether soul mates are a real thing. This time, I wrote down people's conversational answers shortly afterwards, by taking notes on my phone. So there's more of them, and they're more accurate since they were fresh in my memory.
 
 One man said he wants to be an optimist but he just doesn't think soul mates exist so he put no.
