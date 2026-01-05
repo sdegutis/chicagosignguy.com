@@ -78,11 +78,47 @@ Death and Conflagration
 As an aside, some of Adam Chmielowski's art is quite dark and hauntingly beautiful. Neither the movie nor the wikipedia article do his art any justice. I had to hunt around to find the more beautiful things he painted. And one of my favorite art pieces (of all time) is _Death and Conflagration_, the center part of a triptych, which shows what seems to be a cloaked skeleton on a horse, holding a lit torch, blowing fire and trailing smoke, forming a pursuing dragon. Not only is it aesthetically breathtaking to me, but it reminds me of the fleeting nature of this reality, and of our own comfortable lives.
 
 ![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Chmielowski_Death_and_conflagration.jpg?v=1766173692)
-----------------------------------------------------------------------------------------------------------------
 
 Still frames
 ------------
 
 These stills are either the most beautiful or the most representative of the tone and style of the movie that I could find and screenshot. Enjoy!
 
-![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123200.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124127.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132311.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054743.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124137.png?v=1766172526)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_150735.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132617.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_150724.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124754.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054626.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054132.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054602.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054535.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-20_054429.png?v=1766231723)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124918.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132133.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123525.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124441.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124536.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132458.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124316.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124030.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124421.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124630.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132519.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132353.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123326.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123424.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_124646.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123041.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132544.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132210.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_123432.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132821.png?v=1766172525)![](https://cdn.shopify.com/s/files/1/0966/3928/7592/files/Screenshot_2025-12-19_132632.png?v=1766172525)
+![](img/moviestills/Screenshot_2025-12-19_123000.png)
+![](img/moviestills/Screenshot_2025-12-19_123041.png)
+![](img/moviestills/Screenshot_2025-12-19_123200.png)
+![](img/moviestills/Screenshot_2025-12-19_123326.png)
+![](img/moviestills/Screenshot_2025-12-19_123424.png)
+![](img/moviestills/Screenshot_2025-12-19_123432.png)
+![](img/moviestills/Screenshot_2025-12-19_123525.png)
+![](img/moviestills/Screenshot_2025-12-19_124030.png)
+![](img/moviestills/Screenshot_2025-12-19_124127.png)
+![](img/moviestills/Screenshot_2025-12-19_124137.png)
+![](img/moviestills/Screenshot_2025-12-19_124316.png)
+![](img/moviestills/Screenshot_2025-12-19_124421.png)
+![](img/moviestills/Screenshot_2025-12-19_124441.png)
+![](img/moviestills/Screenshot_2025-12-19_124536.png)
+![](img/moviestills/Screenshot_2025-12-19_124630.png)
+![](img/moviestills/Screenshot_2025-12-19_124646.png)
+![](img/moviestills/Screenshot_2025-12-19_124754.png)
+![](img/moviestills/Screenshot_2025-12-19_124918.png)
+![](img/moviestills/Screenshot_2025-12-19_125305.png)
+![](img/moviestills/Screenshot_2025-12-19_125317.png)
+![](img/moviestills/Screenshot_2025-12-19_132133.png)
+![](img/moviestills/Screenshot_2025-12-19_132210.png)
+![](img/moviestills/Screenshot_2025-12-19_132311.png)
+![](img/moviestills/Screenshot_2025-12-19_132353.png)
+![](img/moviestills/Screenshot_2025-12-19_132458.png)
+![](img/moviestills/Screenshot_2025-12-19_132519.png)
+![](img/moviestills/Screenshot_2025-12-19_132544.png)
+![](img/moviestills/Screenshot_2025-12-19_132617.png)
+![](img/moviestills/Screenshot_2025-12-19_132632.png)
+![](img/moviestills/Screenshot_2025-12-19_132821.png)
+![](img/moviestills/Screenshot_2025-12-19_150724.png)
+![](img/moviestills/Screenshot_2025-12-19_150735.png)
+![](img/moviestills/Screenshot_2025-12-20_054132.png)
+![](img/moviestills/Screenshot_2025-12-20_054429.png)
+![](img/moviestills/Screenshot_2025-12-20_054535.png)
+![](img/moviestills/Screenshot_2025-12-20_054602.png)
+![](img/moviestills/Screenshot_2025-12-20_054626.png)
+![](img/moviestills/Screenshot_2025-12-20_054743.png)
