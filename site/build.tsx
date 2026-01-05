@@ -27,8 +27,11 @@ export function processSite(tree: FileTree) {
     const date = dateObj as Date
     const path = file.path.replace('.md', '.html')
     blogs.push({ path, title, image, html, date })
-    pipeline.add(path, BlogPage(title, image, html))
   })
+
+  for (const { title, path, image, html } of blogs) {
+    pipeline.add(path, BlogPage(title, image, html, blogs))
+  }
 
   blogs.sort((a, b) => -(b.date < a.date))
 
@@ -37,6 +40,7 @@ export function processSite(tree: FileTree) {
   })
 
   pipeline.add('/index.html', HomePage(blogs))
+  pipeline.add('/articles.html', AllArticlesPage(blogs))
 
   return pipeline.results()
 }
@@ -60,10 +64,10 @@ function Html(attrs: { title: string, children: any }) {
       <body>
 
         <header>
-          <span>ChicagoSignGuy.com</span>
+          <span><a href="/">ChicagoSignGuy.com</a></span>
           <nav>
             <ul>
-              <li><a href='/'>All articles</a></li>
+              <li><a href='/articles.html'>All articles</a></li>
               <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Spotify playlist</a></li>
             </ul>
           </nav>
@@ -88,17 +92,29 @@ function HomePage(blogs: Blog[]) {
     <p>Here is a picture a talented young woman drew of me.</p>
     <p><img src="/img/me.jpg" /></p>
 
-    <h2>All Articles</h2>
-    <ul style='padding: 0; list-style-type: none'>
-      {blogs.map(blog => <>
-        <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a></li>
-      </>)}
-    </ul>
+    <AllArticles blogs={blogs} />
 
   </Html>
 }
 
-function BlogPage(title: string, image: string, body: string) {
+function AllArticles(data: { blogs: Blog[] }) {
+  return <>
+    <h2>All Articles</h2>
+    <ul style='padding: 0; list-style-type: none'>
+      {data.blogs.map(blog => <>
+        <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a></li>
+      </>)}
+    </ul>
+  </>
+}
+
+function AllArticlesPage(blogs: Blog[]) {
+  return <Html title="All Articles">
+    <AllArticles blogs={blogs} />
+  </Html>
+}
+
+function BlogPage(title: string, image: string, body: string, blogs: Blog[]) {
   return <Html title={title}>
     <h1>{title}</h1>
     <p><img src={image} /></p>
@@ -117,5 +133,6 @@ function BlogPage(title: string, image: string, body: string) {
       which is the group comment period,
       and state your comment while others are present.
     </p>
+    <AllArticles blogs={blogs} />
   </Html>
 }
