@@ -1,6 +1,6 @@
 ---
 title: Do you deserve love?
-image: img\doyoudeservelove.jpg
+image: /img/doyoudeservelove.jpg
 ---
 
 The results are in from last Sunday's survey! The verdict, most people believe they do deserve love, a few don't, but only kinda sorta. At least, most people who took the survey. I wonder how many people saw the sign and thought "no" but didn't want to participate for whatever reason.

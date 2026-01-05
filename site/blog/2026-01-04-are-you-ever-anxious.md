@@ -1,6 +1,6 @@
 ---
 title: Are you ever anxious?
-image: img\areyoueveranxious.jpg
+image: /img/areyoueveranxious.jpg
 ---
 
 The results
@@ -56,4 +56,4 @@ So I think I'll make it a serious book based on my serious signs. It will be a c
 
 Here's the tenative cover, though I might have to change it due to copyright laws:
 
-![](img\bookcover1.jpg)
+![](/img/bookcover1.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Should love ever be conditional?
-image: img\shouldloveeverbeconditional.jpg
+image: /img/shouldloveeverbeconditional.jpg
 ---
 
 Wow, it's the first survey ever that's not a landslide! In fact, it was kind of close! We have 50 yes's, and 60 no's by my count.
