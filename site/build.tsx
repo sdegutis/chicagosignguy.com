@@ -103,5 +103,19 @@ function BlogPage(title: string, image: string, body: string) {
     <h1>{title}</h1>
     <p><img src={image} /></p>
     <p>{body}</p>
+    <h2>Leave a comment</h2>
+    <p>
+      To leave a comment,
+      come find me in Chicago
+      on Sundays, from about Noon to 6pm,
+      at the corner of State and Randolph,
+      and let me know your comment.
+    </p>
+    <p>
+      To leave a comment that others can see,
+      stop by at precisely 3pm,
+      which is the group comment period,
+      and state your comment while others are present.
+    </p>
   </Html>
 }
