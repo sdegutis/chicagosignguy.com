@@ -88,7 +88,7 @@ function HomePage(blogs: Blog[]) {
     <h2>All Articles</h2>
     <ul style='padding: 0; list-style-type: none'>
       {blogs.map(blog => <>
-        <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}, <a href={blog.path}>{blog.title}</a></li>
+        <li>{blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a></li>
       </>)}
     </ul>
   </Html>
