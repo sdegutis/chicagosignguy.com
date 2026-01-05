@@ -90,7 +90,7 @@ function HomePage(blogs: Blog[]) {
     <p>
       My name is Steven. I am not an important person.
       On Sundays I do public surveys in Chicago.
-      Here is a picture a talented young woman drew of me.
+      Here is a picture that a talented young woman drew of me.
     </p>
     <p><img src="/img/me.jpg" /></p>
 
