@@ -2,8 +2,7 @@ import * as FrontMatter from 'front-matter'
 import { FileTree } from "immaculata/filetree.js"
 import { Pipeline } from 'immaculata/pipeline.js'
 import MarkdownIt from 'markdown-it'
-import { BlogPage } from './template/blog.tsx'
-import { RenderHome } from './template/home.tsx'
+import { BlogPage, RenderHome } from './templates.tsx'
 
 export interface Blog {
   path: string
