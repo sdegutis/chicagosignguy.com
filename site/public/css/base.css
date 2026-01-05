@@ -46,14 +46,15 @@ header {
   justify-content: space-between;
   position: sticky;
   top: 0;
-
-  font-family: "Archivo Narrow", sans-serif;
-  font-optical-sizing: auto;
-
   background-color: var(--b);
   padding: 7px 0;
   border-bottom: 1px solid currentColor;
   margin-top: 0 !important;
+}
+
+header, footer {
+  font-family: "Archivo Narrow", sans-serif;
+  font-optical-sizing: auto;
 }
 
 header > :first-child {
