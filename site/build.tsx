@@ -90,9 +90,12 @@ function HomePage(blogs: Blog[]) {
 
     <p>
       Hi, I'm <a href="/about.html">Steven</a>.
-      Je suis un homme sans importance.
-      (Mais je ne parle pas vraiment français, je trouve simplement que c'est une belle langue.)
-      You may know me from my funny signs or public surveys in Chicago.
+      You may know me from making funny signs or doing public surveys in Chicago.
+    </p>
+
+    <p>
+      Je suis un homme insignifiant.
+      (Je ne parle pas français; je trouve simplement que c'est une belle langue.)
     </p>
 
     <p>
