@@ -90,15 +90,15 @@ function HomePage(blogs: Blog[]) {
 
     <p>
       Hi, I'm <a href="/about.html">Steven</a>.
-      Je suis un homme sans importance,
-      et je ne parle pas Français.
-    </p>
-    <p>
-      On Sundays I do public surveys in Chicago.
-      Here is a picture that a talented young woman drew of me.
+      Je suis un homme sans importance.
+      (Mais je ne parle pas vraiment français, je trouve simplement que c'est une belle langue.)
+      You may know me from my funny signs or public surveys in Chicago.
     </p>
 
-    <p><img src="/img/me.jpg" /></p>
+    <p>
+      <img src="/img/me.jpg" />
+      <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
+    </p>
 
     <AllArticles blogs={blogs} />
 
