@@ -57,7 +57,6 @@ header {
 header, footer {
   font-family: "Mako", sans-serif;
   font-optical-sizing: auto;
-  text-decoration: overline;
 }
 
 nav ul {
@@ -80,6 +79,7 @@ aside {
 footer {
   padding-top: 1em;
   font-size: 75%;
+  text-decoration: overline;
 }
 
 main li {
