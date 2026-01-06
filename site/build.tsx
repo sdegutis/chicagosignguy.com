@@ -39,6 +39,7 @@ export function processSite(tree: FileTree) {
   })
 
   pipeline.add('/index.html', HomePage(blogs))
+  pipeline.add('/about.html', AboutPage())
   pipeline.add('/articles.html', AllArticlesPage(blogs))
 
   return pipeline.results()
@@ -66,8 +67,9 @@ function Html(attrs: { title: string, children: any }) {
           <span><a href="/">ChicagoSignGuy.com</a></span>
           <nav>
             <ul>
-              <li><a href='/articles.html'>All articles</a></li>
-              <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Spotify playlist</a></li>
+              <li><a href='/about.html'>About</a></li>
+              <li><a href='/articles.html'>Articles</a></li>
+              <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Playlist</a></li>
             </ul>
           </nav>
         </header>
@@ -87,13 +89,37 @@ function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
 
     <p>
-      My name is Steven. I am not an important person.
+      Hi, I'm Steven.
+      Je suis un homme sans importance,
+      et je ne parle pas Français.
+    </p>
+    <p>
       On Sundays I do public surveys in Chicago.
       Here is a picture that a talented young woman drew of me.
     </p>
+
     <p><img src="/img/me.jpg" /></p>
 
     <AllArticles blogs={blogs} />
+
+  </Html>
+}
+
+function AboutPage() {
+  return <Html title="About me">
+
+    <p><img src="/img/me.jpg" /></p>
+
+    <p>
+      My name is Steven.
+      I'm a successful software engineer and best selling author.
+    </p>
+
+    <p>
+      On Sundays, I do public surveys in Chicago,
+      on the corner of State and Randolph, from Noon to 6pm.
+      This year, I plan to publish a book of my experiences.
+    </p>
 
   </Html>
 }
@@ -121,26 +147,26 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
   return <Html title={blog.title}>
 
     <article>
-    <h1>{blog.title}</h1>
-    <p><img src={blog.image} /></p>
-    <p>{blog.html}</p>
+      <h1>{blog.title}</h1>
+      <p><img src={blog.image} /></p>
+      <p>{blog.html}</p>
     </article>
 
     <aside>
-    <h2>Leave a comment</h2>
-    <p>
-      To leave a comment,
-      come find me in Chicago
-      on Sundays, from about Noon to 6pm,
-      at the corner of State and Randolph,
-      and tell me in person.
-    </p>
-    <p>
-      To leave a comment that others can see,
-      stop by at precisely 3pm,
-      which is the group comment period,
-      and state your comment while others are present.
-    </p>
+      <h2>Leave a comment</h2>
+      <p>
+        To share your thoughts,
+        come find me in Chicago
+        on Sundays, from about Noon to 6pm,
+        at the corner of State and Randolph,
+        and tell me in person.
+      </p>
+      <p>
+        To leave a comment that others can also see,
+        stop by at precisely 3pm,
+        when others will also be present,
+        and share your thoughts with all of us.
+      </p>
     </aside>
 
     <AllArticles blogs={blogs} blog={blog} />
