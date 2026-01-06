@@ -35,11 +35,7 @@ h1, h2, h3 {
   font-family: "Libre Caslon Text", serif;
   color: var(--h);
   font-weight: normal;
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-thickness: 1px;
   font-variant: all-small-caps;
-  text-decoration-style: double;
 }
 
 a {
