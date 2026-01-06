@@ -64,7 +64,7 @@ function Html(attrs: { title: string, children: any }) {
       <body>
 
         <header>
-          <span><a href="/">ChicagoSignGuy.com</a></span>
+          <a href="/">ChicagoSignGuy.com</a>
           <nav>
             <ul>
               <li><a href='/about.html'>About</a></li>
