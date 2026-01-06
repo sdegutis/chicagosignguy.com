@@ -145,7 +145,7 @@ function AboutPage() {
       As a Catholic, I look at these topics through that lens.
       But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
       And modern theologians have lost the plot.
-      Maybe together we can figure it out.
+      Maybe together we can find answers.
     </p>
 
     <p>
