@@ -88,6 +88,8 @@ function Html(attrs: { title: string, children: any }) {
 function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
 
+    <h1>Chicago Sign Guy</h1>
+
     <p>
       Hi, I'm <a href="/about.html">Steven</a>.
       You may know me from making funny signs or doing public surveys in Chicago.
@@ -103,6 +105,7 @@ function HomePage(blogs: Blog[]) {
       <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
     </p>
 
+    <h2>All articles</h2>
     <AllArticles blogs={blogs} />
 
   </Html>
@@ -110,6 +113,8 @@ function HomePage(blogs: Blog[]) {
 
 function AboutPage() {
   return <Html title="About me">
+
+    <h1>About me</h1>
 
     <p>
       <img src="/img/me.jpg" /><br />
@@ -171,7 +176,6 @@ function AboutPage() {
 
 function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
   return <>
-    <h2>All articles</h2>
     <ul style='padding: 0; list-style-type: none'>
       {data.blogs.map(blog => <>
         <li class={data.blog == blog ? 'currentblog' : ''}>
@@ -184,6 +188,7 @@ function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
 
 function AllArticlesPage(blogs: Blog[]) {
   return <Html title="All Articles">
+    <h1>All articles</h1>
     <AllArticles blogs={blogs} />
   </Html>
 }
@@ -197,8 +202,8 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
       <p>{blog.html}</p>
     </article>
 
+    <h2>Leave a comment</h2>
     <aside>
-      <h2>Leave a comment</h2>
       <p>
         To share your thoughts,
         come find me in Chicago
@@ -214,6 +219,7 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
       </p>
     </aside>
 
+    <h2>All articles</h2>
     <AllArticles blogs={blogs} blog={blog} />
 
   </Html>
