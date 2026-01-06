@@ -76,6 +76,7 @@ function Html(attrs: { title: string, children: any }) {
         </header>
 
         <main>
+          <h1>{attrs.title}</h1>
           {attrs.children}
         </main>
 
@@ -88,8 +89,6 @@ function Html(attrs: { title: string, children: any }) {
 
 function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
-
-    <h1>Chicago Sign Guy</h1>
 
     <p>
       Hi, I'm <a href="/about.html">Steven</a>.
@@ -127,8 +126,6 @@ function HomePage(blogs: Blog[]) {
 
 function AboutPage() {
   return <Html title="About me">
-
-    <h1>About me</h1>
 
     <p>
       <img src="/img/me.jpg" /><br />
@@ -189,9 +186,8 @@ function AboutPage() {
 }
 
 function PlaylistPage() {
-  return <Html title="About me">
+  return <Html title="Playlist">
 
-    <h1>About me</h1>
     <iframe
       data-testid="embed-iframe"
       style="border-radius:12px"
@@ -220,7 +216,6 @@ function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
 
 function AllArticlesPage(blogs: Blog[]) {
   return <Html title="All Articles">
-    <h1>All articles</h1>
     <AllArticles blogs={blogs} />
   </Html>
 }
@@ -229,7 +224,6 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
   return <Html title={blog.title}>
 
     <article>
-      <h1>{blog.title}</h1>
       <p><img src={blog.image} /></p>
       <p>{blog.html}</p>
     </article>
