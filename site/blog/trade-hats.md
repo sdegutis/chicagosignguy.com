@@ -2,6 +2,7 @@
 title: Trade hats?
 image: /img/tradehats1.jpg
 date: 2025-12-29
+list: Experiments
 ---
 
 Yesterday was way too rainy to do a sign, so I waited for someone to come by for a conversation, a very uneventful day. So instead, I'll post about last week, when I did a "trade hats" sign.

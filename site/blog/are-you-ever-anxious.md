@@ -2,6 +2,7 @@
 title: Are you ever anxious?
 image: /img/areyoueveranxious.jpg
 date: 2026-01-04
+list: Surveys
 ---
 
 The results

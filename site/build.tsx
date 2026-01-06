@@ -8,6 +8,7 @@ export interface Blog {
   title: string
   image: string
   html: string
+  list: string
   date: Date
 }
 
@@ -22,11 +23,11 @@ export function processSite(tree: FileTree) {
   pipeline.with('\.md$').do(file => {
     const text = file.content.toString('utf8')
     const { attributes, body } = fm(text)
-    const { title, image, date: dateObj } = attributes as Record<string, any>
+    const { title, image, date: dateObj, list } = attributes as Record<string, any>
     const html = md.render(body)
     const date = dateObj as Date
     const path = file.path.replace('.md', '.html')
-    blogs.push({ path, title, image, html, date })
+    blogs.push({ path, title, image, html, date, list })
   })
   blogs.sort((a, b) => -(b.date < a.date))
 
@@ -206,14 +207,24 @@ function PlaylistPage() {
 }
 
 function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
+
+  const lists = Object.entries(Object.groupBy(data.blogs, blog => blog.list))
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .reverse()
+
   return <>
-    <ul style='padding: 0; list-style-type: none'>
-      {data.blogs.map(blog => <>
-        <li class={data.blog == blog ? 'currentblog' : ''}>
-          {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
-        </li>
-      </>)}
-    </ul>
+
+    {lists.map(([title, blogs]) => <>
+      <h3>{title}</h3>
+      <ul style='padding: 0; list-style-type: none'>
+        {blogs!.map(blog => <>
+          <li class={data.blog == blog ? 'currentblog' : ''}>
+            {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
+          </li>
+        </>)}
+      </ul>
+    </>)}
+
   </>
 }
 

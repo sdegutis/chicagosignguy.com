@@ -2,6 +2,7 @@
 title: Are soul mates real?
 image: /img/aresoulmatesreal.jpg
 date: 2025-12-22
+list: Surveys
 ---
 
 Today's question was whether soul mates are a real thing. This time, I wrote down people's conversational answers shortly afterwards, by taking notes on my phone. So there's more of them, and they're more accurate since they were fresh in my memory.
