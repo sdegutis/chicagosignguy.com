@@ -40,6 +40,7 @@ export function processSite(tree: FileTree) {
 
   pipeline.add('/index.html', HomePage(blogs))
   pipeline.add('/about.html', AboutPage())
+  pipeline.add('/playlist.html', PlaylistPage())
   pipeline.add('/articles.html', AllArticlesPage(blogs))
 
   return pipeline.results()
@@ -69,7 +70,7 @@ function Html(attrs: { title: string, children: any }) {
               <li><a href="/">ChicagoSignGuy.com</a></li>
               <li><a href='/about.html'>About</a></li>
               <li><a href='/articles.html'>Articles</a></li>
-              <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Playlist</a></li>
+              <li><a href='/playlist.html'>Playlist</a></li>
             </ul>
           </nav>
         </header>
@@ -183,6 +184,24 @@ function AboutPage() {
 
     <p>
     </p>
+
+  </Html>
+}
+
+function PlaylistPage() {
+  return <Html title="About me">
+
+    <h1>About me</h1>
+    <iframe
+      data-testid="embed-iframe"
+      style="border-radius:12px"
+      src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
+      width="100%"
+      height="700"
+      frameborder="0"
+      allowfullscreen
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy" />
 
   </Html>
 }
