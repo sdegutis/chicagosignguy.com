@@ -57,6 +57,7 @@ header {
 header, footer {
   font-family: "Mako", sans-serif;
   font-optical-sizing: auto;
+  text-decoration: overline;
 }
 
 nav ul {
