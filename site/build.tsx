@@ -134,9 +134,15 @@ function AboutPage() {
     </p>
 
     <p>
-      I choose topics I'm trying to understand better about myself.
+      I choose topics I'm trying to understand better about myself, and which seem to be common conundrums.
       Love, despair, hope, anxiety, happiness, trauma, destiny.
-      Maybe together we can figure it all out.
+    </p>
+
+    <p>
+      As a Catholic, I look at these topics through that lens.
+      But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
+      And modern theologians have lost the plot.
+      Maybe together we can figure it out.
     </p>
 
     <p>
