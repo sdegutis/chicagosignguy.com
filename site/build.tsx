@@ -100,7 +100,7 @@ function HomePage(blogs: Blog[]) {
 
 function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
   return <>
-    <h2>All Articles</h2>
+    <h2>All articles</h2>
     <ul style='padding: 0; list-style-type: none'>
       {data.blogs.map(blog => <>
         <li class={data.blog == blog ? 'currentblog' : ''}>
@@ -119,9 +119,14 @@ function AllArticlesPage(blogs: Blog[]) {
 
 function BlogPage(blog: Blog, blogs: Blog[]) {
   return <Html title={blog.title}>
+
+    <article>
     <h1>{blog.title}</h1>
     <p><img src={blog.image} /></p>
     <p>{blog.html}</p>
+    </article>
+
+    <aside>
     <h2>Leave a comment</h2>
     <p>
       To leave a comment,
@@ -136,6 +141,9 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
       which is the group comment period,
       and state your comment while others are present.
     </p>
+    </aside>
+
     <AllArticles blogs={blogs} blog={blog} />
+
   </Html>
 }

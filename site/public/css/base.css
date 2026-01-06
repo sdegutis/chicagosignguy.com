@@ -65,6 +65,11 @@ nav ul {
   list-style-type: none;
 }
 
+aside {
+  padding-left: 1em;
+  border-left: 2px solid var(--h);
+}
+
 footer {
   padding-top: 1em;
   font-size: 75%;
