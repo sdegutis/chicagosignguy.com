@@ -188,7 +188,7 @@ function AboutPage() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
-    <p>These are some songs I really like lately. They seem to tell a story, which was not intentional.</p>
+    <p>These are some songs I really like lately. They seem to tell the story of my life, which I didn't intend.</p>
     <p>The playlist image is "Death and Conflagration" by Adam Chmielowski, c. 1890</p>
 
     <iframe
