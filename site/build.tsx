@@ -108,6 +108,19 @@ function HomePage(blogs: Blog[]) {
     <h2>All articles</h2>
     <AllArticles blogs={blogs} />
 
+    <h2>Upcoming book</h2>
+    <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
+    <p>
+      I'm starting to write a book based on the surveys, the results and discussions they've led to,
+      and my own thoughts and wonderings about these topics.
+    </p>
+    <p>
+      It's called "What is love?"
+      and I plan to release it before Thanksgiving 2026, so it can be a good Christmas gift.
+      If there's enough interest, I might offer a preorder,
+      which will help fund the time it takes me to write it.
+    </p>
+
   </Html>
 }
 
