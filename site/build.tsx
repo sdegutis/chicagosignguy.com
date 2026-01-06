@@ -196,7 +196,7 @@ function PlaylistPage() {
       style="border-radius:12px"
       src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
       width="100%"
-      height="700"
+      height="500"
       frameborder="0"
       allowfullscreen
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
