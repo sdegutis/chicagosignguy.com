@@ -48,7 +48,6 @@ header {
   background-color: var(--b);
   padding: 7px 0;
   border-bottom: 1px solid currentColor;
-  margin-top: 0 !important;
 }
 
 header, footer {
@@ -82,10 +81,10 @@ main li {
   margin: .25em 0;
 }
 
-body > * {
+body {
   max-width: 30rem;
   width: 90%;
-  margin: 1em auto;
+  margin: 0 auto 3em;
 }
 
 img {
