@@ -89,7 +89,7 @@ function HomePage(blogs: Blog[]) {
   return <Html title="Chicago Sign Guy">
 
     <p>
-      Hi, I'm Steven.
+      Hi, I'm <a href="/about.html">Steven</a>.
       Je suis un homme sans importance,
       et je ne parle pas Français.
     </p>
@@ -108,17 +108,53 @@ function HomePage(blogs: Blog[]) {
 function AboutPage() {
   return <Html title="About me">
 
-    <p><img src="/img/me.jpg" /></p>
+    <p>
+      <img src="/img/me.jpg" /><br />
+      <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
+
+    </p>
 
     <p>
       My name is Steven.
       I'm a successful software engineer and best selling author.
+      But I feel deeply unfulfilled.
+      I think I'm meant for more than making banks richer.
     </p>
 
     <p>
-      On Sundays, I do public surveys in Chicago,
-      on the corner of State and Randolph, from Noon to 6pm.
+      But I don't know what my purpose is, or how I can help anyone.
+      I don't know what God wants from me, and he won't tell me.
+      So I'm trying to figure it out my own way.
+    </p>
+
+    <p>
+      That's why I do public surveys in Chicago on Sundays,
+      on the corner of State and Randolph, from Noon to 6.
       This year, I plan to publish a book of my experiences.
+    </p>
+
+    <p>
+      I choose topics I'm trying to understand better about myself.
+      Love, despair, hope, anxiety, happiness, trauma, destiny.
+      Maybe together we can figure it all out.
+    </p>
+
+    <p>
+      A secondary and unlikely goal is to make friends.
+      But I've never found anyone that I really click with.
+      People find me fun, but I find that same "fun" boring.
+      I just can't imagine who I could ever possibly vibe with.
+    </p>
+
+    <p>
+      A tertiary and extremely unrealistic goal is to fall in love.
+      Some day I'd like to know what it feels like,
+      and not just to be used for my body or wallet.
+      But I've never met anyone with the same dream,
+      someone who's willing to go on $0 dates and be 100% celibate and sober. Oh well.
+    </p>
+
+    <p>
     </p>
 
   </Html>
