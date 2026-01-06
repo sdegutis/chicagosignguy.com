@@ -64,9 +64,9 @@ function Html(attrs: { title: string, children: any }) {
       <body>
 
         <header>
-          <a href="/">ChicagoSignGuy.com</a>
           <nav>
             <ul>
+              <li><a href="/">ChicagoSignGuy.com</a></li>
               <li><a href='/about.html'>About</a></li>
               <li><a href='/articles.html'>Articles</a></li>
               <li><a href='https://open.spotify.com/playlist/2Lf21iQ0NprqPAFL7XkGCp?si=89d2636cc53b443d'>Playlist</a></li>
