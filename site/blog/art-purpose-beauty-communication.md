@@ -84,43 +84,53 @@ As an aside, some of Adam Chmielowski's art is quite dark and hauntingly beautif
 Still frames
 ------------
 
-These stills are either the most beautiful or the most representative of the tone and style of the movie that I could find and screenshot. Enjoy!
+These stills are the most beautiful and representative of the tone and style of the movie that I could find and screenshot. Enjoy!
 
-![](/img/moviestills/Screenshot_2025-12-19_123000.png)
-![](/img/moviestills/Screenshot_2025-12-19_123041.png)
-![](/img/moviestills/Screenshot_2025-12-19_123200.png)
-![](/img/moviestills/Screenshot_2025-12-19_123326.png)
-![](/img/moviestills/Screenshot_2025-12-19_123424.png)
-![](/img/moviestills/Screenshot_2025-12-19_123432.png)
-![](/img/moviestills/Screenshot_2025-12-19_123525.png)
-![](/img/moviestills/Screenshot_2025-12-19_124030.png)
-![](/img/moviestills/Screenshot_2025-12-19_124127.png)
-![](/img/moviestills/Screenshot_2025-12-19_124137.png)
-![](/img/moviestills/Screenshot_2025-12-19_124316.png)
-![](/img/moviestills/Screenshot_2025-12-19_124421.png)
-![](/img/moviestills/Screenshot_2025-12-19_124441.png)
-![](/img/moviestills/Screenshot_2025-12-19_124536.png)
-![](/img/moviestills/Screenshot_2025-12-19_124630.png)
-![](/img/moviestills/Screenshot_2025-12-19_124646.png)
-![](/img/moviestills/Screenshot_2025-12-19_124754.png)
-![](/img/moviestills/Screenshot_2025-12-19_124918.png)
-![](/img/moviestills/Screenshot_2025-12-19_125305.png)
-![](/img/moviestills/Screenshot_2025-12-19_125317.png)
-![](/img/moviestills/Screenshot_2025-12-19_132133.png)
-![](/img/moviestills/Screenshot_2025-12-19_132210.png)
-![](/img/moviestills/Screenshot_2025-12-19_132311.png)
-![](/img/moviestills/Screenshot_2025-12-19_132353.png)
-![](/img/moviestills/Screenshot_2025-12-19_132458.png)
-![](/img/moviestills/Screenshot_2025-12-19_132519.png)
-![](/img/moviestills/Screenshot_2025-12-19_132544.png)
-![](/img/moviestills/Screenshot_2025-12-19_132617.png)
-![](/img/moviestills/Screenshot_2025-12-19_132632.png)
-![](/img/moviestills/Screenshot_2025-12-19_132821.png)
-![](/img/moviestills/Screenshot_2025-12-19_150724.png)
-![](/img/moviestills/Screenshot_2025-12-19_150735.png)
-![](/img/moviestills/Screenshot_2025-12-20_054132.png)
-![](/img/moviestills/Screenshot_2025-12-20_054429.png)
-![](/img/moviestills/Screenshot_2025-12-20_054535.png)
-![](/img/moviestills/Screenshot_2025-12-20_054602.png)
-![](/img/moviestills/Screenshot_2025-12-20_054626.png)
-![](/img/moviestills/Screenshot_2025-12-20_054743.png)
+<!--
+19_123326 ![](../public/img/moviestills/Screenshot_2025-12-19_123326.png)
+19_123432 ![](../public/img/moviestills/Screenshot_2025-12-19_123432.png)
+19_124030 ![](../public/img/moviestills/Screenshot_2025-12-19_124030.png)
+19_124137 ![](../public/img/moviestills/Screenshot_2025-12-19_124137.png)
+19_124316 ![](../public/img/moviestills/Screenshot_2025-12-19_124316.png)
+19_124421 ![](../public/img/moviestills/Screenshot_2025-12-19_124421.png)
+19_124441 ![](../public/img/moviestills/Screenshot_2025-12-19_124441.png)
+19_124646 ![](../public/img/moviestills/Screenshot_2025-12-19_124646.png)
+19_124918 ![](../public/img/moviestills/Screenshot_2025-12-19_124918.png)
+19_125317 ![](../public/img/moviestills/Screenshot_2025-12-19_125317.png)
+19_132133 ![](../public/img/moviestills/Screenshot_2025-12-19_132133.png)
+19_132210 ![](../public/img/moviestills/Screenshot_2025-12-19_132210.png)
+19_132353 ![](../public/img/moviestills/Screenshot_2025-12-19_132353.png)
+19_132519 ![](../public/img/moviestills/Screenshot_2025-12-19_132519.png)
+19_132544 ![](../public/img/moviestills/Screenshot_2025-12-19_132544.png)
+19_150724 ![](../public/img/moviestills/Screenshot_2025-12-19_150724.png)
+20_054626 ![](../public/img/moviestills/Screenshot_2025-12-20_054626.png)
+20_054743 ![](../public/img/moviestills/Screenshot_2025-12-20_054743.png)
+19_150735 ![](../public/img/moviestills/Screenshot_2025-12-19_150735.png)
+19_132632 ![](../public/img/moviestills/Screenshot_2025-12-19_132632.png)
+-->
+
+<!--
+-->
+
+![](../public/img/moviestills/Screenshot_2025-12-19_123424.png)
+![](../public/img/moviestills/Screenshot_2025-12-19_123000.png)
+![](../public/img/moviestills/Screenshot_2025-12-19_124536.png)
+![](../public/img/moviestills/Screenshot_2025-12-20_054535.png)
+
+<details>
+<summary>More stills</summary>
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123525.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124630.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123041.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123200.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-20_054602.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132617.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124754.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132311.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124127.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_125305.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132821.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-20_054132.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132458.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-20_054429.png">
+</details>
