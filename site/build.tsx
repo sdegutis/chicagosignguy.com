@@ -183,7 +183,7 @@ function AboutPage() {
         Maybe together we can find answers.
       </p>
 
-      <p>
+      {/* <p>
         A secondary and unlikely goal is to make friends.
         But I've never found anyone that I really click with.
         People find me fun, but I find that same "fun" boring.
@@ -196,7 +196,7 @@ function AboutPage() {
         and not just to be used for my body or wallet.
         But I've never met anyone with the same dream,
         someone who's willing to go on $0 dates and be 100% celibate and sober. Oh well.
-      </p>
+      </p> */}
 
       <p>
         I wish I knew French. It's so pretty. Maybe one day I will have time to learn it. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682">Mais n'importe quoi.</a>)
