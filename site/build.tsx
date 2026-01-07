@@ -114,10 +114,12 @@ function HomePage(blogs: Blogs) {
       (Je ne parle pas français; je trouve simplement que c'est une belle langue.)
     </p>
 
-    <p>
+    <figure>
       <img src="/img/me.jpg" />
-      <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
-    </p>
+      <figcaption>
+        A portrait that a talented young woman drew of me in a coffee shop.
+      </figcaption>
+    </figure>
 
     <h2>All articles</h2>
     <AllArticles blogs={blogs} />
@@ -142,10 +144,13 @@ function AboutPage() {
   return <Html title="About me">
 
     <article>
-      <p>
-        <img src="/img/me.jpg" /><br />
-        <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
-      </p>
+
+      <figure>
+        <img src="/img/me.jpg" />
+        <figcaption>
+          A portrait that a talented young woman drew of me in a coffee shop.
+        </figcaption>
+      </figure>
 
       <p>
         My name is Steven.
@@ -251,7 +256,8 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       <p>
         <img src={blog.image} />
         <br />
-        <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small></p>
+        <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
+      </p>
       <p>{blog.html}</p>
     </article>
 
