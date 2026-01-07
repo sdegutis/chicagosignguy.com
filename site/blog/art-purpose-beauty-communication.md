@@ -111,7 +111,7 @@ These stills are the most beautiful and representative of the tone and style of 
 
 <details open>
 <summary>
-Show or hide still frames
+Still frames
 </summary>
 
 <img src="../public/img/moviestills/Screenshot_2025-12-19_123424.png">
