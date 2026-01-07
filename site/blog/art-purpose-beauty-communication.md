@@ -116,7 +116,7 @@ These stills are the most beautiful and representative of the tone and style of 
 ![](../public/img/moviestills/Screenshot_2025-12-19_123000.png)
 ![](../public/img/moviestills/Screenshot_2025-12-19_124536.png)
 ![](../public/img/moviestills/Screenshot_2025-12-20_054535.png)
-
+<!-- 
 <details>
 <summary>More stills</summary>
 <img src="../public/img/moviestills/Screenshot_2025-12-19_123525.png">
@@ -133,4 +133,4 @@ These stills are the most beautiful and representative of the tone and style of 
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054132.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_132458.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054429.png">
-</details>
+</details> -->
