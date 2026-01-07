@@ -3,7 +3,7 @@ import { FileTree } from "immaculata/filetree.js"
 import { Pipeline } from 'immaculata/pipeline.js'
 import MarkdownIt from 'markdown-it'
 
-export interface Blog {
+interface Blog {
   path: string
   title: string
   image: string
@@ -11,6 +11,8 @@ export interface Blog {
   list: string
   date: Date
 }
+
+type Blogs = [string, Blog[]][]
 
 const md = new MarkdownIt({ html: true })
 const fm = FrontMatter.default as unknown as typeof FrontMatter['default']['default']
@@ -31,18 +33,29 @@ export function processSite(tree: FileTree) {
   })
   blogs.sort((a, b) => -(b.date < a.date))
 
+  const order = [
+    'Surveys',
+    'Jokes',
+    'Experiments',
+    'My Thoughts',
+  ]
+
+  const posts = Object.entries(Object.groupBy(blogs, blog => blog.list))
+    .sort((a, b) => order.indexOf(b[0]) - order.indexOf(a[0]))
+    .reverse() as Blogs
+
   for (const blog of blogs) {
-    pipeline.add(blog.path, BlogPage(blog, blogs))
+    pipeline.add(blog.path, BlogPage(blog, posts))
   }
 
   pipeline.with('^/public/').do(f => {
     pipeline.add(f.path.slice('/public'.length), f.content)
   })
 
-  pipeline.add('/index.html', HomePage(blogs))
+  pipeline.add('/index.html', HomePage(posts))
   pipeline.add('/about.html', AboutPage())
   pipeline.add('/playlist.html', PlaylistPage())
-  pipeline.add('/articles.html', AllArticlesPage(blogs))
+  pipeline.add('/articles.html', AllArticlesPage(posts))
 
   return pipeline.results()
 }
@@ -88,7 +101,7 @@ function Html(attrs: { title: string, children: any }) {
   </>
 }
 
-function HomePage(blogs: Blog[]) {
+function HomePage(blogs: Blogs) {
   return <Html title="Chicago Sign Guy">
 
     <p>
@@ -207,37 +220,29 @@ function PlaylistPage() {
   </Html>
 }
 
-function AllArticles(data: { blogs: Blog[], blog?: Blog, tag?: string }) {
-
-  const lists = Object.entries(Object.groupBy(data.blogs, blog => blog.list))
-    .sort((a, b) => a[0].localeCompare(b[0]))
-    .reverse()
-
+function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
   const H = data.tag ?? 'h3'
-
   return <>
-
-    {lists.map(([title, blogs]) => <>
+    {data.blogs.map(([title, blogs]) => <>
       <H>{title}</H>
       <ul style='padding: 0; list-style-type: none'>
-        {blogs!.map(blog => <>
+        {blogs.map(blog => <>
           <li class={data.blog == blog ? 'currentblog' : ''}>
             {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
           </li>
         </>)}
       </ul>
     </>)}
-
   </>
 }
 
-function AllArticlesPage(blogs: Blog[]) {
+function AllArticlesPage(blogs: Blogs) {
   return <Html title="All Articles">
     <AllArticles blogs={blogs} tag="h2" />
   </Html>
 }
 
-function BlogPage(blog: Blog, blogs: Blog[]) {
+function BlogPage(blog: Blog, blogs: Blogs) {
   return <Html title={blog.title}>
 
     <article>
