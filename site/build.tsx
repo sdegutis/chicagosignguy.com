@@ -242,7 +242,10 @@ function BlogPage(blog: Blog, blogs: Blog[]) {
   return <Html title={blog.title}>
 
     <article>
-      <p><img src={blog.image} /></p>
+      <p>
+        <img src={blog.image} />
+        <br />
+        <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small></p>
       <p>{blog.html}</p>
     </article>
 
