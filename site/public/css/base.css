@@ -67,7 +67,8 @@ nav ul > :first-child {
   flex: 1 0 auto;
 }
 
-aside {
+aside, blockquote {
+  margin-left: 0;
   padding-left: 1em;
   border-left: 2px solid var(--h);
 }
