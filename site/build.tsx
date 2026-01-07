@@ -208,16 +208,18 @@ function PlaylistPage() {
   </Html>
 }
 
-function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
+function AllArticles(data: { blogs: Blog[], blog?: Blog, tag?: string }) {
 
   const lists = Object.entries(Object.groupBy(data.blogs, blog => blog.list))
     .sort((a, b) => a[0].localeCompare(b[0]))
     .reverse()
 
+  const H = data.tag ?? 'h3'
+
   return <>
 
     {lists.map(([title, blogs]) => <>
-      <h3>{title}</h3>
+      <H>{title}</H>
       <ul style='padding: 0; list-style-type: none'>
         {blogs!.map(blog => <>
           <li class={data.blog == blog ? 'currentblog' : ''}>
@@ -232,7 +234,7 @@ function AllArticles(data: { blogs: Blog[], blog?: Blog }) {
 
 function AllArticlesPage(blogs: Blog[]) {
   return <Html title="All Articles">
-    <AllArticles blogs={blogs} />
+    <AllArticles blogs={blogs} tag="h2" />
   </Html>
 }
 
