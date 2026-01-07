@@ -12,7 +12,7 @@ export interface Blog {
   date: Date
 }
 
-const md = new MarkdownIt({})
+const md = new MarkdownIt({ html: true })
 const fm = FrontMatter.default as unknown as typeof FrontMatter['default']['default']
 
 export function processSite(tree: FileTree) {
