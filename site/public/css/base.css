@@ -50,6 +50,7 @@ header {
   height: 3em;
   align-content: center;
   box-shadow: 0px 1px 2px 3px var(--b);
+  z-index: 1;
 }
 
 header, footer {
@@ -69,7 +70,7 @@ nav ul > :first-child {
   flex: 1 0 auto;
 }
 
-aside, blockquote {
+aside, blockquote, details {
   margin-left: 0;
   padding-left: 1em;
   border-left: 2px solid var(--h);
@@ -89,6 +90,14 @@ body {
   max-width: 30rem;
   width: 90%;
   margin: 0 auto 3em;
+}
+
+summary {
+  position: sticky;
+  top: 3em;
+  padding: 1em 0;
+  background-color: var(--b);
+  box-shadow: 0px 1px 2px 3px var(--b);
 }
 
 img {

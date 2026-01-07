@@ -74,6 +74,18 @@ To the artist (except Max), this would mean the question of how to inspire beaut
 
 Yet the question still remains of what to do to help the poor. Without spoiling too much, the movie proposes that everyone should help the poor in their material needs, within our own means.
 
+<details>
+<summary>
+Still frames
+</summary>
+
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123424.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123000.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124536.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-20_054535.png">
+
+</details>
+
 Death and Conflagration
 -----------------------
 
@@ -112,10 +124,10 @@ These stills are the most beautiful and representative of the tone and style of 
 <!--
 -->
 
-![](../public/img/moviestills/Screenshot_2025-12-19_123424.png)
+<!-- ![](../public/img/moviestills/Screenshot_2025-12-19_123424.png)
 ![](../public/img/moviestills/Screenshot_2025-12-19_123000.png)
 ![](../public/img/moviestills/Screenshot_2025-12-19_124536.png)
-![](../public/img/moviestills/Screenshot_2025-12-20_054535.png)
+![](../public/img/moviestills/Screenshot_2025-12-20_054535.png) -->
 <!-- 
 <details>
 <summary>More stills</summary>
