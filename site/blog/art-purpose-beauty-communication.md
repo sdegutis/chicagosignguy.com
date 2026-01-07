@@ -109,36 +109,33 @@ These stills are the most beautiful and representative of the tone and style of 
 19_132632 ![](../public/img/moviestills/Screenshot_2025-12-19_132632.png)
 -->
 
-<details>
+<details open>
 <summary>
-Still frames
+Show or hide still frames
 </summary>
 
 <img src="../public/img/moviestills/Screenshot_2025-12-19_123424.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_123000.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_124536.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054535.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124630.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123041.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124754.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_124127.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132821.png">
+<img src="../public/img/moviestills/Screenshot_2025-12-19_132311.png">
 
 </details>
 
-<!-- ![](../public/img/moviestills/Screenshot_2025-12-19_123424.png)
-![](../public/img/moviestills/Screenshot_2025-12-19_123000.png)
-![](../public/img/moviestills/Screenshot_2025-12-19_124536.png)
-![](../public/img/moviestills/Screenshot_2025-12-20_054535.png) -->
 <!-- 
 <details>
 <summary>More stills</summary>
 <img src="../public/img/moviestills/Screenshot_2025-12-19_123525.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_124630.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_123041.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_123200.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054602.png">
+
+<img src="../public/img/moviestills/Screenshot_2025-12-19_123200.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_132617.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_124754.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_132311.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_124127.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_125305.png">
-<img src="../public/img/moviestills/Screenshot_2025-12-19_132821.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054132.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-19_132458.png">
 <img src="../public/img/moviestills/Screenshot_2025-12-20_054429.png">
