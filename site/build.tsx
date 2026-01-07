@@ -141,60 +141,62 @@ function HomePage(blogs: Blogs) {
 function AboutPage() {
   return <Html title="About me">
 
-    <p>
-      <img src="/img/me.jpg" /><br />
-      <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
-    </p>
+    <article>
+      <p>
+        <img src="/img/me.jpg" /><br />
+        <small style='font-style: italic'>A portrait that a talented young woman drew of me in a coffee shop.</small>
+      </p>
 
-    <p>
-      My name is Steven.
-      I'm a successful software engineer and best selling author.
-      But I feel deeply unfulfilled.
-      I think I'm meant for more than making banks richer.
-    </p>
+      <p>
+        My name is Steven.
+        I'm a successful software engineer and best selling author.
+        But I feel deeply unfulfilled.
+        I think I'm meant for more than making banks richer.
+      </p>
 
-    <p>
-      But I don't know what my purpose is, or how I can help anyone.
-      I don't know what God wants from me, and he won't tell me.
-      So I'm trying to figure it out my own way.
-    </p>
+      <p>
+        But I don't know what my purpose is, or how I can help anyone.
+        I don't know what God wants from me, and he won't tell me.
+        So I'm trying to figure it out my own way.
+      </p>
 
-    <p>
-      That's why I do public surveys in Chicago on Sundays,
-      on the corner of State and Randolph, from Noon to 6.
-      This year, I plan to publish a book of my experiences.
-    </p>
+      <p>
+        That's why I do public surveys in Chicago on Sundays,
+        on the corner of State and Randolph, from Noon to 6.
+        This year, I plan to publish a book of my experiences.
+      </p>
 
-    <p>
-      I choose topics I'm trying to understand better about myself, and which seem to be common conundrums.
-      Love, despair, hope, anxiety, happiness, trauma, destiny.
-    </p>
+      <p>
+        I choose topics I'm trying to understand better about myself, and which seem to be common conundrums.
+        Love, despair, hope, anxiety, happiness, trauma, destiny.
+      </p>
 
-    <p>
-      As a Catholic, I look at these topics through that lens.
-      But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
-      And modern theologians have lost the plot.
-      Maybe together we can find answers.
-    </p>
+      <p>
+        As a Catholic, I look at these topics through that lens.
+        But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
+        And modern theologians have lost the plot.
+        Maybe together we can find answers.
+      </p>
 
-    <p>
-      A secondary and unlikely goal is to make friends.
-      But I've never found anyone that I really click with.
-      People find me fun, but I find that same "fun" boring.
-      I just can't imagine who I could ever possibly vibe with.
-    </p>
+      <p>
+        A secondary and unlikely goal is to make friends.
+        But I've never found anyone that I really click with.
+        People find me fun, but I find that same "fun" boring.
+        I just can't imagine who I could ever possibly vibe with.
+      </p>
 
-    <p>
-      A tertiary and extremely unrealistic goal is to fall in love.
-      Some day I'd like to know what it feels like,
-      and not just to be used for my body or wallet.
-      But I've never met anyone with the same dream,
-      someone who's willing to go on $0 dates and be 100% celibate and sober. Oh well.
-    </p>
+      <p>
+        A tertiary and extremely unrealistic goal is to fall in love.
+        Some day I'd like to know what it feels like,
+        and not just to be used for my body or wallet.
+        But I've never met anyone with the same dream,
+        someone who's willing to go on $0 dates and be 100% celibate and sober. Oh well.
+      </p>
 
-    <p>
-      I wish I knew French. It's so pretty. Maybe one day I will have time to learn it. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682">Mais n'importe quoi.</a>)
-    </p>
+      <p>
+        I wish I knew French. It's so pretty. Maybe one day I will have time to learn it. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682">Mais n'importe quoi.</a>)
+      </p>
+    </article>
 
   </Html>
 }
