@@ -23,9 +23,9 @@ export function processSite(tree: FileTree) {
   pipeline.with('\.md$').do(file => {
     const text = file.content.toString('utf8')
     const { attributes, body } = fm(text)
-    const { title, image, date: dateObj, list } = attributes as Record<string, any>
+    const { title, image, date: dateObj, list } = attributes as Record<string, string>
     const html = md.render(body)
-    const date = new Date((dateObj as Date).getTime() + 1000 * 60 * 60 * 12)
+    const date = new Date(+dateObj + 1000 * 60 * 60 * 12)
     const path = file.path.replace('.md', '.html')
     blogs.push({ path, title, image, html, date, list })
   })
