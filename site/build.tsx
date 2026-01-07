@@ -209,9 +209,12 @@ function AboutPage() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
-    <p>These are some songs I really like lately. They seem to tell the story of my life, which I didn't intend.</p>
-
-    <p>(I wish I could add <i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a></i> to this Spotify playlist.)</p>
+    <article>
+      <p>
+        This Spotify playlist has some songs I really like lately. They seem to tell the story of my life, unintentionally.
+        (I wish I could add <i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a></i> to it.)
+      </p>
+    </article>
 
     <iframe
       data-testid="embed-iframe"
