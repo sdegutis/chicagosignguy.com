@@ -79,7 +79,7 @@ aside, blockquote, details>:last-child {
 footer {
   padding-top: 1em;
   font-size: small;
-  opacity: 50%;
+  color: var(--h);
   text-decoration: overline;
 }
 
