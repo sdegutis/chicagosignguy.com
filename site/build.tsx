@@ -180,7 +180,7 @@ function AboutPage() {
     </p>
 
     <p>
-      I wish I knew French. It's so pretty. Maybe I should learn it. (Mais n'importe quoi.)
+      I wish I knew French. It's so pretty. Maybe one day I will have time to learn it. (Mais n'importe quoi.)
     </p>
 
   </Html>
