@@ -1,7 +1,7 @@
 ---
 title: Have you ever been in love?
 image: /img/haveyoueverbeeninlove.jpg
-date: 2025-11-9
+date: 2025-11-09
 list: Surveys
 ---
 
