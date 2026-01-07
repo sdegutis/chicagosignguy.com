@@ -125,6 +125,16 @@ details summary h2 {
   margin-bottom: 0;
 }
 
+details summary h2::after {
+  float: right;
+  text-decoration: underline;
+  content: 'show';
+}
+
+details[open] summary h2::after {
+  content: 'hide';
+}
+
 article p {
   text-align: justify;
 }
