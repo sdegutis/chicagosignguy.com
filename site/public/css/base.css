@@ -119,3 +119,7 @@ details:not([open]) > summary::marker {
     font-variant: small-caps;
     content: "[show]";
 }
+
+article p {
+  text-align: justify;
+}
