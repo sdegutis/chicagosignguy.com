@@ -13,3 +13,8 @@ These were not your grandpa's snowballs,
 these babies do not crumble when you hold them or throw them.
 Worth every penny, in fact they're normally $1,000 each,
 but it was a holiday sale.
+
+<iframe
+  src='https://youtube.com/embed/So9Uyod1pfg'
+  style='border:none; width:100%; aspect-ratio: 9/16'
+></iframe>
