@@ -2,7 +2,7 @@
 title: Premium Snowballs, $1 each
 image: /img/premiumsnowballs.png
 date: 2026-01-07
-list: Experiments
+list: Jokes
 ---
 
 I made the highest quality snowballs,
