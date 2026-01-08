@@ -109,11 +109,6 @@ function HomePage(blogs: Blogs) {
       You may know me from making funny signs or doing public surveys in Chicago.
     </p>
 
-    <p>
-      Je suis un homme insignifiant.
-      (Je ne parle pas français; je trouve simplement que c'est une belle langue.)
-    </p>
-
     <figure>
       <img src="/img/me.jpg" />
       <figcaption>
@@ -155,29 +150,29 @@ function AboutPage() {
       <p>
         My name is Steven.
         I'm a successful software engineer and best selling author.
-        But I feel deeply unfulfilled.
+        But I feel deeply <b>unfulfilled</b>.
         I think I'm meant for more than making banks richer.
       </p>
 
       <p>
-        But I don't know what my purpose is, or how I can help anyone.
+        But I don't know what my <b>purpose</b> is, or how I can help anyone.
         I don't know what God wants from me, and he won't tell me.
         So I'm trying to figure it out my own way.
       </p>
 
       <p>
-        That's why I do public surveys in Chicago on Sundays,
+        That's why I do public <b>surveys</b> in Chicago on Sundays,
         on the corner of State and Randolph, from Noon to 6.
         This year, I plan to publish a book of my experiences.
       </p>
 
       <p>
-        I choose topics I'm trying to understand better about myself, and which seem to be common conundrums.
+        I choose topics I'm trying to <b>understand</b> better about myself, and which seem to be common conundrums.
         Love, despair, hope, anxiety, happiness, trauma, destiny.
       </p>
 
       <p>
-        As a Catholic, I look at these topics through that lens.
+        As a <b>Catholic</b>, I look at these topics through that lens.
         But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
         And modern theologians have lost the plot.
         Maybe together we can find answers.
@@ -199,16 +194,16 @@ function AboutPage() {
       </p> */}
 
       <p>
-        I made this website from scratch using custom software,
-        which I also used to create <a href="https://ImmaculataLibrary.com" target='_blank'>ImmaculataLibrary.com</a>.
+        Je suis un homme <b>insignifiant</b>, presque inutile, incapable d'aider qui que ce soit.
+        Je ne parle pas français, je trouve simplement que c'est une belle langue.
+        Mais j'aimerais trouver le temps de l'apprendre un jour. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>N'importe quoi!</a>)
       </p>
 
       <p>
-        I wish I knew French. It's so pretty. Maybe one day I will have time to learn it.
-        (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>Mais n'importe quoi.</a>)
+        If for some reason you want to know more about me as a person, see my <a href="/playlist.html">autobiography</a>,
+        as well as my two websites <a href="https://ImmaculataLibrary.com" target='_blank'>ImmaculataLibrary.com</a> and <a href="https://90s.dev">90s.dev</a>,
+        my two most beautiful creations.
       </p>
-
-      <p>Also see my <a href="/playlist.html">autobiography</a>.</p>
 
     </article>
 
