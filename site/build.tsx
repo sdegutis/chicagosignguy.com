@@ -271,7 +271,6 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
     <ul class='articles'>
       <li>Survey: How alone do you feel?</li>
       <li>Survey: How did you meet your friends?</li>
-      <li>Article: The role of pain in art and creation</li>
       <li>Article: Anxiety, confidence, fear, arrogance</li>
       <li>Article: Love, purpose, burnout, motivation</li>
       <li>Article: Masculinity, femininity, destiny, Eden</li>
