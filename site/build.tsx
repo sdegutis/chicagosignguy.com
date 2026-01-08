@@ -271,7 +271,6 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <li><span />Discussion: What is masculinity?</li>
       <li><span />Discussion: What is femininity?</li>
       <li><span />Discussion: How do you fall in love?</li>
-      <li><span />Discussion: Can romantic love be permanently celibate?</li>
     </ul>
   </>
 }
