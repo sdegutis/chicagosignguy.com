@@ -238,6 +238,8 @@ function PlaylistPage() {
 
     <h2>Bonus tracks</h2>
 
+    <p>(These are only available on YouTube unfortunately.)</p>
+
     <ul class='articles'>
       <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it rains</i></li>
       <li><i>the only good <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> live performance by radiohead</i></li>
