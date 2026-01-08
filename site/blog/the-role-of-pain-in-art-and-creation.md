@@ -56,6 +56,9 @@ It's almost as if those songs become part of my muscles.
 As I listen to the music, it enters me through my ears,
 flows down into my heart, pumps into my bloodstream,
 and through hypertrophy, becomes part of my muscles.
+The principles and morals and character of those songs,
+the hopes and dreams and aspirations they propose,
+get baked into your new muscles, becoming part of you.
 
 In general, this rule seems to apply to all things in life.
 The more we suffer, the more we grow. Nothing is free.
@@ -73,3 +76,20 @@ The only good live performance of Radiohead's song Creep
 is the one they performed on Conan's very first episode in 1993.
 In all other performances, by Radiohead or anyone else,
 the notes are there, but the beauty is more or less dimmed.
+
+As a Catholic, I do firmly believe there is a mystical connection.
+I am convinced that, in the spiritual world, pain is a currency.
+You can store up suffering, and use it to pay for things.
+It can be used to pay for a good number of things,
+for ourselves or for others, now or in the future.
+It can pay off spiritual debts incrued by injustices,
+or spiritual benefits undeserved and otherwise unearned.
+Jesus, Mary and Joseph did this by their whole lives.
+The Saints did this throughout their lives.
+
+If this is true, then it can be applied to all forms of art just as well.
+The pain you suffer throughout life is stored up in a treasury of sorts.
+Whatever endeavor you then apply yourself to, the pain is also applied to.
+The efficacy of the thing is magnified significantly.
+If it's art, then it's beauty, which you purchased by pain,
+is redistributed in full to all its viewers.
