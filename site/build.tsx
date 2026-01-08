@@ -215,7 +215,7 @@ function AboutPage() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
-    <p>These songs tell the chronological story of my life.</p>
+    <p>This playlist tells the story of my life, composed entirely of songs I find particularly beautiful.</p>
 
     <iframe
       data-testid="embed-iframe"
@@ -228,8 +228,10 @@ function PlaylistPage() {
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       loading="lazy" />
 
+    <h2>Bonus track</h2>
+
     <p>
-      Bonus track: <i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a>.</i>
+      <i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a>.</i>
     </p>
 
   </Html>
