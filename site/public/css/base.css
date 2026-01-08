@@ -101,7 +101,6 @@ body {
 .articles li {
   display: flex;
   justify-content: space-between;
-  flex-direction: row-reverse;
 }
 
 img {

@@ -233,13 +233,13 @@ function PlaylistPage() {
     <h2>Bonus tracks</h2>
 
     <ul class='articles'>
-      <li><span /><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it rains</i></li>
-      <li><span /><i>the only good <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> live performance by radiohead</i></li>
-      <li><span /><i>aaron lewis's acoustic cover of <a href="https://www.youtube.com/watch?v=EEaLxw3Gpp8">black</a> by pearl jam</i></li>
-      <li><span /><i>emotional cover of <a href='https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s'>exit music (for a film)</a> at a talent show</i></li>
-      <li><span /><i>hozier singing <a href='https://www.youtube.com/watch?v=1nnRC6jDOCI'>take me to church</a> in an nyc subway</i></li>
-      <li><span /><i>tool performing a better version of their song <a href='https://www.youtube.com/watch?v=EgDwkSlCwHw'>pushit</a></i></li>
-      <li><span /><i>unique version of <a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>King of glory, King of peace</a> in Mass</i></li>
+      <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it rains</i></li>
+      <li><i>the only good <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> live performance by radiohead</i></li>
+      <li><i>aaron lewis's acoustic cover of <a href="https://www.youtube.com/watch?v=EEaLxw3Gpp8">black</a> by pearl jam</i></li>
+      <li><i>emotional cover of <a href='https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s'>exit music (for a film)</a> at a talent show</i></li>
+      <li><i>hozier singing <a href='https://www.youtube.com/watch?v=1nnRC6jDOCI'>take me to church</a> in an nyc subway</i></li>
+      <li><i>tool performing a better version of their song <a href='https://www.youtube.com/watch?v=EgDwkSlCwHw'>pushit</a></i></li>
+      <li><i>unique version of <a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>King of glory, King of peace</a> in Mass</i></li>
     </ul>
 
   </Html>
@@ -253,32 +253,42 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <ul class='articles'>
         {blogs.map(blog => <>
           <li class={data.blog == blog ? 'currentblog' : ''}>
-            {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
+            <a href={blog.path}>{blog.title}</a> {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}
           </li>
         </>)}
       </ul>
     </>)}
     <H>Planned</H>
     <ul class='articles'>
-      <li><span />Survey: How alone do you feel?</li>
-      <li><span />Survey: How did you meet your friends?</li>
-      <li><span />Article: The role of pain in art and creation</li>
-      <li><span />Article: Anxiety, confidence, fear, arrogance</li>
-      <li><span />Article: Love, purpose, burnout, motivation</li>
-      <li><span />Article: Masculinity, femininity, destiny, Eden</li>
-      <li><span />Experiment: Live upvote/downvote in person</li>
-      <li><span />Experiment: Podcast episode with 100 cohosts</li>
-      <li><span />Experiment: Free 3 minute venting or trauma dumping</li>
-      <li><span />Experiment: Trade hats, second try</li>
-      <li><span />Discussion: What is masculinity?</li>
-      <li><span />Discussion: What is femininity?</li>
-      <li><span />Discussion: How do you fall in love?</li>
+      <li>Survey: How alone do you feel?</li>
+      <li>Survey: How did you meet your friends?</li>
+      <li>Article: The role of pain in art and creation</li>
+      <li>Article: Anxiety, confidence, fear, arrogance</li>
+      <li>Article: Love, purpose, burnout, motivation</li>
+      <li>Article: Masculinity, femininity, destiny, Eden</li>
+      <li>Experiment: Live upvote/downvote in person</li>
+      <li>Experiment: Podcast episode with 100 cohosts</li>
+      <li>Experiment: Free 3 minute venting or trauma dumping</li>
+      <li>Experiment: Trade hats, second try</li>
+      <li>Discussion: What is masculinity?</li>
+      <li>Discussion: What is femininity?</li>
+      <li>Discussion: How do you fall in love?</li>
     </ul>
   </>
 }
 
 function AllArticlesPage(blogs: Blogs) {
   return <Html title="All Articles">
+
+    <ul class='articles'>
+      <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it rains</i></li>
+      <li><i>the only good <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> live performance by radiohead</i></li>
+      <li><i>aaron lewis's acoustic cover of <a href="https://www.youtube.com/watch?v=EEaLxw3Gpp8">black</a> by pearl jam</i></li>
+      <li><i>emotional cover of <a href='https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s'>exit music (for a film)</a> at a talent show</i></li>
+      <li><i>hozier singing <a href='https://www.youtube.com/watch?v=1nnRC6jDOCI'>take me to church</a> in an nyc subway</i></li>
+      <li><i>tool performing a better version of their song <a href='https://www.youtube.com/watch?v=EgDwkSlCwHw'>pushit</a></i></li>
+      <li><i>unique version of <a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>King of glory, King of peace</a> in Mass</i></li>
+    </ul>
     <AllArticles blogs={blogs} tag="h2" />
   </Html>
 }
