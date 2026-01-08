@@ -35,9 +35,9 @@ export function processSite(tree: FileTree) {
 
   const order = [
     'Surveys',
+    'Thoughts',
     'Jokes',
     'Experiments',
-    'Thoughts',
   ]
 
   const posts = Object.entries(Object.groupBy(blogs, blog => blog.list))
