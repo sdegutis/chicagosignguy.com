@@ -238,6 +238,7 @@ function PlaylistPage() {
       <li><span /><i>aaron lewis's acoustic cover of <a href="https://www.youtube.com/watch?v=EEaLxw3Gpp8">black</a> by pearl jam</i></li>
       <li><span /><i>emotional cover of <a href='https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s'>exit music (for a film)</a> at a talent show</i></li>
       <li><span /><i>hozier singing <a href='https://www.youtube.com/watch?v=1nnRC6jDOCI'>take me to church</a> in an nyc subway</i></li>
+      <li><span /><i>tool performing a better version of their song <a href='https://www.youtube.com/watch?v=EgDwkSlCwHw'>pushit</a></i></li>
       <li><span /><i>unique version of <a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>King of glory, King of peace</a> in Mass</i></li>
     </ul>
 
