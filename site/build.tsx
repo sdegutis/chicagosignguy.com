@@ -200,7 +200,8 @@ function AboutPage() {
       <p>
         Je suis un homme <b>insignifiant</b>, presque inutile, incapable d'aider qui que ce soit.
         Je ne parle pas français, je trouve simplement que c'est une belle langue.
-        Mais j'aimerais trouver le temps de l'apprendre un jour. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>N'importe quoi!</a>)
+        Mais j'aimerais vraiment trouver le temps de l'apprendre un jour, peut-être.
+        (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>N'importe quoi!</a>)
       </p>
 
       <p>
