@@ -217,7 +217,13 @@ function AboutPage() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
-    <p>This playlist tells my life story, entirely through songs I find particularly beautiful and want to share with you.</p>
+    <p>
+      This playlist tells the story of my life,
+      made up entirely of songs
+      that I have loved throughout the years,
+      and still find particularly beautiful,
+      and want to share with you.
+    </p>
 
     <iframe
       data-testid="embed-iframe"
