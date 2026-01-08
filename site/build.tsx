@@ -230,10 +230,12 @@ function PlaylistPage() {
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       loading="lazy" />
 
-    <h2>Bonus track</h2>
+    <h2>Bonus tracks</h2>
 
     <ul>
-      <li><i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a></i></li>
+      <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it's raining</i></li>
+      <li><i>the best <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> performance by radiohead, being the only time it was really sung from the heart</i></li>
+      <li><i><a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>king of glory, king of peace</a>, but only as arranged and sung by this particular choir</i></li>
     </ul>
 
   </Html>
