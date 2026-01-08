@@ -2,7 +2,7 @@
 title: Why I avoid becoming famous
 image: /img/moviestills\Screenshot_2025-12-19_132632.png
 date: 2026-01-07
-list: My Thoughts
+list: Thoughts
 ---
 
 I very much do not want to become famous.
