@@ -1,6 +1,6 @@
 ---
 title: Art, beauty, purpose, communication
-image: /img/moviestills\Screenshot_2025-12-19_132632.png
+image: /img/moviestills\Screenshot_2025-12-20_054132.png
 date: 2025-12-19
 list: My Thoughts
 ---
