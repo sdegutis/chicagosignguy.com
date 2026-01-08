@@ -254,9 +254,10 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <li><span />Survey: How did you meet your friends?</li>
       <li><span />Article: Anxiety, confidence, fear, arrogance</li>
       <li><span />Article: Love, purpose, burnout, motivation</li>
-      <li><span />Experiment: Live upvote/downvote</li>
+      <li><span />Experiment: Live upvote/downvote in person</li>
       <li><span />Experiment: Podcast episode with 100 cohosts</li>
       <li><span />Experiment: Free 3 minute venting or trauma dumping</li>
+      <li><span />Experiment: Trade hats, second try</li>
       <li><span />Discussion: What is masculinity?</li>
       <li><span />Discussion: What is femininity?</li>
       <li><span />Discussion: How do you fall in love?</li>
