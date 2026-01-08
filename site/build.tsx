@@ -94,7 +94,7 @@ function Html(attrs: { title: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-2026 Steven</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> Steven</footer>
 
       </body>
     </html>
