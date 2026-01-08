@@ -104,17 +104,21 @@ function Html(attrs: { title: string, children: any }) {
 function HomePage(blogs: Blogs) {
   return <Html title="Chicago Sign Guy">
 
-    <p>
-      Hi, I'm <a href="/about.html">Steven</a>.
-      You may know me from making funny signs or doing public surveys in Chicago.
-    </p>
+    <article>
+      <p>
+        Hi, I'm <a href="/about.html">Steven</a>.
+        You may know me from making funny signs or doing public surveys in Chicago.
+        This website is where I document all the survey results,
+        and write down all my other thoughts as well.
+      </p>
 
-    <figure>
-      <img src="/img/me.jpg" />
-      <figcaption>
-        A portrait that a talented young woman drew of me in a coffee shop.
-      </figcaption>
-    </figure>
+      <figure>
+        <img src="/img/me.jpg" />
+        <figcaption>
+          A portrait that a talented young woman drew of me in a coffee shop.
+        </figcaption>
+      </figure>
+    </article>
 
     <h2>All articles</h2>
     <AllArticles blogs={blogs} />
