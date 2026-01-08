@@ -199,7 +199,13 @@ function AboutPage() {
       </p> */}
 
       <p>
-        I wish I knew French. It's so pretty. Maybe one day I will have time to learn it. (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682">Mais n'importe quoi.</a>)
+        I made this website from scratch using custom software,
+        which I also used to create <a href="https://ImmaculataLibrary.com" target='_blank'>ImmaculataLibrary.com</a>.
+      </p>
+
+      <p>
+        I wish I knew French. It's so pretty. Maybe one day I will have time to learn it.
+        (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>Mais n'importe quoi.</a>)
       </p>
     </article>
 
