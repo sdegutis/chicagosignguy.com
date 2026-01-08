@@ -2,7 +2,7 @@
    light and dark mode have perfect inverses,
    and it's entirely made up of named colors! */
 
-:root {
+html {
   --b: antiquewhite;
   --f: darkslategray;
   --h: deeppink;
@@ -10,7 +10,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  html {
     --b: black;
     --f: blanchedalmond;
     --h: hotpink;
