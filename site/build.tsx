@@ -232,7 +232,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
   return <>
     {data.blogs.map(([title, blogs]) => <>
       <H>{title}</H>
-      <ul style='padding: 0; list-style-type: none'>
+      <ul class='articles'>
         {blogs.map(blog => <>
           <li class={data.blog == blog ? 'currentblog' : ''}>
             {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })} <a href={blog.path}>{blog.title}</a>
