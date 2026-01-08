@@ -71,4 +71,5 @@ Some of the most moving and inspiring music I have ever heard
 was very clearly born of extreme emotional pain.
 The only good live performance of Radiohead's song Creep
 is the one they performed on Conan's very first episode in 1993.
-In all other performances, the notes are there, but the beauty is dim.
+In all other performances, by Radiohead or anyone else,
+the notes are there, but the beauty is more or less dimmed.
