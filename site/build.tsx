@@ -207,6 +207,9 @@ function AboutPage() {
         I wish I knew French. It's so pretty. Maybe one day I will have time to learn it.
         (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>Mais n'importe quoi.</a>)
       </p>
+
+      <p>Also see my <a href="/playlist.html">autobiography</a>.</p>
+
     </article>
 
   </Html>
@@ -215,7 +218,7 @@ function AboutPage() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
-    <p>This playlist tells the story of my life, composed entirely of songs I find particularly beautiful.</p>
+    <p>This playlist tells my life story, entirely through songs I find particularly beautiful and want to share with you.</p>
 
     <iframe
       data-testid="embed-iframe"
