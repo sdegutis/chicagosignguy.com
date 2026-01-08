@@ -234,8 +234,9 @@ function PlaylistPage() {
 
     <ul>
       <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it's raining</i></li>
-      <li><i>the best <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> performance by radiohead, as it's the only one where their pain came through</i></li>
-      <li><i><a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>king of glory, king of peace</a>, but only as arranged and sung by this particular choir</i></li>
+      <li><i>the only good <a href="https://www.youtube.com/watch?v=J_sH-GrUeUw&t=22s">creep</a> performance by radiohead, infused with pain</i></li>
+      <li><i>aaron lewis singing <a href="https://www.youtube.com/watch?v=EEaLxw3Gpp8">black</a> by pearl jam, also infused with pain</i></li>
+      <li><i>unique version of <a href='https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s'>king of glory, king of peace</a> sung during Mass</i></li>
     </ul>
 
   </Html>
