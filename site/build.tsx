@@ -233,9 +233,9 @@ function PlaylistPage() {
 
     <h2>Bonus track</h2>
 
-    <p>
-      <i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a>.</i>
-    </p>
+    <ul>
+      <li><i><a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>a french girl singing je te laisserai des mots while it's raining</a></i></li>
+    </ul>
 
   </Html>
 }
