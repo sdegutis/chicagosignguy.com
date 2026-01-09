@@ -223,7 +223,7 @@ function PlaylistPage() {
         This playlist tells the story of my life,
         made up entirely of songs
         that I have loved throughout the years,
-        and still find particularly beautiful,
+        which I still find particularly beautiful,
         and want to share with you.
       </p>
     </article>

@@ -93,3 +93,8 @@ The pain you suffer throughout life is stored up in a treasury of sorts.
 Whatever endeavor you then apply yourself to, the pain is also applied to.
 The efficacy of the thing is magnified significantly.
 If it's art, then it's intended beauty is reproduced within its viewers.
+
+Dulling the pain through alcohol or drugs diminishes its effect.
+This is why Mary didn't say "we have no wine" but "they have no wine."
+She did not drink any wine herself. Neither did Joseph.
+Art, or any creation, is most efficacious when it is carved out of pain.
