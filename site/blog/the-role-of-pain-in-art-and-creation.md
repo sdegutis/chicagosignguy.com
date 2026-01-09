@@ -49,6 +49,7 @@ The song had almost nothing to do with it,
 except that it was a part of that overall experience.
 If I could paint, and remember how that night looked,
 I would paint it over and over until it was perfect.
+I would paint it from multiple angles, every image I saw.
 
 When I go to the gym and exercise, listening to music,
 I can often push myself much further with specific songs.
@@ -75,7 +76,7 @@ was very clearly born of extreme emotional pain.
 The only good live performance of Radiohead's song Creep
 is the one they performed on Conan's very first episode in 1993.
 In all other performances, by Radiohead or anyone else,
-the notes are there, but the beauty is more or less dimmed.
+the notes are there, but the beauty of it all is more or less dimmed.
 
 As a Catholic, I do firmly believe there is a mystical connection.
 I am convinced that, in the spiritual world, pain is a currency.
