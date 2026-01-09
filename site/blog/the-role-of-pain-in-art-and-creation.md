@@ -91,5 +91,4 @@ If this is true, then it can be applied to all forms of art just as well.
 The pain you suffer throughout life is stored up in a treasury of sorts.
 Whatever endeavor you then apply yourself to, the pain is also applied to.
 The efficacy of the thing is magnified significantly.
-If it's art, then it's beauty, which you purchased by pain,
-is redistributed in full to all its viewers.
+If it's art, then it's intended beauty is reproduced within its viewers.
