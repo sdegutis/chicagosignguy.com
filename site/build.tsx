@@ -221,10 +221,17 @@ function PlaylistPage() {
     <article>
       <p>
         This playlist tells the story of my life,
-        made up entirely of songs
-        that I have loved throughout the years,
-        which I still find particularly beautiful,
-        and want to share with you.
+        from beginning to imagined end, in order,
+        with Shepherd being the point I'm at now.
+        It's made up entirely out of songs
+        which I have loved throughout the years,
+        and still find particularly beautiful,
+        and would like to share with you.
+        It took a week to make and perfect it.
+        Finding long forgotten songs,
+        from playlists I only vaguely remember,
+        has been a cathartic experience.
+        I recommend trying it in your spare time.
       </p>
     </article>
 
