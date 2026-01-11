@@ -227,7 +227,8 @@ function PlaylistPage() {
         which I have loved throughout the years,
         and still find particularly beautiful,
         and would like to share with you.
-        It took a week to make and perfect it.
+        It took a week to make and perfect it,
+        and I'm surprised by how accurate it is.
         Finding long forgotten songs,
         from playlists I only vaguely remember,
         has been a cathartic experience.
