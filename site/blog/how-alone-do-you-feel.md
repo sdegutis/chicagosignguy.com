@@ -100,8 +100,9 @@ She was all smiles too.
 One young man put None, telling me that he moved here 6 months ago,
 and it can be lonely when you move to a new place,
 until you meet people and find the local drug supply.
-I guess to him loneliness means not having a drug dealer?
-But I imagine drugs make you feel *even more* lonely.
+I guess to him loneliness means not having people to do drugs with.
+I suppose everyone's definition of friendship means
+having people who you can spend time with.
 
 That's all I remember off the top of my head.
 
