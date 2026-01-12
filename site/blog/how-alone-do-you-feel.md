@@ -80,13 +80,13 @@ she turned and walked off.
 I still have no idea what she could possibly have been so upset about.
 
 One young woman was about to keep walking,
-but she glanced back once or twice,
-and I could tell she was interested.
+but she glanced back at me once or twice.
+I could tell she would come over if I asked.
 So I said "survey?" and motioned to the marker,
-and she came over, all smiles, and did the survey.
-She had such strong eye contact and a big, soft smile.
-I didn't pay attention to what answer she marked down,
-I was too surprised by how much she smiled at me.
+and she came over, smiling softly, and did the survey.
+She had such strong eye contact and a warm, soft smile.
+I didn't pay attention to what answer she marked down.
+If I was younger, I might have fallen in love.
 
 One middle aged woman, who I think put None,
 told me that she liked a quote from a yogi who said "there is no other."
