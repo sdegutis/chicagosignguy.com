@@ -125,6 +125,11 @@ and we'll have a great conversation, and it brightens my whole week.
 I was hoping for that to happen all weekend,
 but I didn't run into a single one.
 
+(On top of that, there was someone in particular I wanted to talk to,
+to clear up a misunderstanding from last week,
+where she seemed to depart thinking she had offended me.
+But she didn't. Oh well, maybe next week I can clear it up.)
+
 So my answer was and still is 100%.
 I know nobody reads these articles,
 so I can safely be vulnerable here.
