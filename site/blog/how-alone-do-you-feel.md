@@ -161,7 +161,7 @@ while I was listening to
 Around the Bay by Department of Eagles,
 waiting for the train to leave
 so I could get in my car,
-a young woman tapped me on the shoulder.
+someone tapped me on the shoulder.
 
 I turned around, and it was a young woman I knew.
 I immediately asked her if she ever heard of Department of Eagles.
