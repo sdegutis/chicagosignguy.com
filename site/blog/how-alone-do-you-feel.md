@@ -52,8 +52,12 @@ Maybe I should put this on the sign itself next time.
 
 Two young women were across the street, and saw my sign,
 and after a little discussion, they turned to cross my way,
+literally crossing during a red light between cars,
 instead of the way they planned to cross.
-One told me she was convinced by the other to do the survey.
+One told me she was convinced by the other to do the survey,
+because it's fun to do these kinds of social experiments.
+They said something like,
+it's not like now we can't go ice skating afterwards.
 
 One woman, who had to be about 55 and had short hair, put None or Kinda, I forget which.
 She told me, "it's hard to feel alone with so much activism."
