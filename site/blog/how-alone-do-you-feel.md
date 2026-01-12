@@ -153,6 +153,32 @@ wealth, friends, love, and sinlessness, I would choose sinlessness.
 After that, friends, and after that, love. But never wealth. I don't want wealth.
 I am old and tired. But I would like one true friend. Just one.
 
+## Epilogue
+
+After the train ride home,
+after I got off the train,
+while I was listening to
+Aroudn the Bay by Department of Eagles,
+waiting for the train to leave
+so I could get in my car,
+a young woman tapped me on the shoulder.
+
+I turned around, and it was a former friends with benefits.
+I immediately asked her if she ever heard of Departmeng of Eagles.
+She said no, so I walked to my car.
+She followed and offered me some of her pizza.
+I asked if she wanted to hear the song,
+and she listened, and said it wasn't her style.
+
+It seems to me that, if you like any music,
+it says something about your personality.
+The style, the genre, the lyrics, all of it.
+And if someone else likes it too,
+for the same reasons, then you could be friends.
+
+I've so far never met anyone
+who shared my taste in music.
+
 ## Second time
 
 This is a actually repeat of one of my very first surveys,

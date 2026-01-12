@@ -228,7 +228,7 @@ function PlaylistPage() {
       <p>
         This playlist tells the story of my life,
         from beginning to imagined end, in order,
-        with Shepherd being the point I'm at now.
+        with now being "Every Day is Exactly the Same."
         It's made up entirely out of songs
         which I have loved throughout the years,
         and still find particularly beautiful,
