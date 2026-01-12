@@ -147,10 +147,10 @@ On top of that, I didn't want to hold her up,
 even though she clearly was okay with having a conversation,
 but in the past I've felt so guilty for taking people's time.
 
-This morning I prayed very sincerely.
-I told Jesus and Mary that, if I had to pick one between
+This morning I prayed very sincerely,
+saying that if I had to pick one between
 wealth, friends, love, and sinlessness, I would choose sinlessness.
-After that, friends, and after that, love. But never wealth.
+After that, friends, and after that, love. But never wealth. I don't want wealth.
 I am old and tired. But I would like one true friend. Just one.
 
 ## Second time
