@@ -25,7 +25,15 @@ export function processSite(tree: FileTree) {
   pipeline.with('\.md$').do(file => {
     const text = file.content.toString('utf8')
     const { attributes, body } = fm(text)
-    const { title, image, date: dateObj, list } = attributes as Record<string, string>
+    const { title, image, date: dateObj, list, draft } = attributes as {
+      title: string
+      image: string
+      date: Date
+      list: string
+      draft?: boolean
+    }
+    if (draft) return
+
     const html = md.render(body)
     const date = new Date(+dateObj + 1000 * 60 * 60 * 12)
     const path = file.path.replace('.md', '.html')
@@ -205,9 +213,7 @@ function AboutPage() {
       </p>
 
       <p>
-        If for some reason you still want to know more about me, take a look at my <a href="/playlist.html">autobiography</a>,
-        as well as my two websites <a href="https://ImmaculataLibrary.com" target='_blank'>ImmaculataLibrary.com</a> and <a href="https://90s.dev">90s.dev</a>,
-        which, along with this website, form my three magna opera, each the most beautiful I can make per genre.
+        If for some reason you still want to know more about me, take a look at my <a href="/playlist.html">autobiography</a>.
       </p>
 
     </article>
