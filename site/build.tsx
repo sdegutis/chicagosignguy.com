@@ -222,7 +222,7 @@ function AboutPage() {
 }
 
 function PlaylistPage() {
-  return <Html title="Playlist">
+  return <Html title="Autobiography of Songs">
 
     <article>
       <p>
