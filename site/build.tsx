@@ -292,7 +292,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <li>Article: Masculinity, femininity, destiny, Eden</li>
       <li>Experiment: Live upvote/downvote in person</li>
       <li>Experiment: Podcast episode with 100 cohosts</li>
-      <li>Experiment: Free 3 minute venting or trauma dumping</li>
+      <li>Experiment: Free 3 minute trauma dumping</li>
       <li>Experiment: Trade hats, second try</li>
       <li>Discussion: What is masculinity?</li>
       <li>Discussion: What is femininity?</li>
