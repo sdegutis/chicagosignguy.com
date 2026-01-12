@@ -163,12 +163,13 @@ waiting for the train to leave
 so I could get in my car,
 a young woman tapped me on the shoulder.
 
-I turned around, and it was a former friends with benefits.
-I immediately asked her if she ever heard of Departmeng of Eagles.
+I turned around, and it was a young woman I knew.
+I immediately asked her if she ever heard of Department of Eagles.
 She said no, so I walked to my car.
 She followed and offered me some of her pizza.
 I asked if she wanted to hear the song,
 and she listened, and said it wasn't her style.
+I did not have any of her pizza.
 
 It seems to me that, if you like any music,
 it says something about your personality.
