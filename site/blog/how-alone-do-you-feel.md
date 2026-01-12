@@ -33,6 +33,17 @@ so it still turned out a bit weird.
 But it seemed better proportioned than before!
 Ruler next week.
 
+## Second time
+
+This is a actually repeat of one of my very first surveys,
+back in mid October. Here's the original:
+
+![Original version](/img/howalonedoyoufeel.jpg)
+
+The proportions are different this time.
+I'm guessing it's because I've gotten better at surveys,
+and got more answers.
+
 ## The interactions
 
 I didn't write any of the interactions down immediately afterwards like I did before.
@@ -175,16 +186,3 @@ for the same reasons, then you could be friends.
 
 I've so far never met anyone
 who shared my taste in music.
-
-## Second time
-
-This is a actually repeat of one of my very first surveys,
-back in mid October. Here's the original:
-
-![Original version](/img/howalonedoyoufeel.jpg)
-
-The proportions are different this time.
-I'm guessing it's because I've gotten better at surveys,
-and got more answers.
-
-
