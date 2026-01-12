@@ -158,7 +158,7 @@ I am old and tired. But I would like one true friend. Just one.
 After the train ride home,
 after I got off the train,
 while I was listening to
-Aroudn the Bay by Department of Eagles,
+Around the Bay by Department of Eagles,
 waiting for the train to leave
 so I could get in my car,
 a young woman tapped me on the shoulder.
