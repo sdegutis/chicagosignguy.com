@@ -107,7 +107,7 @@ and we don't have the same interests or hobbies.
 And honestly, I don't even enjoy killing time with them anymore.
 I've been avoiding them more and more often.
 
-I feel bad that I lied to a few people.
+I feel bad that I lied to a few people yesterday.
 A few groups of young men asked what my answer was,
 and I told them I didn't know, but I did.
 I just didn't want to talk to them.
@@ -131,12 +131,7 @@ This morning I prayed very sincerely.
 I told Jesus and Mary that, if I had to pick one between
 wealth, friends, love, and sinlessness, I would choose sinlessness.
 After that, friends, and after that, love. But never wealth.
-I said, if you won't give me friends,
-at least let me go home (after I've finished paying off my debts),
-as I have no purpose left here,
-and nobody here needs me.
-And I am tired.
-But if it's in your will, at least give me one true friend.
+I am old and tired. But I would like one true friend. Just one.
 
 ## Second time
 
