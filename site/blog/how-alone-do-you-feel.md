@@ -163,7 +163,8 @@ waiting for the train to leave
 so I could get in my car,
 someone tapped me on the shoulder.
 
-I turned around, and it was a young woman I knew.
+I turned around, and it was a young woman I knew,
+who I have absolutely nothing in common with.
 I immediately asked her if she ever heard of Department of Eagles.
 She said no, so I walked to my car.
 She followed and offered me some of her pizza.
