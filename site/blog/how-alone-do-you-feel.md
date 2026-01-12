@@ -46,9 +46,9 @@ and all left with an awkward goodbye.
 There's not much I can do.
 
 One young woman with her friend did ask "what's the catch?"
-They felt very comfortable when I said none,
-and that I would put any details people give in my book.
-Maybe I should put this on the sign itself next time.
+They felt very comfortable when I said
+that I would put any details people give in my book.
+Maybe I should put this info on the sign itself next time.
 
 Two young women were across the street, and saw my sign,
 and after a little discussion, they turned to cross my way,
@@ -67,9 +67,10 @@ To her, companionship apparently seems to mean having political solidarity.
 One woman, who had to be about 65, passed me by,
 then stopped, turned around, and asked rather angrily,
 "what will you do with it?"
-I forgot my answer, but she answered, again rather angrily, "and then what?"
-And I said I would put it in my book.
-She turned and walked off without saying anything.
+After I answered, she again rather angrily said, "and then what?"
+After I said I would put the results in my book,
+she turned and walked off.
+I still have no idea what she could possibly have been so upset about.
 
 One middle aged woman, who I think put None,
 told me that she liked a quote from a yogi who said "there is no other."
