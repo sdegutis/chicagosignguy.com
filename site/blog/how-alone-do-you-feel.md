@@ -131,21 +131,16 @@ A few groups of young men asked what my answer was,
 and I told them I didn't know, but I did.
 I just didn't want to talk to them about it.
 
-One young woman, who was very friendly,
-began to ask me about my answer and why.
-I did tell her it was 100%,
-but I lied to her saying that I was okay with it.
-I was trying to end the conversation,
-because I thought more people behind her wanted to do the sign.
-Also, there were a lot of signs that she was flirting with me,
-as many women do (some far more overtly than others),
-and I'm just not interested in any kind of relationship right now.
-Besides, I didn't think there was anything she could do to help,
-as I was convinced the only solution to my loneliness
-was to run into one of my few friends and talk to them.
-On top of that, I didn't want to hold her up,
-even though she clearly was okay with having a conversation,
-but in the past I've felt so guilty for taking people's time.
+One young woman, who was very friendly, began to ask me about my answer and why.
+I did tell her it was 100%. She asked why, and I said it's like that saying,
+you can be in a room full of people but still feel completely alone.
+She said "are you okay with it?" I said "yeah, you just get used to it."
+That was true, but only in the way Jesus meant it on his last night being mortal:
+please God, take this away from me; but if it has to be this way, then I accept it.
+I did not want to worry her, or burden her, by saying any of this.
+I wanted to focus entirely on the survey, and let the people behind her take it.
+And in truth, I am fine, I am okay with this burden. God helps me with it every day.
+It is heavy, but he makes it lighter somehow, I can't explain it.
 
 This morning I prayed very sincerely,
 saying that if I had to pick one between
