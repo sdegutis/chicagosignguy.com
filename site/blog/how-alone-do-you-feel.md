@@ -10,7 +10,7 @@ list: Surveys
 I'm writing this the next morning,
 and I wasn't paying very great attention yesterday.
 I was not really in the mood to do the survey, honestly.
-More about that later in this article, where I give my answer.
+More about that later in this article, when I give my answer.
 (Spoiler: I felt too lonely and sad.)
 
 Most people who answered are split between None and Kinda.
@@ -19,6 +19,12 @@ I was very surprised.
 I thought there'd be fewer None and more Very.
 Could be selection bias, though.
 Maybe they felt too sad or afraid to answer.
+
+As usual, I didn't ask many people to do the survey.
+I would just stand there, and hold the marker out.
+A few times I softly said "survey?" when I saw people
+whose answer I was particularly curious about.
+Most of them just kept walking.
 
 This is the first survey where I used a pencil
 to try and space the letters properly.
@@ -36,7 +42,8 @@ And last week, someone stole my joke sign and ran off.
 
 One young woman who looked very sad in her eyes put two marks for 100%, telling me "it's 200%."
 
-One young man who looked somewhat high and very sad in his eyes drew a giant "100".
+One young man who looked somewhat high, and both sad and angry in his eyes, drew a giant "100".
+It looks like he also crossed it off, but I don't remember that part.
 
 In fact, almost everyone who put 100% looked very, very sad in their eyes.
 I really wanted to comfort them, but I couldn't do much.
@@ -72,11 +79,23 @@ After I said I would put the results in my book,
 she turned and walked off.
 I still have no idea what she could possibly have been so upset about.
 
+One young woman was about to keep walking,
+but she glanced back once or twice,
+and I could tell she was interested.
+So I said "survey?" and motioned to the marker,
+and she came over, all smiles, and did the survey.
+She had such strong eye contact and a big, soft smile.
+I didn't pay attention to what answer she marked down,
+I was too surprised by how much she smiled at me.
+
 One middle aged woman, who I think put None,
 told me that she liked a quote from a yogi who said "there is no other."
 I told her it reminded me of a quote from the philosopher Bill Hicks,
 not realizing she would recognize that name.
 I didn't tell her the quote, only that it was in the song Third Eye by Tool.
+I was glad she didn't realize my comparison was not a positive one.
+I was not at all in the mood to have a religious debate.
+She was all smiles too.
 
 One young man put None, telling me that he moved here 6 months ago,
 and it can be lonely when you move to a new place,
@@ -98,19 +117,18 @@ So my answer was and still is 100%.
 I know nobody reads these articles,
 so I can safely be vulnerable here.
 
-There are several people in my life that I can kill time with,
-where we joke around and have a "good time" in the typical sense.
-But I don't consider them friends.
-We don't have the same morals,
-we never talk about anything serious or deep,
-and we don't have the same interests or hobbies.
-And honestly, I don't even enjoy killing time with them anymore.
-I've been avoiding them more and more often.
+I know how to be charismatic. I'm very good at it.
+I know how to be the life of the party when my social battery is full.
+And I do have a lot of people that I used to kill time with.
+But we didn't have the same morals,
+and we never saw eye to eye on the deeper things of life.
+I've gradually spent less and less time with them.
+Now it's almost none.
 
 I feel bad that I lied to a few people yesterday.
 A few groups of young men asked what my answer was,
 and I told them I didn't know, but I did.
-I just didn't want to talk to them.
+I just didn't want to talk to them about it.
 
 One young woman, who was very friendly,
 began to ask me about my answer and why.
@@ -118,7 +136,8 @@ I did tell her it was 100%,
 but I lied to her saying that I was okay with it.
 I was trying to end the conversation,
 because I thought more people behind her wanted to do the sign.
-Also, there were a lot of signs that she was flirting with me, as many women do,
+Also, there were a lot of signs that she was flirting with me,
+as many women do (some far more overtly than others),
 and I'm just not interested in any kind of relationship right now.
 Besides, I didn't think there was anything she could do to help,
 as I was convinced the only solution to my loneliness
