@@ -227,33 +227,52 @@ function PlaylistPage() {
   return <Html title="Autobiography of Songs">
 
     <article>
-      <p>
-        This playlist tells the story of my life,
-        from beginning to imagined end, in order,
-        with now being "Every Day is Exactly the Same."
-        It's made up entirely out of songs
-        which I have loved throughout the years,
-        and still find particularly beautiful,
-        and would like to share with you.
-        It took a week to make and perfect it,
-        and I'm surprised by how accurate it is.
-        Finding long forgotten songs,
-        from playlists I only vaguely remember,
-        has been a cathartic experience.
-        I recommend trying it in your spare time.
-      </p>
-    </article>
 
-    <iframe
-      data-testid="embed-iframe"
-      style="border-radius:12px"
-      src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
-      width="100%"
-      height="400"
-      frameborder="0"
-      allowfullscreen
-      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-      loading="lazy" />
+      <p>
+        This tells the story of my life in 73 songs,
+        from beginning to likely end,
+        with "Every Day is Exactly the Same"
+        (#70)
+        being where I'm at right now in life.
+      </p>
+
+      <h2 style='margin-bottom:0'>Act I</h2>
+      <p style='margin-top:0'>
+        The first moments of my life,
+        followed by trauma and disillusionment,
+        and ending with becoming an outcast.
+      </p>
+
+      <h2 style='margin-bottom:0'>Act II</h2>
+      <p style='margin-top:0'>
+        The only relationship I had,
+        followed by trauma and disillusionment,
+        and ending with me leaving her.
+      </p>
+
+      <h2 style='margin-bottom:0'>Act III</h2>
+      <p style='margin-top:0'>
+        My conversion to Catholicism,
+        followed by trauma and disillusionment,
+        and ending in an intense battle
+        with actual cannibal Shia LaBeouf,
+        which I barely survive,
+        but only to die moments later from blood loss,
+        all alone in the woods.
+      </p>
+
+      <iframe
+        data-testid="embed-iframe"
+        style="border-radius:12px"
+        src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
+        width="100%"
+        height="400"
+        frameborder="0"
+        allowfullscreen
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy" />
+
+    </article>
 
     <h2>Bonus tracks</h2>
 
