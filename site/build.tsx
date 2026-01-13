@@ -236,39 +236,39 @@ function PlaylistPage() {
         being where I'm at right now in life.
       </p>
 
-      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act I</h2>
-      <p style='margin-top:0'>
-        The first moments of my life,
-        followed by trauma and disillusionment,
-        and ending with becoming an outcast.
-      </p>
-
-      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act II</h2>
-      <p style='margin-top:0'>
-        The only relationship I had,
-        followed by trauma and disillusionment,
-        and ending with me leaving her.
-      </p>
-
-      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act III</h2>
-      <p style='margin-top:0'>
-        My conversion to Catholicism,
-        followed by trauma and disillusionment,
-        and ending with victory.
-      </p>
-
-      <iframe
-        data-testid="embed-iframe"
-        style="border-radius:12px"
-        src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
-        width="100%"
-        height="400"
-        frameborder="0"
-        allowfullscreen
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy" />
-
     </article>
+
+    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act I</h2>
+    <p style='margin-top:0'>
+      The first moments of my life,
+      followed by trauma and disillusionment,
+      and ending with becoming an outcast.
+    </p>
+
+    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act II</h2>
+    <p style='margin-top:0'>
+      The only relationship I had,
+      followed by trauma and disillusionment,
+      and ending with me leaving her.
+    </p>
+
+    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act III</h2>
+    <p style='margin-top:0'>
+      My conversion to Catholicism,
+      followed by trauma and disillusionment,
+      and ending with victory.
+    </p>
+
+    <iframe
+      data-testid="embed-iframe"
+      style="border-radius:12px"
+      src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
+      width="100%"
+      height="400"
+      frameborder="0"
+      allowfullscreen
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy" />
 
     <h2>Bonus tracks</h2>
 
