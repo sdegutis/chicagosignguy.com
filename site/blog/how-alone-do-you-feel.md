@@ -10,8 +10,6 @@ list: Surveys
 I'm writing this the next morning,
 and I wasn't paying very great attention yesterday.
 I was not really in the mood to do the survey, honestly.
-More about that later in this article, when I give my answer.
-(Spoiler: I felt too lonely and sad.)
 
 Most people who answered are split between None and Kinda.
 They vastly outweigh those who are split between Very and 100%.
@@ -115,54 +113,12 @@ I guess to him loneliness means not having people to do drugs with.
 I suppose everyone's definition of friendship means
 having people who you can spend time with.
 
-That's all I remember off the top of my head.
-
-## My answer
-
-As I said above, I wasn't really in the mood to do the survey.
-Usually, when I do these surveys, one of my friends will show up,
-and we'll have a great conversation, and it brightens my whole week.
-I was hoping for that to happen all weekend,
-but I didn't run into a single one.
-
-(On top of that, there was someone in particular I wanted to talk to,
-to clear up a misunderstanding from last week,
-where she seemed to depart thinking she had offended me.
-But she didn't. Oh well, maybe next week I can clear it up.)
-
-So my answer was and still is 100%.
-I know nobody reads these articles,
-so I can safely be vulnerable here.
-
-I know how to be charismatic. I'm very good at it.
-I know how to be the life of the party when my social battery is full.
-And I do have a lot of people that I used to kill time with.
-But we didn't have the same morals,
-and we never saw eye to eye on the deeper things of life.
-I've gradually spent less and less time with them.
-Now it's almost none.
-
-I feel bad that I lied to a few people yesterday.
-A few groups of young men asked what my answer was,
-and I told them I didn't know, but I did.
-I just didn't want to talk to them about it.
-
 One young woman, who was very friendly, began to ask me about my answer and why.
 I did tell her it was 100%. She asked why, and I said it's like that saying,
 you can be in a room full of people but still feel completely alone.
 She said "are you okay with it?" I said "yeah, you just get used to it."
-That was true, but only in the way Jesus meant it on his last night being mortal:
-please God, take this away from me; but if it has to be this way, then I accept it.
-I did not want to worry her, or burden her, by saying any of this.
-I wanted to focus entirely on the survey, and let the people behind her take it.
-And in truth, I am fine, I am okay with this burden. God helps me with it every day.
-It is heavy, but he makes it lighter somehow, I can't explain it.
 
-This morning I prayed very sincerely,
-saying that if I had to pick one between
-wealth, friends, love, and sinlessness, I would choose sinlessness.
-After that, friends, and after that, love. But never wealth. I don't want wealth.
-I am old and tired. But I would like one true friend. Just one.
+That's all I remember off the top of my head.
 
 ## Epilogue
 
