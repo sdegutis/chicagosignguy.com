@@ -254,11 +254,7 @@ function PlaylistPage() {
       <p style='margin-top:0'>
         My conversion to Catholicism,
         followed by trauma and disillusionment,
-        and ending in an intense battle
-        with actual cannibal Shia LaBeouf,
-        which I barely survive,
-        but only to die moments later from blood loss,
-        all alone in the woods.
+        and ending with victory and peace.
       </p>
 
       <iframe
