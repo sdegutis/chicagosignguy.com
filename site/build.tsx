@@ -236,25 +236,25 @@ function PlaylistPage() {
         being where I'm at right now in life.
       </p>
 
-      <h2 style='margin-bottom:0'>Act I</h2>
+      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act I</h2>
       <p style='margin-top:0'>
         The first moments of my life,
         followed by trauma and disillusionment,
         and ending with becoming an outcast.
       </p>
 
-      <h2 style='margin-bottom:0'>Act II</h2>
+      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act II</h2>
       <p style='margin-top:0'>
         The only relationship I had,
         followed by trauma and disillusionment,
         and ending with me leaving her.
       </p>
 
-      <h2 style='margin-bottom:0'>Act III</h2>
+      <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act III</h2>
       <p style='margin-top:0'>
         My conversion to Catholicism,
         followed by trauma and disillusionment,
-        and ending with victory and peace.
+        and ending with victory.
       </p>
 
       <iframe
