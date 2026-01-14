@@ -231,9 +231,7 @@ function PlaylistPage() {
       <p>
         This tells the story of my life in 73 songs,
         from beginning to likely end,
-        with "Every Day is Exactly the Same"
-        (#70)
-        being where I'm at right now in life.
+        with #70 being where I'm at right now in life.
       </p>
 
     </article>
