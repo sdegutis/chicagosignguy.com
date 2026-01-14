@@ -229,9 +229,9 @@ function PlaylistPage() {
     <article>
 
       <p>
-        This tells the story of my life in 73 songs,
+        My whole life story in 73 songs,
         from beginning to likely end,
-        with #70 being where I'm at right now in life.
+        with song #70 being where I'm at right now in life.
       </p>
 
     </article>
