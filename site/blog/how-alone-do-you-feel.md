@@ -137,4 +137,4 @@ And if someone else likes it too,
 for the same reasons, then you could be friends.
 
 I've so far never met anyone
-who shared my taste in music.
+who shared [my taste in music](/playlist.html).
