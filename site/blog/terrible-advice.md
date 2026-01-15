@@ -3,6 +3,7 @@ title: Terrible Advice, only $3
 image: /img/terribleadvice.jpg
 date: 2026-01-07
 list: Jokes
+draft: true
 ---
 
 People need help ruining their lives,
