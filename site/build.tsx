@@ -213,9 +213,7 @@ function AboutPage() {
       </p>
 
       <p>
-        If for some reason you still want to know more about me, take a look at my <a href="/playlist.html">autobiography</a>,
-        as well as my two websites <a href="https://ImmaculataLibrary.com" target='_blank'>ImmaculataLibrary.com</a> and <a href="https://90s.dev">90s.dev</a>,
-        which, along with this website, form my three magna opera, each the most beautiful I can make per genre.
+        If for some reason you still want to know more about me, take a look at my <a href="/playlist.html">autobiography</a>.
       </p>
 
     </article>
