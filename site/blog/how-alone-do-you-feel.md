@@ -138,3 +138,10 @@ for the same reasons, then you could be friends.
 
 I've so far never met anyone
 who shared [my taste in music](/playlist.html).
+
+*Addendum:*
+A few days after writing this article,
+I shared my question of how to solve the loneliness epidemic,
+with a bunch of well meaning nerds
+(the closest thing I have to peers, I suppose)
+and we [discussed it at length](https://news.ycombinator.com/item?id=46635345).
