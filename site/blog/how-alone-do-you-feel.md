@@ -146,7 +146,8 @@ with a bunch of well meaning nerds
 (the closest thing I have to peers, I suppose)
 and we [discussed it at length](https://news.ycombinator.com/item?id=46635345).
 
-If anyone wants to donate to my efforts,
-since I don't get paid for any of this,
-feel free to venmo/cashapp ChicagoSignGuy.
+If anyone wants to support my surveys
+(I don't get paid for any of this),
+feel free to donate any amount you'd like
+by sending venmo/cashapp ChicagoSignGuy.
 It will help me afford posters for signs.
