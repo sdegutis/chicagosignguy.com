@@ -13,9 +13,9 @@ list: Surveys
 > and we [discussed it at length](https://news.ycombinator.com/item?id=46635345).
 >
 > If you want to support me doing surveys,
-> feel free to donate
-> to venmo/cashapp ChicagoSignGuy.
-> It helps pay for the signs.
+> and other my ideas for outreach to the lonely,
+> feel free to donate to venmo/cashapp ChicagoSignGuy.
+> This helps pay for the signs. Thanks.
 
 ## The results
 
