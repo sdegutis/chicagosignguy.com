@@ -329,7 +329,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
         <br />
         <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
       </p>
-      <p>{blog.html}</p>
+      {blog.html}
     </article>
 
     <h2>Leave a comment</h2>
