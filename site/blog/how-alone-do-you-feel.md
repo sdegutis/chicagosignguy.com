@@ -5,18 +5,6 @@ date: 2026-01-12
 list: Surveys
 ---
 
-> *Addendum:*
-> A few days after writing this article,
-> I shared my question of how to solve the loneliness epidemic,
-> with a bunch of well meaning nerds
-> (the closest thing I have to peers, I suppose)
-> and we [discussed it at length](https://news.ycombinator.com/item?id=46635345).
->
-> If you want to support me doing surveys,
-> and other my ideas for outreach to the lonely,
-> feel free to donate to venmo/cashapp ChicagoSignGuy.
-> This helps pay for the signs. Thanks.
-
 ## The results
 
 I'm writing this the next morning,
@@ -150,3 +138,10 @@ for the same reasons, then you could be friends.
 
 I've so far never met anyone
 who shared [my taste in music](/playlist.html).
+
+> *Addendum:*
+> A few days after writing this article,
+> I shared my question of how to solve the loneliness epidemic,
+> with a bunch of well meaning nerds
+> (the closest thing I have to peers, I suppose)
+> and we [discussed it at length](https://news.ycombinator.com/item?id=46635345).
