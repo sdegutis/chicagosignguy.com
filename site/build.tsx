@@ -3,6 +3,8 @@ import { FileTree } from "immaculata/filetree.js"
 import { Pipeline } from 'immaculata/pipeline.js'
 import MarkdownIt from 'markdown-it'
 
+const isDev = process.argv[2] == 'dev'
+
 interface Blog {
   path: string
   title: string
@@ -10,6 +12,7 @@ interface Blog {
   html: string
   list: string
   date: Date
+  draft: boolean | undefined
 }
 
 type Blogs = [string, Blog[]][]
@@ -32,12 +35,12 @@ export function processSite(tree: FileTree) {
       list: string
       draft?: boolean
     }
-    if (draft) return
+    if (draft && !isDev) return
 
     const html = md.render(body)
     const date = new Date(+dateObj + 1000 * 60 * 60 * 12)
     const path = file.path.replace('.md', '.html')
-    blogs.push({ path, title, image, html, date, list })
+    blogs.push({ path, draft, title, image, html, date, list })
   })
   blogs.sort((a, b) => -(b.date < a.date))
 
@@ -304,7 +307,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <ul class='articles'>
         {blogs.map(blog => <>
           <li class={data.blog == blog ? 'currentblog' : ''}>
-            <a href={blog.path}>{blog.title}</a> {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}
+            <a href={blog.path}>{blog.title} {blog.draft && <b>(draft)</b>}</a> {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}
           </li>
         </>)}
       </ul>
@@ -335,6 +338,12 @@ function AllArticlesPage(blogs: Blogs) {
 
 function BlogPage(blog: Blog, blogs: Blogs) {
   return <Html title={blog.title}>
+
+    {blog.draft &&
+      <div style='position:sticky; top:3em; font-weight:bold; background:var(--b); color:var(--h)'>
+        (DRAFT)
+      </div>
+    }
 
     <article>
       <p>
