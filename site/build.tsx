@@ -134,7 +134,7 @@ function HomePage(blogs: Blogs) {
         <li>Make a haunting <a href="https://www.tiktok.com/@nbcsnl/video/7463945170501799210?lang=en">yeet skrrt</a> piano cover</li>
         <li>Make one friend who enjoys coffee with me</li>
         <li><s>Get a random crowd to do something specific</s></li>
-        <li>Form a profitable <a href="https://www.artforum.com/columns/bruce-hainley-on-elena-filipovics-david-hammons-bliz-aard-ball-sale-239221/">Premium Snowball</a> business</li>
+        <li>Form a profitable Premium Snowball business</li>
         <li>Get a friend to duet "piano yeet skrrt" with me</li>
         <li>Star in play <a href="https://en.wikipedia.org/wiki/Our_God%27s_Brother">Brat naszego Boga</a> in Chicago</li>
         <li>Create a new viral <a href="https://www.youtube.com/watch?v=o0u4M6vppCI">Shia LaBeouf</a> meme</li>
