@@ -129,19 +129,6 @@ function HomePage(blogs: Blogs) {
 
       <h2>All articles</h2>
       <AllArticles blogs={blogs} />
-
-      <h2>My bucket list</h2>
-      <p style='font-style:italic; font-size: smaller'>Last updated January 16, 2026</p>
-      <ul style='padding:0; list-style:none'>
-        <li>Tell a random black man that I'm not racist</li>
-        <li>Make a haunting <a href="https://www.tiktok.com/@nbcsnl/video/7463945170501799210?lang=en">yeet skrrt</a> piano cover</li>
-        <li>Make one friend who enjoys coffee with me</li>
-        <li><s>Get a random crowd to do something specific</s></li>
-        <li>Form a profitable Premium Snowball business</li>
-        <li>Get a friend to duet "piano yeet skrrt" with me</li>
-        <li>Star in play <a href="https://en.wikipedia.org/wiki/Our_God%27s_Brother">Brat naszego Boga</a> in Chicago</li>
-        <li>Create a new viral <a href="https://www.youtube.com/watch?v=o0u4M6vppCI">Shia LaBeouf</a> meme</li>
-      </ul>
     </article>
 
     <h2>Upcoming book</h2>
@@ -156,6 +143,19 @@ function HomePage(blogs: Blogs) {
       If there's enough interest, I might offer a preorder,
       which will help fund the time it takes me to write it.
     </p>
+
+    <h2>My bucket list</h2>
+    <p style='font-style:italic; font-size: smaller'>Last updated January 16, 2026</p>
+    <ul style='padding:0; list-style:none'>
+      <li>Tell a random black man that I'm not racist</li>
+      <li>Make a haunting <a href="https://www.tiktok.com/@nbcsnl/video/7463945170501799210?lang=en">yeet skrrt</a> piano cover</li>
+      <li>Make one friend who enjoys coffee with me</li>
+      <li><s>Get a random crowd to do something specific</s></li>
+      <li>Form a profitable Premium Snowball business</li>
+      <li>Get a friend to duet "piano yeet skrrt" with me</li>
+      <li>Star in play <a href="https://en.wikipedia.org/wiki/Our_God%27s_Brother">Brat naszego Boga</a> in Chicago</li>
+      <li>Create a new viral <a href="https://www.youtube.com/watch?v=o0u4M6vppCI">Shia LaBeouf</a> meme</li>
+    </ul>
 
   </Html>
 }
