@@ -127,9 +127,12 @@ function HomePage(blogs: Blogs) {
         </figcaption>
       </figure>
 
+      <h2>All articles</h2>
+      <AllArticles blogs={blogs} />
+
       <h2>My bucket list</h2>
       <p style='font-style:italic; font-size: smaller'>Last updated January 16, 2026</p>
-      <ul>
+      <ul style='padding:0; list-style:none'>
         <li>Tell a random black man that I'm not racist</li>
         <li>Make a haunting <a href="https://www.tiktok.com/@nbcsnl/video/7463945170501799210?lang=en">yeet skrrt</a> piano cover</li>
         <li>Make one friend who enjoys coffee with me</li>
@@ -140,9 +143,6 @@ function HomePage(blogs: Blogs) {
         <li>Create a new viral <a href="https://www.youtube.com/watch?v=o0u4M6vppCI">Shia LaBeouf</a> meme</li>
       </ul>
     </article>
-
-    <h2>All articles</h2>
-    <AllArticles blogs={blogs} />
 
     <h2>Upcoming book</h2>
     <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
