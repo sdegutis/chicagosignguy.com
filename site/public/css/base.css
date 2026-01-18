@@ -44,7 +44,7 @@ a {
 }
 
 s {
-  text-decoration: var(--h) dashed line-through;
+  text-decoration: var(--h) solid line-through;
 }
 
 header {
