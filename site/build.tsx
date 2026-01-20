@@ -99,7 +99,7 @@ function Html(attrs: { title: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> Steven</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com</footer>
 
       </body>
     </html>
@@ -111,7 +111,6 @@ function HomePage(blogs: Blogs) {
 
     <article>
       <p>
-        Hi, I'm <a href="/about.html">Steven</a>.
         You may know me from making funny signs or doing public surveys in Chicago.
         This website is where I document all the survey results,
         and write down all my other thoughts as well.
