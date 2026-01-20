@@ -337,7 +337,7 @@ function AllArticlesPage(blogs: Blogs) {
 }
 
 function BlogPage(blog: Blog, blogs: Blogs) {
-  return <Html title={blog.title}>
+  return <Html title={`${blog.list.slice(0, -1)}: ${blog.title}`}>
 
     {blog.draft &&
       <div style='position:sticky; top:3em; font-weight:bold; background:var(--b); color:var(--h)'>
