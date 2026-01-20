@@ -20,7 +20,7 @@ Why not do it with this one?
 After all, I've been doing my signs and surveys for so many months
 that I've made dozens of acquaintances and a few friends.
 So I figured, if nothing else, it's kind of an ad hoc invitation
-for any of them to come say hi to me at Panera.
+for any of them to come say hi and kill time.
 
 But none of them showed up.
 And then I just felt like a weirdo.
@@ -31,7 +31,10 @@ But it made me reconsider doing social experiments.
 I don't mind if people look down on me or think poorly of me.
 But it occurred to me that I might be making people uncomfortable.
 That's something I would like to actively avoid.
-So maybe I'll just stick to surveys from now on.
+
+So maybe I'll just stick to the surveys from now on.
+Or host the discussions in the outside spot when it's warmer out,
+with specific time slots and not giant 2-hour windows.
 
 Oh well. You live and you learn.
 I'm such a slow learner.
