@@ -45,10 +45,10 @@ export function processSite(tree: FileTree) {
   blogs.sort((a, b) => -(b.date < a.date))
 
   const order = [
+    'Experiments',
     'Surveys',
     'Thoughts',
     'Jokes',
-    'Experiments',
   ]
 
   const posts = Object.entries(Object.groupBy(blogs, blog => blog.list))
