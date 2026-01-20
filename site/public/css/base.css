@@ -148,4 +148,5 @@ details[open] summary h2::after {
 
 article p {
   text-align: justify;
+  hyphens: auto;
 }
