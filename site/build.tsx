@@ -111,7 +111,7 @@ function HomePage(blogs: Blogs) {
 
     <article>
       <p>
-        You may know me from making funny signs or doing public surveys in Chicago.
+        Hi. I'm Steven. You may know me from making funny signs or doing public surveys in Chicago.
         This website is where I document all the survey results,
         and write down all my other thoughts as well.
       </p>
@@ -130,7 +130,7 @@ function HomePage(blogs: Blogs) {
     <h2>Upcoming book</h2>
     <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
     <p>
-      I'm starting to write a book based on the surveys, the results and discussions they've led to,
+      I'm writing a book based on the surveys, the results and discussions they've led to,
       and my own thoughts and wonderings about these topics.
     </p>
 
