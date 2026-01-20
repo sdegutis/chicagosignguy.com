@@ -64,9 +64,6 @@ export function processSite(tree: FileTree) {
   })
 
   pipeline.add('/index.html', HomePage(posts))
-  pipeline.add('/about.html', AboutPage())
-  pipeline.add('/playlist.html', PlaylistPage())
-  pipeline.add('/articles.html', AllArticlesPage(posts))
 
   return pipeline.results()
 }
@@ -93,9 +90,6 @@ function Html(attrs: { title: string, children: any }) {
           <nav>
             <ul>
               <li><a href="/">ChicagoSignGuy.com</a></li>
-              <li><a href='/about.html'>About</a></li>
-              <li><a href='/articles.html'>Articles</a></li>
-              <li><a href='/playlist.html'>Playlist</a></li>
             </ul>
           </nav>
         </header>
@@ -140,98 +134,6 @@ function HomePage(blogs: Blogs) {
       I'm starting to write a book based on the surveys, the results and discussions they've led to,
       and my own thoughts and wonderings about these topics.
     </p>
-    <p>
-      It's called "What is love?"
-      and I plan to release it before Thanksgiving 2026, so it can be a good Christmas gift.
-      If there's enough interest, I might offer a preorder,
-      which will help fund the time it takes me to write it.
-    </p>
-
-    <h2>My bucket list</h2>
-    <p style='font-style:italic; font-size: smaller'>Last updated January 16, 2026</p>
-    <ul style='padding:0; list-style:none'>
-      <li>Make a haunting duet <a href="https://www.tiktok.com/@nbcsnl/video/7463945170501799210?lang=en">yeet skrrt</a> piano/strings cover</li>
-      <li>Have one best friend</li>
-      <li><s>Get a random crowd to do something specific</s></li>
-      <li><s>Form a profitable Premium Snowball business</s></li>
-      <li>Hang out with Shia LaBeouf for a day off camera</li>
-      <li>Star in resurgence of play <a href="https://en.wikipedia.org/wiki/Our_God%27s_Brother">Brat naszego Boga</a></li>
-      <li>Create a new viral <a href="https://www.youtube.com/watch?v=o0u4M6vppCI">celebrity meme</a></li>
-    </ul>
-
-  </Html>
-}
-
-function AboutPage() {
-  return <Html title="About me">
-
-    <article>
-
-      <figure>
-        <img src="/img/me.jpg" />
-        <figcaption>
-          A portrait that a talented young woman drew of me in a coffee shop.
-        </figcaption>
-      </figure>
-
-      <p>
-        My name is Steven.
-        I'm a successful software engineer and best selling author.
-        But I feel deeply <b>unfulfilled</b>.
-        I think I'm meant for more than making banks richer.
-      </p>
-
-      <p>
-        But I don't know what my <b>purpose</b> is, or how I can help anyone.
-        I don't know what God wants from me, and he won't tell me.
-        So I'm trying to figure it out my own way.
-      </p>
-
-      <p>
-        That's why I do public <b>surveys</b> in Chicago on Sundays,
-        on the corner of State and Randolph, from Noon to 6.
-        This year, I plan to publish a book of my experiences.
-      </p>
-
-      <p>
-        I choose topics I'm trying to <b>understand</b> better about myself, and which seem to be common conundrums.
-        Love, despair, hope, anxiety, happiness, trauma, destiny.
-      </p>
-
-      <p>
-        As a <b>Catholic</b>, I look at these topics through that lens.
-        But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
-        And modern theologians have lost the plot.
-        Maybe together we can find answers.
-      </p>
-
-      {/* <p>
-        A secondary and unlikely goal is to make friends.
-        But I've never found anyone that I really click with.
-        People find me fun, but I find that same "fun" boring.
-        I just can't imagine who I could ever possibly vibe with.
-      </p>
-
-      <p>
-        A tertiary and extremely unrealistic goal is to fall in love.
-        Some day I'd like to know what it feels like,
-        and not just to be used for my body or wallet.
-        But I've never met anyone with the same dream,
-        someone who's willing to go on $0 dates and be 100% celibate and sober. Oh well.
-      </p> */}
-
-      <p>
-        Je suis un homme <b>insignifiant</b>, presque inutile, incapable d'aider qui que ce soit.
-        Je ne parle pas français, je trouve simplement que c'est une belle langue.
-        J'aimerais vraiment trouver le temps de l'apprendre un jour, peut-être.
-        (<a href="https://youtu.be/O_xMgyLuZ2I?t=3682" target='_blank'>Mais n'importe quoi!</a>)
-      </p>
-
-      <p>
-        If for some reason you still want to know more about me, take a look at my <a href="/playlist.html">autobiography</a>.
-      </p>
-
-    </article>
 
   </Html>
 }
