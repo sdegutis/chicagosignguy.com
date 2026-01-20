@@ -237,38 +237,7 @@ function AboutPage() {
 }
 
 function PlaylistPage() {
-  return <Html title="Autobiography of Songs">
-
-    <article>
-
-      <p>
-        My whole life story in 73 songs,
-        from beginning to likely end,
-        with song #70 being where I'm at right now in life.
-      </p>
-
-    </article>
-
-    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act I</h2>
-    <p style='margin-top:0'>
-      The first moments of my life,
-      followed by trauma and disillusionment,
-      and ending with becoming an outcast.
-    </p>
-
-    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act II</h2>
-    <p style='margin-top:0'>
-      The only relationship I had,
-      followed by trauma and disillusionment,
-      and ending with me leaving her.
-    </p>
-
-    <h2 style='float:left; margin:0 .33em 0 0; line-height: .73em'>Act III</h2>
-    <p style='margin-top:0'>
-      My conversion to Catholicism,
-      followed by trauma and disillusionment,
-      and ending with victory.
-    </p>
+  return <Html title="Playlist">
 
     <iframe
       data-testid="embed-iframe"
