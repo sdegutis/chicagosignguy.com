@@ -183,8 +183,8 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
     </>)}
     <H>Planned</H>
     <ul class='articles'>
-      <li>Survey: How alone do you feel?</li>
       <li>Survey: How did you meet your friends?</li>
+      <li>Survey: Is there a loneliness epidemic?</li>
       <li>Article: Anxiety, confidence, fear, arrogance</li>
       <li>Article: Love, purpose, burnout, motivation</li>
       <li>Article: Masculinity, femininity, destiny, Eden</li>
