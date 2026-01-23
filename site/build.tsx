@@ -45,9 +45,9 @@ export function processSite(tree: FileTree) {
   blogs.sort((a, b) => -(b.date < a.date))
 
   const order = [
-    'Experiments',
     'Surveys',
     'Thoughts',
+    'Experiments',
     'Jokes',
   ]
 
@@ -64,6 +64,7 @@ export function processSite(tree: FileTree) {
   })
 
   pipeline.add('/index.html', HomePage(posts))
+  pipeline.add('/about.html', AboutPage())
 
   return pipeline.results()
 }
@@ -90,6 +91,7 @@ function Html(attrs: { title: string, children: any }) {
           <nav>
             <ul>
               <li><a href="/">ChicagoSignGuy.com</a></li>
+              <li><a href='/about.html'>About me</a></li>
             </ul>
           </nav>
         </header>
@@ -115,13 +117,6 @@ function HomePage(blogs: Blogs) {
         This website is where I document all the survey results,
         and write down all my other thoughts as well.
       </p>
-
-      <figure>
-        <img src="/img/me.jpg" />
-        <figcaption>
-          A portrait that a talented young woman drew of me in a coffee shop.
-        </figcaption>
-      </figure>
 
       <h2>All articles</h2>
       <AllArticles blogs={blogs} />
@@ -242,6 +237,55 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>All articles</h2>
     <AllArticles blogs={blogs} blog={blog} />
+
+  </Html>
+}
+
+function AboutPage() {
+  return <Html title="About me">
+
+    <article>
+
+      <figure>
+        <img src="/img/me.jpg" />
+        <figcaption>
+          A portrait that a talented young woman drew of me in a coffee shop.
+        </figcaption>
+      </figure>
+
+      <p>
+        My name is Steven.
+        I'm a successful software engineer and best selling author.
+        But I feel deeply <b>unfulfilled</b>.
+        I think I'm meant for more than making banks richer.
+      </p>
+
+      <p>
+        But I don't know what my <b>purpose</b> is, or how I can help anyone.
+        I don't know what God wants from me, and he won't tell me.
+        So I'm trying to figure it out my own way.
+      </p>
+
+      <p>
+        That's why I do public <b>surveys</b> in Chicago on Sundays,
+        on the corner of State and Randolph, from Noon to 6.
+        This year, I plan to publish a book of my experiences.
+      </p>
+
+      <p>
+        I choose topics I'm trying to <b>understand</b> better about myself,
+        and which seem to be common conundrums.
+        Love, despair, hope, anxiety, happiness, trauma, destiny.
+      </p>
+
+      <p>
+        As a <b>Catholic</b>, I look at these topics through that lens.
+        But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
+        And modern theologians have lost the plot.
+        Maybe together we can find answers.
+      </p>
+
+    </article>
 
   </Html>
 }

@@ -150,7 +150,7 @@ details[open] summary h2::after {
   content: 'hide';
 }
 
-article p {
+p {
   text-align: justify;
   hyphens: auto;
 }
