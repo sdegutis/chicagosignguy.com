@@ -125,8 +125,12 @@ function HomePage(blogs: Blogs) {
     <h2>Upcoming book</h2>
     <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
     <p>
-      I'm writing a book based on the surveys, the results and discussions they've led to,
-      and my own thoughts and wonderings about these topics.
+      As a best selling author,
+      I'm writing another book, this time based on the surveys,
+      results and discussions they've led to,
+      and everything else I've learned on these topics,
+      trying to come up with answers to the questions that perplex me the most.
+      I plan to publish it by autumn of 2026.
     </p>
 
   </Html>
