@@ -1,11 +1,11 @@
 const container = document.getElementById('article-list')
+const direction = document.getElementById('article-list-sorter-dir')
 const articles = [...document.querySelectorAll('[data-group]')]
 const order = container.dataset.order.split(',')
 const htag = container.querySelector('h2,h3').tagName
+
 let dir = -1
 let ran = sortByType
-
-sortByType()
 
 setupButton('article-list-sorter-date', sortByDate)
 setupButton('article-list-sorter-type', sortByType)
@@ -18,6 +18,8 @@ function setupButton(id, run) {
       dir *= -1
     else
       ran = run
+
+    direction.textContent = ['oldest', 'newest'][+(dir < 0)]
 
     run()
   }
@@ -50,6 +52,7 @@ function sortByDate() {
   show(articles)
 }
 
+// No need for comparisons; let math do it for you
 function sorter(a, b) {
   return (+a.dataset.date - +b.dataset.date) * dir
 }
