@@ -274,7 +274,7 @@ function AboutPage() {
       <p>
         That's why I do public <b>surveys</b> in Chicago on Sundays,
         on the corner of State and Randolph, from Noon to 6.
-        Every week, I write a new <a href="/articles.html">article</a> based on the experience.
+        Every week, I write new <a href="/articles.html">articles</a> based on the experiences.
         By late 2026, I plan to publish a <a href="/book.html">book</a> of my experiences.
       </p>
 
