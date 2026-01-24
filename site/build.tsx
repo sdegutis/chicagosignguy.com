@@ -93,7 +93,7 @@ function Html(attrs: { title: string, children: any }) {
           <nav>
             <ul>
               <li><a href="/">ChicagoSignGuy.com</a></li>
-              <li><a href='/about.html'>About me</a></li>
+              <li><a href='/about.html'>Author</a></li>
               <li><a href='/articles.html'>Articles</a></li>
               <li><a href='/book.html'>Book</a></li>
             </ul>
