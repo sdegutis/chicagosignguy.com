@@ -166,7 +166,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <a href='#' id='article-list-sorter-date'>date</a>
       { } or { }
       <a href='#' id='article-list-sorter-type'>type</a>,
-      { } <span id='article-list-sorter-dir'>newest</span> first.
+      { } <span style='font-style:italic' id='article-list-sorter-dir'>newest</span> first.
     </div>
     <div id='article-list' data-order={order.join(',')}>
       {data.blogs.map(([title, blogs]) => <>
