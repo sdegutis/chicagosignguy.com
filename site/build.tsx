@@ -20,6 +20,13 @@ type Blogs = [string, Blog[]][]
 const md = new MarkdownIt({ html: true })
 const fm = FrontMatter.default as unknown as typeof FrontMatter['default']['default']
 
+const order = [
+  'Surveys',
+  'Thoughts',
+  'Experiments',
+  'Jokes',
+]
+
 export function processSite(tree: FileTree) {
   const pipeline = Pipeline.from(tree.files)
 
@@ -43,13 +50,6 @@ export function processSite(tree: FileTree) {
     blogs.push({ path, draft, title, image, html, date, list })
   })
   blogs.sort((a, b) => -(b.date < a.date))
-
-  const order = [
-    'Surveys',
-    'Thoughts',
-    'Experiments',
-    'Jokes',
-  ]
 
   const posts = Object.entries(Object.groupBy(blogs, blog => blog.list))
     .sort((a, b) => order.indexOf(b[0]) - order.indexOf(a[0]))
@@ -161,16 +161,24 @@ function PlaylistPage() {
 function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
   const H = data.tag ?? 'h3'
   return <>
-    {data.blogs.map(([title, blogs]) => <>
-      <H>{title}</H>
-      <ul class='articles'>
-        {blogs.map(blog => <>
-          <li class={data.blog == blog ? 'currentblog' : ''}>
-            <a href={blog.path}>{blog.title} {blog.draft && <b>(draft)</b>}</a> {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}
-          </li>
-        </>)}
-      </ul>
-    </>)}
+    <div>
+      Sort by { }
+      <a href='#' id='article-list-sorter-date'>date</a>
+      { } or { }
+      <a href='#' id='article-list-sorter-type'>type</a>.
+    </div>
+    <div id='article-list' data-order={order.join(',')}>
+      {data.blogs.map(([title, blogs]) => <>
+        <H>{title}</H>
+        <ul class='articles'>
+          {blogs.map(blog => <>
+            <li class={data.blog == blog ? 'currentblog' : ''} data-group={title} data-date={blog.date.getTime()}>
+              <a href={blog.path}>{blog.title} {blog.draft && <b>(draft)</b>}</a> {blog.date.toLocaleDateString('en-US', { dateStyle: 'medium' })}
+            </li>
+          </>)}
+        </ul>
+      </>)}
+    </div>
     <H>Planned</H>
     <ul class='articles'>
       <li>Survey: How did you meet your friends?</li>
@@ -186,6 +194,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <li>Discussion: What is femininity?</li>
       <li>Discussion: How do you fall in love?</li>
     </ul>
+    <script src='/articles.js' />
   </>
 }
 
