@@ -275,7 +275,6 @@ function AboutPage() {
         That's why I do public <b>surveys</b> in Chicago on Sundays,
         on the corner of State and Randolph, from Noon to 6.
         Every week, I write new <a href="/articles.html">articles</a> based on the experiences.
-        By late 2026, I plan to publish a <a href="/book.html">book</a> of my experiences.
       </p>
 
       <p>
@@ -289,6 +288,10 @@ function AboutPage() {
         But ancient theologians didn't anticipate a world with OF, SSRIs, and algorithms.
         And modern theologians have lost the plot.
         Maybe together we can find answers.
+      </p>
+
+      <p>
+        So by late 2026, I plan to publish a <a href="/book.html">book</a> on all this.
       </p>
 
     </article>
