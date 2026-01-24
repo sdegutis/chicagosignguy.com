@@ -65,6 +65,7 @@ export function processSite(tree: FileTree) {
 
   pipeline.add('/index.html', HomePage(posts))
   pipeline.add('/about.html', AboutPage())
+  pipeline.add('/articles.html', AllArticlesPage(posts))
 
   return pipeline.results()
 }
@@ -92,6 +93,7 @@ function Html(attrs: { title: string, children: any }) {
             <ul>
               <li><a href="/">ChicagoSignGuy.com</a></li>
               <li><a href='/about.html'>About me</a></li>
+              <li><a href='/articles.html'>Articles</a></li>
             </ul>
           </nav>
         </header>
@@ -288,6 +290,11 @@ function AboutPage() {
         And modern theologians have lost the plot.
         Maybe together we can find answers.
       </p>
+      {/* 
+      <p>
+        I'm convinced the internet separates us more than it brings us together,
+        and that the solution is to help people build local connections.
+      </p> */}
 
     </article>
 
