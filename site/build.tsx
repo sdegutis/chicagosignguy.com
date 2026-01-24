@@ -65,6 +65,7 @@ export function processSite(tree: FileTree) {
 
   pipeline.add('/index.html', HomePage(posts))
   pipeline.add('/about.html', AboutPage())
+  pipeline.add('/book.html', BookPage())
   pipeline.add('/articles.html', AllArticlesPage(posts))
 
   return pipeline.results()
@@ -94,6 +95,7 @@ function Html(attrs: { title: string, children: any }) {
               <li><a href="/">ChicagoSignGuy.com</a></li>
               <li><a href='/about.html'>About me</a></li>
               <li><a href='/articles.html'>Articles</a></li>
+              <li><a href='/book.html'>Book</a></li>
             </ul>
           </nav>
         </header>
@@ -116,24 +118,10 @@ function HomePage(blogs: Blogs) {
     <article>
       <p>
         Hi. I'm Steven. You may know me from making funny signs or doing public surveys in Chicago.
-        This website is where I document all the survey results,
-        and write down all my other thoughts as well.
+        I document the results in my <a href="/articles.html">articles</a>,
+        and eventually will publish a <a href="/book.html">book</a> on these topics.
       </p>
-
-      <h2>All articles</h2>
-      <AllArticles blogs={blogs} />
     </article>
-
-    <h2>Upcoming book</h2>
-    <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
-    <p>
-      As a best selling author,
-      I'm writing another book, this time based on the surveys,
-      results and discussions they've led to,
-      and everything else I've learned on these topics,
-      trying to come up with answers to the questions that perplex me the most.
-      I plan to publish it by autumn of 2026.
-    </p>
 
   </Html>
 }
@@ -290,11 +278,24 @@ function AboutPage() {
         And modern theologians have lost the plot.
         Maybe together we can find answers.
       </p>
-      {/* 
+
+    </article>
+
+  </Html>
+}
+
+function BookPage() {
+  return <Html title="Book">
+
+    <article>
+
       <p>
-        I'm convinced the internet separates us more than it brings us together,
-        and that the solution is to help people build local connections.
-      </p> */}
+        I'm working on a book called "What is love?", partly based on my surveys,
+        results and discussions they've led to.
+        I plan to publish it by autumn of 2026.
+      </p>
+
+      <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
 
     </article>
 
