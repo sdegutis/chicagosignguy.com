@@ -7,23 +7,20 @@ let ran = sortByType
 
 sortByType()
 
-document.getElementById('article-list-sorter-date').onclick = e => {
-  e.preventDefault()
-  sortAndRun(sortByDate)
-}
+setupButton('article-list-sorter-date', sortByDate)
+setupButton('article-list-sorter-type', sortByType)
 
-document.getElementById('article-list-sorter-type').onclick = e => {
-  e.preventDefault()
-  sortAndRun(sortByType)
-}
+function setupButton(id, run) {
+  document.getElementById(id).onclick = e => {
+    e.preventDefault()
 
-function sortAndRun(run) {
-  if (ran === run)
-    dir *= -1
-  else
-    ran = run
+    if (ran === run)
+      dir *= -1
+    else
+      ran = run
 
-  run()
+    run()
+  }
 }
 
 function sortByType() {
@@ -45,19 +42,19 @@ function sortByType() {
     nodes.push(...items)
   }
 
-  list(nodes)
+  show(nodes)
 }
 
 function sortByDate() {
   articles.sort(sorter)
-  list(articles)
+  show(articles)
 }
 
 function sorter(a, b) {
   return (+a.dataset.date - +b.dataset.date) * dir
 }
 
-function list(nodes) {
+function show(nodes) {
   const ul = document.createElement('ul')
   ul.className = 'articles'
   ul.append(...nodes)
