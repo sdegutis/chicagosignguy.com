@@ -105,7 +105,7 @@ function Html(attrs: { title: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> Steven, All Rights Reserved.</footer>
 
       </body>
     </html>
