@@ -118,9 +118,12 @@ function HomePage(blogs: Blogs) {
     <article>
       <p>
         Hi. I'm <a href="/about.html">Steven</a>.
-        You may know me from making funny signs or doing public surveys in Chicago.
-        I'm documenting the results as <a href="/articles.html">articles</a>,
-        and eventually a <a href="/book.html">book</a> too.
+      </p><p>
+        I do public surveys in Chicago.
+      </p><p>
+        Usually I write <a href="/articles.html">articles</a> about them.
+      </p><p>
+        Eventually I'll write a <a href="/book.html">book</a> too.
       </p>
     </article>
 
