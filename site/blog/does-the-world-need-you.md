@@ -95,10 +95,13 @@ This is in fact true for *all babies.*
 They're useless drains on society,
 except that they sometimes make us smile by their cuteness,
 and they have the *potential* to grow into someone useful and reciprocatory,
-who provides at least as much value to society as they consume.
+who provides at least as much value to society as they consume,
+value that *only they* can provide.
 
 For most of last month,
 I felt that I consumed far more value than I contributed,
+and that anyone else could have contributed it instead,
+and they'd probably do a better job too,
 and it made me feel utterly worthless and defeated.
 
 That's also my answer to the theological question
@@ -107,8 +110,9 @@ how can sins against no one in particular be grave?
 The typical answer has always been "it's against God,"
 and I never liked that answer.
 But now it all makes sense to me:
-it's grave because you're *destroying* the person you could and should become,
+it's grave because you're *destroying* the person you could and should *become*,
 the person that society *needs you* to become.
 
 Because *everyone* is unique.
 *Every single person* has value that *only they* can give to the world.
+I'm fully convinced of it.
