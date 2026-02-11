@@ -13,16 +13,16 @@ setupButton('article-list-sorter-type', sortByType)
 function setupButton(id, run) {
   document.getElementById(id).onclick = e => {
     e.preventDefault()
-
-    if (ran === run)
-      dir *= -1
-    else
-      ran = run
-
-    direction.textContent = ['oldest', 'newest'][+(dir < 0)]
-
-    run()
+    ran = run
+    ran()
   }
+}
+
+direction.onclick = e => {
+  e.preventDefault()
+  dir *= -1
+  direction.textContent = ['oldest', 'newest'][+(dir < 0)]
+  ran()
 }
 
 function sortByType() {
