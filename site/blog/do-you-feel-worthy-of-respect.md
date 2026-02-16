@@ -9,10 +9,12 @@ list: Surveys
 
 Rough counts:
 
-* 65 always
-* 50 usually
-* 30 sometimes
-* 5 never
+| Answer    | Count | Percent |
+| :-------- | ----: | ------: |
+| Always    |    65 |     44% |
+| Usually   |    50 |     33% |
+| Sometimes |    30 |     20% |
+| Never     |     5 |      3% |
 
 Always wins! But again this could be selection bias and probably is. If a person does not feel worthy of respect at all or most of the time, they likely don't feel extroverted enough to participate in things.
 
