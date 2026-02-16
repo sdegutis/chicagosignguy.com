@@ -40,7 +40,7 @@ One person who I think put never (not one of the three mentioned above) said tha
 
 One person said that moral faults or moral flaws make you not deserve respect. Another young man said he does not respect pedaphiles.
 
-One person said it depends on the day. I fully agree with that, I varies a lot for me too based on moods and recent events.
+One person said it depends on the day. I fully agree with that, I varies a lot for me too based on moods and recent events. When I have a great day where I feel like I accomplished a lot of good, or a very productive day, I definitely feel like a boss.
 
 Another young man I met last week, who I showed the song Sol and Luna by Joep Beving to last week, took the survey, and I saw him again after the survey and told him about the woman who put Never. He said it's got to be hard going through life like that, that you'd have to have the lowest self esteem ever, and I think he said it seems like a fate worse than death.
 
@@ -51,3 +51,5 @@ Afterwards, as I was posting the blog at McDonald's, I saw a friend and asked hi
 I agree that everyone is worthy of a basic level of respect just for being human. But I do think that every type of relationship requires an equal exchange of value for it to be mutual, at least over time. I think if a person doesn't see the value they have to offer others, they will not be able to offer it, or at least they won't be able to recognize when they have offered it, and so they will have a difficult time forming and maintaining healthy relationships of all types, whether in business or friendships or romance or family or anything. It seems to be important to recognize what we bring to the table, not in the sense of being overconfidently or arrogant, but simply seeing the situation in truth.
 
 I do agree that moral flaws decrease the overall net value we give to society. It's difficult to separate that from the positive value we give, both in ourselves and in others. If we see a beautiful painting and fall in love with it but find out that the author was an alcoholic who verbally berated people, it can be difficult to stop loving the art. Society has double standards sometimes for people for this reason and excuses celebrities sometimes for possibly serious faults.
+
+Another thing I noticed is that who I surround myself with does affect how worthy of respect I feel. (I think one person mentioned this, but I definitely forgot anything they said about it.) When I'm with people who I perceive to have more moral faults than me, or I remember more moral faults of theirs than mine, it definitely creates a confidence boost, perhaps disproportionately and undeservedly.
