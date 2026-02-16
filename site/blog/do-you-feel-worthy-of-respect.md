@@ -83,7 +83,7 @@ Feb 11 (sketch #26): [Natural beauty](https://www.reddit.com/r/redditgetsdrawn/c
 
 ![Natural beauty drawing](https://preview.redd.it/this-is-me-v0-5us2797ucwig1.jpeg?width=320&crop=smart&auto=webp&s=0716324dd1e275c076aeeddfbb96074aa4d14ab7)
 
-Feb 12 (sketch #33): [Young Saruman (unfinished)](https://www.reddit.com/r/learntodraw/comments/1r34l5k/i_dont_understand_hairs/) [(finished)](https://www.reddit.com/r/Art/comments/1r6dp7a/young_saruman_lifesilver5623_generic_pencil_on/)
+Feb 12 (sketch #33): [Young Saruman (unfinished)](https://www.reddit.com/r/learntodraw/comments/1r34l5k/i_dont_understand_hairs/) [(finished)](https://www.reddit.com/r/Art/comments/1r6hzgs/young_saruman_ulifesilver5623_generic_pencil_on/)
 
 ![Young Saruman drawing unfinished](https://preview.redd.it/i-dont-understand-hairs-v0-lznodjp4j4jg1.jpg?width=1080&crop=smart&auto=webp&s=959fea138973e75937a9504abd6619e609a85e8e)
 
