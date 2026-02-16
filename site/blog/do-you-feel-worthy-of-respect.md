@@ -44,7 +44,7 @@ One person said it depends on the day. I fully agree with that, I varies a lot f
 
 Another young man I met last week, who I showed the song Sol and Luna by Joep Beving to last week, took the survey, and I saw him again after the survey and told him about the woman who put Never. He said it's got to be hard going through life like that, that you'd have to have the lowest self esteem ever, and I think he said it seems like a fate worse than death.
 
-Afterwards, as I was posting the blog at McDonald's, I saw a friend and asked his thoughts. He said "sometimes" and said it's because at work he puts in a good effort, and with relationships too, but he said "sometimes I have my head up my ass."
+Afterwards, as I was posting the blog at McDonald's, I saw an acquaintance and asked his thoughts. He said "sometimes" and said it's because at work he puts in a good effort, and with relationships too, but he said "sometimes I have my head up my ass."
 
 ## My thoughts
 
