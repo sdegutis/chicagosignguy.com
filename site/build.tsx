@@ -183,7 +183,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
         </ul>
       </>)}
     </div>
-    <H>Planned</H>
+    {/* <H>Planned</H>
     <ul class='articles'>
       <li>Survey: How did you meet your friends?</li>
       <li>Survey: Is there a loneliness epidemic?</li>
@@ -197,7 +197,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
       <li>Discussion: What is masculinity?</li>
       <li>Discussion: What is femininity?</li>
       <li>Discussion: How do you fall in love?</li>
-    </ul>
+    </ul> */}
     <script src='/articles.js' />
   </>
 }
