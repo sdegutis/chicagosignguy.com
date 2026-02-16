@@ -137,7 +137,7 @@ function MailingList() {
     <h2>Mailing list</h2>
 
     <p>Get notified of new blog posts every week.</p>
-    <form method='POST' action='https://cigar.chicagosignguy.com/e'>
+    <form method='POST' action='https://the.chicagosignguy.com/e'>
       <fieldset>
         <legend>Email address</legend>
         <input name='email' type='text' />
@@ -252,7 +252,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>Leave a comment</h2>
     <aside>
-      <form method='POST' action='https://cigar.chicagosignguy.com/c'>
+      <form method='POST' action='https://the.chicagosignguy.com/c'>
         <fieldset>
           <legend>Name or alias</legend>
           <input placeholder='Email' name='email' type='text' />
