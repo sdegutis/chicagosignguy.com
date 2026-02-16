@@ -154,3 +154,12 @@ p {
   text-align: justify;
   hyphens: auto;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid var(--h);
+  padding: .25em .5em;
+}
