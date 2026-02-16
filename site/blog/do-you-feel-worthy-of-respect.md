@@ -55,3 +55,36 @@ I agree that everyone is worthy of a basic level of respect just for being human
 I do agree that moral flaws decrease the overall net value we give to society. It's difficult to separate that from the positive value we give, both in ourselves and in others. If we see a beautiful painting and fall in love with it but find out that the author was an alcoholic who verbally berated people, it can be difficult to stop loving the art. Society has double standards sometimes for people for this reason and excuses celebrities sometimes for possibly serious faults.
 
 Another thing I noticed is that who I surround myself with does affect how worthy of respect I feel. (I think one person mentioned this, but I definitely forgot anything they said about it.) When I'm with people who I perceive to have more moral faults than me, or I remember more moral faults of theirs than mine, it definitely creates a confidence boost, perhaps disproportionately and undeservedly.
+
+## Drawings
+
+Sidenote, I started sketching a few weeks ago.
+I was bored and browsing reddit and came across the "reddit gets drawn badly" sub.
+So I took a shot at it while at McDonald's using an index card and pencil I had with me.
+After about two weeks, I had done about 33 or so sketches of people on reddit asking to be drawn.
+
+People have told me I have a natural gift for it.
+Still not sure what good it's for, or how I can make any use of it.
+Anyway, here's my favorite ones in chronological order:
+
+Jan 30 (sketch #2): [Doe eyes](https://www.reddit.com/r/drawing/comments/1qr4uwu/another_mcdonalds_sketch/)
+
+![Doe eyes drawing](https://preview.redd.it/another-mcdonalds-sketch-v0-xqyyerx1jhgg1.jpg?width=1080&crop=smart&auto=webp&s=adf9a33f37eb1c65e52755afbc48f6e342fcaa20)
+
+Feb 5 (sketch #13): [Renaissance](https://www.reddit.com/r/drawing/comments/1qwsvse/practicing_faces_pencil_on_index_card/)
+
+![Renaissance drawing](https://preview.redd.it/practicing-faces-pencil-on-index-card-v0-7mjlylj9wphg1.jpg?width=1080&crop=smart&auto=webp&s=58d3173f0858a39d2789eb0abfad57172bfc09aa)
+
+Feb 11 (sketch #30): [Disney princess](https://www.reddit.com/r/sketches/comments/1r244xx/doe_eyes/)
+
+![Disney princess drawing](https://preview.redd.it/4p536qflkwig1.jpg?width=1080&crop=smart&auto=webp&s=8569ccecef5debe02d9488c585d74e2e6bd2a7cc)
+
+Feb 11 (sketch #26): [Natural beauty](https://www.reddit.com/r/redditgetsdrawn/comments/1qzszkp/comment/o4tua7j/?context=3)
+
+![Natural beauty drawing](https://preview.redd.it/this-is-me-v0-5us2797ucwig1.jpeg?width=320&crop=smart&auto=webp&s=0716324dd1e275c076aeeddfbb96074aa4d14ab7)
+
+Feb 12 (sketch #33): [Young Saruman (unfinished)](https://www.reddit.com/r/learntodraw/comments/1r34l5k/i_dont_understand_hairs/) [(finished)](https://www.reddit.com/r/Art/comments/1r6dp7a/young_saruman_lifesilver5623_generic_pencil_on/)
+
+![Young Saruman drawing unfinished](https://preview.redd.it/i-dont-understand-hairs-v0-lznodjp4j4jg1.jpg?width=1080&crop=smart&auto=webp&s=959fea138973e75937a9504abd6619e609a85e8e)
+
+![Young Saruman drawing finished](https://preview.redd.it/young-saruman-life-silver-5623-generic-pencil-on-dollar-v0-51k9at0wrvjg1.jpg?width=1080&crop=smart&auto=webp&s=1913aa09f453e74f9b3bf63fc37a4315e9c8223b)
