@@ -127,7 +127,24 @@ function HomePage(blogs: Blogs) {
       </p>
     </article>
 
+    <MailingList />
+
   </Html>
+}
+
+function MailingList() {
+  return <>
+    <h2>Mailing list</h2>
+
+    <p>Get notified of new blog posts every week.</p>
+    <form method='POST' action='https://the.chicagosignguy.com/e'>
+      <fieldset>
+        <legend>Email address</legend>
+        <input name='email' type='text' />
+      </fieldset>
+      <input type='submit' value='Sign Up' />
+    </form>
+  </>
 }
 
 function PlaylistPage() {
@@ -205,6 +222,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
 function AllArticlesPage(blogs: Blogs) {
   return <Html title="All Articles">
     <AllArticles blogs={blogs} tag="h2" />
+    <MailingList />
   </Html>
 }
 
@@ -226,22 +244,30 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       {blog.html}
     </article>
 
+    <h2>Comments</h2>
+
+    <div>
+      <p style='font-style:italic'>Loading comments...</p>
+    </div>
+
     <h2>Leave a comment</h2>
     <aside>
-      <p>
-        To share your thoughts,
-        come find me in Chicago
-        on Sundays, from about Noon to 6pm,
-        at the corner of State and Randolph,
-        and tell me in person.
-      </p>
-      <p>
-        To leave a comment that others can also see,
-        stop by at precisely 3pm,
-        when others will also be present,
-        and share your thoughts with all of us.
-      </p>
+      <form method='POST' action='https://the.chicagosignguy.com/c'>
+        <fieldset>
+          <legend>Name or alias</legend>
+          <input placeholder='Email' name='email' type='text' />
+        </fieldset>
+        <fieldset>
+          <legend>Comment</legend>
+          <textarea name='comment' rows={3} />
+        </fieldset>
+        <fieldset>
+          <input type='submit' value='Add Comment' />
+        </fieldset>
+      </form>
     </aside>
+
+    <MailingList />
 
     <h2>All articles</h2>
     <AllArticles blogs={blogs} blog={blog} />

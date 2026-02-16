@@ -163,3 +163,41 @@ td, th {
   border: 1px solid var(--h);
   padding: .25em .5em;
 }
+
+form fieldset {
+  padding: 0;
+  border: 0;
+  margin: 1em 0;
+}
+
+form fieldset legend {
+  font-weight: bold;
+  padding: 0;
+}
+
+form :is(input, textarea) {
+  font-family: "Mako", sans-serif;
+  font-size: inherit;
+  box-sizing: border-box;
+  padding: .25em .5em;
+  border: 1px solid var(--l);
+  background-color: var(--b);
+}
+
+form textarea {
+  font-family: "Libre Caslon Text", serif;
+}
+
+form :is(textarea, input[type=text]) {
+  width: 100%;
+}
+
+form input[type=submit] {
+  background-color: rgb(from var(--l) r g b / 0.33);
+}
+
+form :is(textarea, input):is(:focus, :active) {
+  border-color: var(--h);
+  outline: none;
+  background-color: rgb(from var(--h) r g b / 0.33);
+}
