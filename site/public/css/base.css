@@ -74,7 +74,7 @@ nav ul > :first-child {
   flex: 1 0 auto;
 }
 
-aside, blockquote, details>:last-child {
+aside, blockquote, details>:last-child, #comments p {
   margin-left: 0;
   padding-left: 1em;
   border-left: 2px solid var(--h);
@@ -204,8 +204,4 @@ form :is(textarea, input):is(:focus, :active) {
 
 #comments p {
   white-space: pre-wrap;
-}
-
-#comments p:not(:last-child) {
-  border-bottom: 1px dashed var(--h);
 }
