@@ -201,3 +201,11 @@ form :is(textarea, input):is(:focus, :active) {
   outline: none;
   background-color: rgb(from var(--h) r g b / 0.33);
 }
+
+#comments p {
+  white-space: pre-wrap;
+}
+
+#comments p:not(:last-child) {
+  border-bottom: 1px dashed var(--h);
+}
