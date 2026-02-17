@@ -253,6 +253,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
     <h2>Leave a comment</h2>
     <aside>
       <form method='POST' action='https://the.chicagosignguy.com/c'>
+        <input type='hidden' name='page' value={blog.path.slice('/blog/'.length, -'.html'.length)} />
         <fieldset>
           <legend>Name or alias</legend>
           <input name='name' type='text' />
