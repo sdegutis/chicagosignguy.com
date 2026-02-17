@@ -137,7 +137,7 @@ function MailingList() {
     <h2>Mailing list</h2>
 
     <p>Get notified of new blog posts every week.</p>
-    <form method='POST' action='https://the.chicagosignguy.com/e'>
+    <form method='POST' action='https://the.chicagosignguy.com/form/e'>
       <fieldset>
         <legend>Email address</legend>
         <input name='email' type='text' />
@@ -227,6 +227,8 @@ function AllArticlesPage(blogs: Blogs) {
 }
 
 function BlogPage(blog: Blog, blogs: Blogs) {
+  const blogid = blog.path.slice('/blog/'.length, -'.html'.length)
+
   return <Html title={`${blog.list.slice(0, -1)}: ${blog.title}`}>
 
     {blog.draft &&
@@ -246,14 +248,15 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>Comments</h2>
 
-    <div>
+    <div id='comments' class={blogid}>
       <p style='font-style:italic'>Loading comments...</p>
     </div>
+    <script type='module' src='/comments.js' />
 
     <h2>Leave a comment</h2>
     <aside>
-      <form method='POST' action='https://the.chicagosignguy.com/c'>
-        <input type='hidden' name='page' value={blog.path.slice('/blog/'.length, -'.html'.length)} />
+      <form method='POST' action='https://the.chicagosignguy.com/form/c'>
+        <input type='hidden' name='page' value={blogid} />
         <fieldset>
           <legend>Name or alias</legend>
           <input name='name' type='text' />
