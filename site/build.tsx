@@ -65,6 +65,12 @@ export function processSite(tree: FileTree) {
 
   pipeline.add('/index.html', HomePage(posts))
   pipeline.add('/about.html', AboutPage())
+  pipeline.add('/commented.html', <Html title="The comment thing worked.">
+    <p>Thanks for your comment, it looks great, very thoughtful. Other people will agree probably.</p>
+  </Html>)
+  pipeline.add('/signedup.html', <Html title="You are now signed up.">
+    <p>Thanks for signing up, you will receive emails sometimes now.</p>
+  </Html>)
   pipeline.add('/book.html', BookPage())
   pipeline.add('/articles.html', AllArticlesPage(posts))
 
