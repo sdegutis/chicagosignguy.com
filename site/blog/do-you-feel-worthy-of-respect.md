@@ -64,8 +64,11 @@ So I took a shot at it while at McDonald's using an index card and pencil I had 
 After about two weeks, I had done about 33 or so sketches of people on reddit asking to be drawn.
 
 People have told me I have a natural gift for it.
-Still not sure what good it's for, or how I can make any use of it.
+Still not sure what good it's for, or how I can make any use of this talent.
 Anyway, here's my favorite ones in chronological order:
+
+<details>
+<summary><h2>(The actual drawings)</h2></summary>
 
 Jan 30 (sketch #2): [Doe eyes](https://www.reddit.com/r/drawing/comments/1qr4uwu/another_mcdonalds_sketch/)
 
@@ -88,3 +91,5 @@ Feb 12 (sketch #33): [Young Saruman (unfinished)](https://www.reddit.com/r/learn
 ![Young Saruman drawing unfinished](https://preview.redd.it/i-dont-understand-hairs-v0-lznodjp4j4jg1.jpg?width=1080&crop=smart&auto=webp&s=959fea138973e75937a9504abd6619e609a85e8e)
 
 ![Young Saruman drawing finished](https://preview.redd.it/young-saruman-life-silver-5623-generic-pencil-on-dollar-v0-51k9at0wrvjg1.jpg?width=1080&crop=smart&auto=webp&s=1913aa09f453e74f9b3bf63fc37a4315e9c8223b)
+
+</details>
