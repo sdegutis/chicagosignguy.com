@@ -255,7 +255,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       <form method='POST' action='https://the.chicagosignguy.com/c'>
         <fieldset>
           <legend>Name or alias</legend>
-          <input name='email' type='text' />
+          <input name='name' type='text' />
         </fieldset>
         <fieldset>
           <legend>Comment</legend>
