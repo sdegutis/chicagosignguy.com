@@ -157,6 +157,15 @@ function MailingList() {
 function PlaylistPage() {
   return <Html title="Playlist">
 
+    <p>
+      I believe you can tell a lot about a person's character
+      by the songs they like and listen to.
+      This playlist is made up of songs I have loved at some point in my life.
+      They also conveniently detail a rough outline of my life,
+      from beginning to imagined end,
+      at least according to some interpretation.
+    </p>
+
     <iframe
       data-testid="embed-iframe"
       style="border-radius:12px"
