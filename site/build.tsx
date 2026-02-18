@@ -159,17 +159,14 @@ function PlaylistPage() {
 
     <p>
       I believe you can tell a lot about a person's character
-      by the songs they like and listen to.
-      This playlist is made up of songs I have loved at some point in my life.
-      They also conveniently detail a rough outline of my life,
-      from beginning to imagined end,
-      at least according to some interpretation.
+      by the songs they love,
+      like glass resonating at a certain frequency.
     </p>
 
     <iframe
       data-testid="embed-iframe"
       style="border-radius:12px"
-      src="https://open.spotify.com/embed/playlist/1OX2E15LN8dimA1VT1XW8M?utm_source=generator"
+      src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
       width="100%"
       height="400"
       frameborder="0"
@@ -178,8 +175,6 @@ function PlaylistPage() {
       loading="lazy" />
 
     <h2>Bonus tracks</h2>
-
-    <p>(These are only available on YouTube unfortunately.)</p>
 
     <ul class='articles'>
       <li><i>a french girl singing <a href='https://www.youtube.com/watch?v=QwoF1-1QgwA'>je te laisserai des mots</a> while it rains</i></li>
