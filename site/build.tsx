@@ -73,6 +73,7 @@ export function processSite(tree: FileTree) {
   </Html>)
   pipeline.add('/book.html', BookPage())
   pipeline.add('/articles.html', AllArticlesPage(posts))
+  pipeline.add('/playlist.html', PlaylistPage())
 
   return pipeline.results()
 }
@@ -159,7 +160,7 @@ function PlaylistPage() {
     <iframe
       data-testid="embed-iframe"
       style="border-radius:12px"
-      src="https://open.spotify.com/embed/playlist/2Lf21iQ0NprqPAFL7XkGCp?utm_source=generator"
+      src="https://open.spotify.com/embed/playlist/1OX2E15LN8dimA1VT1XW8M?utm_source=generator"
       width="100%"
       height="400"
       frameborder="0"
@@ -331,6 +332,10 @@ function AboutPage() {
 
       <p>
         So by late 2026, I plan to publish a <a href="/book.html">book</a> on all this.
+      </p>
+
+      <p>
+        I also made a <a href="/playlist.html">Spotify playlist</a> of my favorite songs ever.
       </p>
 
     </article>
