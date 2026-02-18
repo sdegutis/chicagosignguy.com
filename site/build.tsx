@@ -147,7 +147,7 @@ function MailingList() {
     <form method='POST' action='https://the.chicagosignguy.com/form/e'>
       <fieldset>
         <legend>Email address</legend>
-        <input name='email' type='text' />
+        <input autocomplete='email' name='email' type='text' />
       </fieldset>
       <input type='submit' value='Sign Up' />
     </form>
@@ -275,7 +275,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
         <input type='hidden' name='page' value={blogid} />
         <fieldset>
           <legend>Name or alias</legend>
-          <input name='name' type='text' />
+          <input autocomplete='name' name='name' type='text' />
         </fieldset>
         <fieldset>
           <legend>Comment</legend>
