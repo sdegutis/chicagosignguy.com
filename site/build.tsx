@@ -71,6 +71,9 @@ export function processSite(tree: FileTree) {
   pipeline.add('/signedup.html', <Html title="You are now signed up.">
     <p>Thanks for signing up, you will receive emails sometimes now.</p>
   </Html>)
+  pipeline.add('/404.html', <Html title="Page not found">
+    <p>Also how'd you even get here?</p>
+  </Html>)
   pipeline.add('/book.html', BookPage())
   pipeline.add('/articles.html', AllArticlesPage(posts))
   // pipeline.add('/playlist.html', PlaylistPage())
