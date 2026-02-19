@@ -73,7 +73,7 @@ export function processSite(tree: FileTree) {
   </Html>)
   pipeline.add('/book.html', BookPage())
   pipeline.add('/articles.html', AllArticlesPage(posts))
-  pipeline.add('/playlist.html', PlaylistPage())
+  // pipeline.add('/playlist.html', PlaylistPage())
 
   return pipeline.results()
 }
@@ -338,9 +338,9 @@ function AboutPage() {
         So by late 2026, I plan to publish a <a href="/book.html">book</a> on all this.
       </p>
 
-      <p>
+      {/* <p>
         I also made a <a href="/playlist.html">Spotify playlist</a> of my favorite songs ever.
-      </p>
+      </p> */}
 
     </article>
 
