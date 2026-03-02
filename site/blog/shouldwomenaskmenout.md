@@ -93,8 +93,14 @@ But most didn't answer or just smiled, a small few said yes or nodded.
 
 A young woman who identifies as a "guy,"
 yet seems very traditionally feminine,
-wrote "well frick, someone's got to"
-on the second survey.
+wrote "well frick, someone's got to" on the second survey.
+Interesting that she implied that men aren't asking women out.
+
+Related to that, one confident young man who seems like a gym bro,
+said that it's dangerous for men to ask women out,
+because if they read the situation wrong,
+all it takes is one accusation of harassment,
+and he gets MeToo'd and his life is ruined.
 
 One young man who I think identifies as gay
 and is usually dressed very effeminately
