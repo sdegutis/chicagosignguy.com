@@ -17,7 +17,7 @@ interface Blog {
 
 type Blogs = [string, Blog[]][]
 
-const md = new MarkdownIt({ html: true })
+const md = new MarkdownIt({ html: true, typographer: true })
 const fm = FrontMatter.default as unknown as typeof FrontMatter['default']['default']
 
 const order = [
