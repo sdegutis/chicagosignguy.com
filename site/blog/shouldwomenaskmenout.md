@@ -195,8 +195,6 @@ I'm confused and trying to understand life.
 The only way my surveys can be justified a little
 is that people have told me they appreciate them.
 
-![meirl](https://i.redd.it/b0s9fpr93img1.jpeg)
-
 ## Bonus content
 
 There is a piano piece I have loved for ten years now,
