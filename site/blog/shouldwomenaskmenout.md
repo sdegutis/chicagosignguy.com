@@ -194,7 +194,6 @@ Overall, my life has been a net negative.
 I've not been a good person for most of my life, if ever.
 My surveys are entirely selfish.
 I'm writing a book and collecting data.
-I'm bored and lonely and have no one to talk to.
 I'm confused and trying to understand life.
 The only way my surveys can be justified a little
 is that people have told me they appreciate them.
