@@ -138,7 +138,7 @@ and I have no one in my life to talk to,
 so I made another ad hoc cardboard sign
 that said "what is masculinity?"
 and affixed it to the light post with a stick.
-I think resourcefulness is a masculine trait.
+I almost think resourcefulness is a masculine trait.
 
 I got only two answers from people who I've talked to before.
 The first was that its entirely a social construct,
