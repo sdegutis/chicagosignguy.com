@@ -186,12 +186,11 @@ Fourth,
 I have been accidentally misleading people.
 Some people thanked me for my surveys.
 One young woman in a coffee shop said I'm a good person.
-(Sophia, you're wrong. I meant to tell you but forgot all three times.)
 Overall, my life has been a net negative.
 I've not been a good person for most of my life, if ever.
 My surveys are entirely selfish.
 I'm writing a book and collecting data.
-I'm confused and trying to understand life.
+I'm trying to understand life through other people's perspectives.
 The only way my surveys can be justified a little
 is that people have told me they appreciate them.
 
