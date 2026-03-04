@@ -198,7 +198,5 @@ is that people have told me they appreciate them.
 
 There is a piano piece I have loved for ten years now,
 so two years ago I bought a piano and learned it.
-But I have no one in my life to share it with.
-So I recorded me playing it at the library,
+I recently recorded me playing it,
 and [put it here (unlisted) on YouTube](https://youtu.be/4k7L3JCIFng).
-I hope someone enjoys it.
