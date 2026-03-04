@@ -177,10 +177,6 @@ I had no idea there was an art school residence nearby.
 Because of that, a not-insigificant number of votes
 and discussion answers come from some of them.
 This perhaps tips the scales too much in one direction.
-But I have enjoyed the conversations with many of them,
-and appreciated their willingness to engage in conversations.
-And one or two of them, I still want to talk to sometimes.
-But they are all too young. I am very old and tired.
 
 Fourth,
 I have been accidentally misleading people.
