@@ -146,19 +146,6 @@ and that it's pushed on boys too much and causes them harm,
 because then they feel like they can't discover their actual identity.
 The second answer was that people from Jupiter wouldn't care what gender we are.
 
-Then as I was walking into Panera,
-I saw ahead of me a woman I know and really wanted to talk to,
-but we were just far enough away that I avoided eye contact,
-but I did so for too long,
-as I didn't want to make her feel obligated to stop and say hi,
-hoping she would say hi to me,
-but later I realized she must have thought I was avoiding her,
-and that I didn't want to talk to her.
-So I didn't get to talk to her,
-and I probably made her feel bad unnecessarily.
-That ruined my whole day.
-I really hate being me.
-
 ## Future surveys?
 
 I am very seriously considering stopping my surveys altogether,
@@ -211,18 +198,6 @@ I'm bored and lonely and have no one to talk to.
 I'm confused and trying to understand life.
 The only way my surveys can be justified a little
 is that people have told me they appreciate them.
-
-Fifth,
-it costs a bit to run this website,
-and I live on a fixed income of book royalties,
-and nobody ever visits this website.
-I wouldn't mind the cost if anyone read it,
-but that same money could be used for cigars,
-and right now there are zero subscribers here.
-That's disheartening,
-considering how many signs I put my site name on,
-and how many people I told about my website,
-and makes me want to entirely give up on all of this.
 
 ![meirl](https://i.redd.it/b0s9fpr93img1.jpeg)
 
