@@ -167,8 +167,7 @@ and then avoid me or even making eye contact with me.
 It seems it's likely because they regret taking it,
 sharing a personal thought through a vote with a stranger,
 who then sometimes goes into their place of business.
-Causing people anxiety like this so unnecessarily
-makes me feel like human garbage,
+I regret causing people anxiety like this so unnecessarily
 and I regret creating and sustaining this scenario.
 
 Third,
