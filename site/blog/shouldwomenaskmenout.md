@@ -160,8 +160,6 @@ I do wonder if some of them have just stopped approaching me
 and doing my surveys altogether, though I wouldn't know,
 because I wouldn't recognize them just walking by.
 This makes me feel like an awful, arrogant person.
-Or rather it drives in deeper the fact that I am.
-Too deeply. Painfully deep.
 
 Second,
 sometimes employees at local businesses take my survey,
