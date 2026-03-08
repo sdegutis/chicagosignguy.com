@@ -5,7 +5,7 @@ date: 2026-03-07
 list: Surveys
 ---
 
-[Main discussion in the official subreddit.](https://www.reddit.com/r/t5_gszlzy/s/Zb6OfOoltd)
+[Main discussion in the official subreddit.](https://reddit.com/r/chicagosignguy)
 
 The two blue dots near 0,0 are from the first person who participated. He seemed pretty high and was about to draw a line. I had to stop him and explain to him to put a dot which he did but I forgot where.
 
