@@ -1,6 +1,6 @@
 ---
 title: Rate yourself
-image: /img/PXL_20260307_235951814.MP.jpg
+image: /img/rateyourself.jpg
 date: 2026-03-07
 list: Surveys
 ---
