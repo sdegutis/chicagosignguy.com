@@ -93,7 +93,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
         <link rel="stylesheet" href={"/css/base.css?" + Date.now()} />
 
         {attrs.image && <>
-          <meta property="og:image" content={attrs.image}></meta>
+          <meta property="og:image" content={'https://chicagosignguy.com' + attrs.image}></meta>
         </>}
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
