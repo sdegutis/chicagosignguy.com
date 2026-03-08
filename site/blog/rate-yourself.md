@@ -5,6 +5,8 @@ date: 2026-03-07
 list: Surveys
 ---
 
+(Side note: I started a subreddit for this over at r/ChicagoSignGuy so feel free to check that out.)
+
 The two blue dots near 0,0 are from the first person who participated. He seemed pretty high and was about to draw a line. I had to stop him and explain to him to put a dot which he did but I forgot where.
 
 Some people didn't realize it was a grid so they put two dots along each axis, even after there were already dots in the middle area.
