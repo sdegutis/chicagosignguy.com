@@ -81,7 +81,7 @@ export function processSite(tree: FileTree) {
   return pipeline.results()
 }
 
-function Html(attrs: { title: string, children: any }) {
+function Html(attrs: { title: string, image?: string, children: any }) {
   return <>
     {'<!DOCTYPE html>'}
     <html lang="en">
@@ -91,6 +91,10 @@ function Html(attrs: { title: string, children: any }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{attrs.title} - Chicago Sign Guy's Website</title>
         <link rel="stylesheet" href={"/css/base.css?" + Date.now()} />
+
+        {attrs.image && <>
+          <meta property="og:image" content={attrs.image}></meta>
+        </>}
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin='' />
@@ -243,7 +247,7 @@ function AllArticlesPage(blogs: Blogs) {
 function BlogPage(blog: Blog, blogs: Blogs) {
   const blogid = blog.path.slice('/blog/'.length, -'.html'.length)
 
-  return <Html title={`${blog.list.slice(0, -1)}: ${blog.title}`}>
+  return <Html image={blog.image} title={`${blog.list.slice(0, -1)}: ${blog.title}`}>
 
     {blog.draft &&
       <div style='position:sticky; top:3em; font-weight:bold; background:var(--b); color:var(--h)'>
