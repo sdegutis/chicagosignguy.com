@@ -5,7 +5,13 @@ date: 2026-03-07
 list: Surveys
 ---
 
-[Main discussion in the official subreddit.](https://www.reddit.com/r/ChicagoSignGuy/new/)
+[Main discussion in the official subreddit.](https://www.reddit.com/r/ChicagoSignGuy/new/) Or comment below.
+
+## The question
+
+Originally, I wanted to do a survey on self-esteem. The goal was to figure out what people think of themselves and how they see themselves. But then the plot idea came to me, and it just seemed to have so much more potential, even if it might be a bit flawed, so I just ran with it.
+
+## The results
 
 The two blue dots near 0,0 are from the first person who participated. He seemed pretty high and was about to draw a line. I had to stop him and explain to him to put a dot which he did but I forgot where.
 
@@ -20,6 +26,8 @@ Many confident people put 10/10.
 One man dressed like a lawyer who didn't participate in it, came up to me and said this should be called find the narcissists, or something to that effect, and then left.
 
 One person said there's a fine line between confidence and arrogance.
+
+One man asked if I was trying to find a correlation between people's perception of their own looks and personality, and I told him I didn't even think of that, but that yeah, there definitely might be a correlation. And in retrospect, most people did put roughly the same number, wherever it was, which you can see by there being a somewhat thick diagonal line from 0,0 to 10,10.
 
 Someone pointed at my black dot without knowing it was me and said I feel bad for whoever put that.
 
@@ -38,3 +46,5 @@ Some people asked where I put mine, maybe 3 or 4 people, and I showed the black 
 One young woman briefly put a heart at personality 9 and looks 2. I'm not sure she was paying full attention though because she walked by and did it so quickly that she may have meant to invert those.
 
 Several people noted that most people who took it were very confident. I think there's a selection bias. Someone who genuinely thinks they're personality or looks are very low probably won't want to come up and do the sign, they'd probably just look at it and get sad and keep walking on.
+
+A few times, some groups of young women took turns, and each time, their friends said they should put a higher mark. One time, a group of men went up, and they teased each guy that he should put a lower mark.
