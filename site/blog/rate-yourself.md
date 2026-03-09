@@ -9,11 +9,13 @@ list: Surveys
 
 ## The question
 
-Originally, I wanted to do a survey on self-esteem. The goal was to figure out what people think of themselves and how they see themselves. But then the plot idea came to me, and it just seemed to have so much more potential, even if it might be a bit flawed, so I just ran with it.
+Originally, I wanted to do a survey on self-esteem. The goal was to figure out what people think of themselves and how they see themselves.
+
+But then the plot idea came to me, and it just seemed to have so much more potential, even if it might be a bit flawed, so I just ran with it.
 
 ## The results
 
-The two blue dots near 0,0 are from the first person who participated. He seemed pretty high and was about to draw a line. I had to stop him and explain to him to put a dot which he did but I forgot where.
+The two blue dots near 0,0 are from the first person who participated. He seemed pretty high and was about to draw a line. I had to stop him and explain to him to put a dot which he put at 10,10.
 
 Some people didn't realize it was a grid so they put two dots along each axis, even after there were already dots in the middle area.
 
@@ -25,7 +27,7 @@ Many confident people put 10/10. Some put 11/10. One effeminate young man who pu
 
 One man dressed like a lawyer who didn't participate in it, came up to me and said this should be called find the narcissists, or something to that effect, and then left.
 
-One person said there's a fine line between confidence and arrogance.
+One person said there's a fine line between confidence and arrogance. I fully agree, it's a hard line to find.
 
 One man asked if I was trying to find a correlation between people's perception of their own looks and personality, and I told him I didn't even think of that, but that yeah, there definitely might be a correlation. And in retrospect, most people did put roughly the same number, wherever it was, which you can see by there being a somewhat thick diagonal line from 0,0 to 10,10.
 
