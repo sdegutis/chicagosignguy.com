@@ -21,7 +21,7 @@ I tried to give red to people who seemed like biological women and blue to biolo
 
 Early on I tried to explain to put a little dot. They were dots until a lady put a circle. Then some people put hearts or smiley faces. Then people started signing their names.
 
-Many confident people put 10/10.
+Many confident people put 10/10. Some put 11/10. One effeminate young man who put 11/10 for both, came back later and saw that someone outdid him, so he marked the top right most corner.
 
 One man dressed like a lawyer who didn't participate in it, came up to me and said this should be called find the narcissists, or something to that effect, and then left.
 
@@ -48,3 +48,61 @@ One young woman briefly put a heart at personality 9 and looks 2. I'm not sure s
 Several people noted that most people who took it were very confident. I think there's a selection bias. Someone who genuinely thinks they're personality or looks are very low probably won't want to come up and do the sign, they'd probably just look at it and get sad and keep walking on.
 
 A few times, some groups of young women took turns, and each time, their friends said they should put a higher mark. One time, a group of men went up, and they teased each guy that he should put a lower mark.
+
+## Sunday
+
+Previously I did my serious surveys on Sundays and random shenanigans on Saturdays.
+
+But I'm too old for the funny business, that's for younger people.
+I know they could make decent money on TikTok with it.
+I used to make a few thousand dollars per month on minimal effort TikTok videos.
+But I don't think it's ethical to keep people addicted to social media.
+
+So I'm mixing it up, and doing serious surveys on Saturdays, and random stuff on Sundays.
+
+This Sunday, I started a very topical survey meant to criticize failing priests.
+My goal is to light a fire under their rear ends by showing them that they're failing.
+My goal is *not* to spread anti-Catholic sentiment, though I'm nervous I might accidentally be doing so.
+
+Plus, after about 5 hours, I was just exhausted.
+It was probably from losing an hour's sleep from daylight savings time.
+
+So I drew up four index cards that I meant to hand to random people, with simple instructions:
+take a photo of the card (to prove you have it), post the photo to reddit, and then hand it to someone else.
+
+I only made four, since I was exhausted tired, and handed them out to four people.
+The first two I gave away pretty quickly to some young art school students I already met before.
+One of them said he's going to Michigan soon, but I assume he threw it away by now.
+
+And I saw about 5 or 6 more students I knew, and excitedly told them about the experiment,
+but when I told them I wanted to give the last two to random strangers, they seemed disappointed, or perhaps offended,
+and I felt like an asshole for accidentally misleading them and leading them on by explaining it at all to them.
+
+Later a fairly extroverted man, neither young nor old, in the midst of his friend group,
+took the third card as he walked by, saying it sounded interesting. He probably threw it away shortly after.
+
+The fourth one was a young black man with a group of his friends who I had seen before.
+They did one of my surveys and I think saw some of my funny signs.
+They asked if they could interview me for their own social media the other day, and I said no, but this time I said sure.
+They handed me a mic and asked two questions: "what would make this city a better place?" and I said "if more people made little sacrifices to help others."
+They said "very unique answer" and said "final question" (they only asked two questions), "what's your palace, your happy place?"
+I said I had none. They offered some examples or suggestions, and I said "nope" "really?" "yeah I'm just tired of this life, I'm ready to go."
+They tried to dap but I did a fist bump, I never learned how to dap up and I was holding their mic.
+Then I walked away, and they probably threw the index card out too.
+
+Here's the reddit thread for [The Travelling Note Card](https://www.reddit.com/r/ChicagoSignGuy/comments/1roh5l4/the_travelling_note_card/).
+If nothing comes of it after a week, then I'll consider it a failed experiment, but still, lessons learned.
+
+I only had to stand out there for about an hour or less for this,
+and that was after sitting and resting at Panera for half an hour.
+
+During that time I meant to go to Confession and Mass, which was an hour walk away,
+since I missed Mass earlier in order to create and do my survey outside the Catholic Church after Mass,
+but I was too exhausted, so I'll have to go next week, God willing.
+
+While I did the Survey outside the Catholic Church, I saw a young woman I'd seen at Mass once or twice before.
+She was one of the very few people who approached me to do the survey, and seems like a good Catholic woman.
+I wonder if anyone would be willing to fall in love with a man who has only a few months left,
+and therefore not enough time to marry and start a family, yet is also unwilling to sin.
+After all, Mary and Joseph were deeply in love for thirty years of marriage while both remaining virgins.
+Maybe a very good woman might. But how can you even ask that of someone? It's too much to ask.
