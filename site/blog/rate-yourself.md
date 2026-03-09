@@ -111,14 +111,6 @@ Maybe a very good woman might. But how can you even ask that of someone? It's to
 
 ## Next Weekend
 
-I briefly had the idea of doing the survey
-"Have you ever seen the movie Our God's Brother (1997)?"
-with two answers: "No" and "No, but you recommended it to me" and that's it.
+It'll probably be too cold to do one next week.
 
-One young man suggested I do something about whether people want to know if there's a point to life.
-I'm not sure how he worded it, or how I would word it, to make it both generic and interesting.
-
-The idea came to me out of nowhere last night to do "Are your parents proud of you?"
-but the inversion of that question is just as important.
-What does it matter if they aren't proud of you, if you hate their values and morals?
-So I want to find a question that somehow reflects both.
+And I'm getting more tired each week.
