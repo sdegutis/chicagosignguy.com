@@ -104,5 +104,19 @@ While I did the Survey outside the Catholic Church, I saw a young woman I'd seen
 She was one of the very few people who approached me to do the survey, and seems like a good Catholic woman.
 I wonder if anyone would be willing to fall in love with a man who has only a few months left,
 and therefore not enough time to marry and start a family, yet is also unwilling to sin.
-After all, Mary and Joseph were deeply in love for thirty years of marriage while both remaining virgins.
+After all, Mary and Joseph were deeply in love for thirty years of marriage while both remaining lifelong virgins.
 Maybe a very good woman might. But how can you even ask that of someone? It's too much to ask.
+
+## Next Weekend
+
+I briefly had the idea of doing the survey
+"Have you ever seen the movie Our God's Brother (1997)?"
+with two answers: "No" and "No, but you recommended it to me" and that's it.
+
+One young man suggested I do something about whether people want to know if there's a point to life.
+I'm not sure how he worded it, or how I would word it, to make it both generic and interesting.
+
+The idea came to me out of nowhere last night to do "Are your parents proud of you?"
+but the inversion of that question is just as important.
+What does it matter if they aren't proud of you, if you hate their values and morals?
+So I want to find a question that somehow reflects both.
