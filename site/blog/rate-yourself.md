@@ -95,6 +95,9 @@ Then I walked away, and they probably threw the index card out too.
 Here's the reddit thread for [The Travelling Note Card](https://www.reddit.com/r/ChicagoSignGuy/comments/1roh5l4/the_travelling_note_card/).
 If nothing comes of it after a week, then I'll consider it a failed experiment, but still, lessons learned.
 
+(I also created a subreddit [/r/ExplainTheJoker](https://www.reddit.com/r/ExplainTheJoker/) which is like r/ExplainTheJoke
+in that people post images of memes/jokes they want explained, but where every thread is just a discussion about the DC Comics character The Joker.)
+
 I only had to stand out there for about an hour or less for this,
 and that was after sitting and resting at Panera for half an hour.
 
