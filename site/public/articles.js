@@ -5,10 +5,12 @@ const order = container.dataset.order.split(',')
 const htag = container.querySelector('h2,h3').tagName
 
 let dir = -1
-let ran = sortByType
+let ran = sortByDate
 
 setupButton('article-list-sorter-date', sortByDate)
 setupButton('article-list-sorter-type', sortByType)
+
+sortByDate()
 
 function setupButton(id, run) {
   document.getElementById(id).onclick = e => {
