@@ -204,11 +204,21 @@ All answers were from after Mass except my own (I put "daily").
 Everyone simply said their answers verbally except for one man:
 
 The first answer was a big "X" next to "never",
-which an extremely confident,
-extremely obese Italian man drew.
+which an extremely confident, obese Italian man drew.
 
 The only woman to answer said "daily" and I applaud her honesty.
 One man said "weekly" and another said "yearly" and that's it.
+
+The reason I chose this question is because I have a few theories.
+I believe most people probably fall into mortal sin at least monthly.
+I believe women probably think they sin less than men, and I think men agree.
+I have theories on which types of people think they sin more or less than others.
+I also believe priests are not actually helping most people to quit their habitual sins.
+
+Obviously there's a huge selection bias here.
+Most people aren't going to answer this, no matter what.
+Others would have to be fairly comfortable with my surveys,
+and have some assurance of their anonymity.
 
 Once again, I think I had too many words, and they were too small.
 Plus, the people of St. Peter's aren't used to my surveys.
@@ -220,4 +230,27 @@ If you ask me in person, I'll tell you in more detail.
 I'll almost definitely add it all to my book, too.
 It summarizes criticisms I have with so many Catholics, as a Catholic.
 
+One Franciscan monk came out shortly after I started the survey,
+and as soon as I spoke to him, he interpreted me as being hostile,
+and he reciprocated with a rather confrontational and accusatory tone.
+As he spoke to me, the two security guards came out, one of whom I respect a lot.
 
+I asked him if he wanted to take my survey, and he said maybe another time.
+The other one asked me to move off church property.
+I told him that standing at the edge of the sidewalk wasn't church property.
+He told me that people had complained to him about feeling unsettled by me.
+I said it's not my intention to unsettle anyone, and then I moved down a bit,
+telling him that I only intend to be a good Catholic,
+which he very visibly scoffed at as he went back in.
+
+Later, he came out again, and I tried to get his attention several times,
+which he blatantly ignored, until I finally just asked if I was far enough,
+which he said yes to, while still ignoring me thanking him.
+
+Next week, I want to do another survey,
+but I am very concerned that the one security guard would actually call the police,
+and even though I'm not breaking any laws as far as I'm aware of,
+I'm definitely not a lawyer,
+and I'm not willing to die on this particular hill.
+At least not in this way, and not so soon.
+I have a book to finish.
