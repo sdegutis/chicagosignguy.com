@@ -243,6 +243,14 @@ I said it's not my intention to unsettle anyone, and then I moved down a bit,
 telling him that I only intend to be a good Catholic,
 which he very visibly scoffed at as he went back in.
 
+As a slight backstory, my first interaction with this particular security guard
+was about 3 months ago, on a day of freezing rain some time in December,
+when I was changing my freezing wet socks for a dry pair in their bathroom stall,
+while standing and holding the stall door to balance myself,
+which he loudly and suddenly banged on, telling me the church is closing soon.
+When I left the bathroom, he was there, with a face that was clearly judging and condemning me.
+I forgive him and I pray that God soften his heart and give him inner peace.
+
 Later, he came out again, and I tried to get his attention several times,
 which he blatantly ignored, until I finally just asked if I was far enough,
 which he said yes to, while still ignoring me thanking him.
