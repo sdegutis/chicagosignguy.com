@@ -5,6 +5,10 @@ date: 2026-03-16
 list: Experiments
 ---
 
+[Skip to comments](#all-comments)
+
+[Reddit discussion](https://www.reddit.com/r/ChicagoSignGuy/comments/1rvc6sl/experiment_collaborative_art_chicago_sign_guys/)
+
 This Sunday, I did a brief survey just for Catholics, and things went very wrong.
 There's a short section at the end of this article about it.
 But instead of a typical survey, I had the idea for a social experiment.

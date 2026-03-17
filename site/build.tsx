@@ -264,7 +264,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       {blog.html}
     </article>
 
-    <h2>Comments</h2>
+    <h2 id='all-comments'>Comments</h2>
 
     <div id='comments' class={blogid}>
       <p style='font-style:italic'>Loading comments...</p>
