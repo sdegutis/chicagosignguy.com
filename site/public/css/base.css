@@ -206,6 +206,10 @@ form :is(textarea, input):is(:focus, :active) {
   background-color: rgb(from var(--h) r g b / 0.33);
 }
 
+* {
+  scroll-margin-top: 3em;
+}
+
 #comments p {
   white-space: pre-wrap;
 }
