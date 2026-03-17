@@ -261,6 +261,11 @@ function BlogPage(blog: Blog, blogs: Blogs) {
         <br />
         <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
       </p>
+
+      <p>
+        <a href='#all-comments' style='font-style:italic'>Skip to comments</a>
+      </p>
+
       {blog.html}
     </article>
 
