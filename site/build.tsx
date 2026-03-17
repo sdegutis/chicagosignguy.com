@@ -115,7 +115,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
         </header>
 
         <main>
-          <h1>{attrs.title}</h1>
+          <h1 id='main-article'>{attrs.title}</h1>
           {attrs.children}
         </main>
 
@@ -265,6 +265,8 @@ function BlogPage(blog: Blog, blogs: Blogs) {
     </article>
 
     <h2 id='all-comments'>Comments</h2>
+
+    <p><a href='#main-article' style='font-style:italic'>Back to top</a></p>
 
     <div id='comments' class={blogid}>
       <p style='font-style:italic'>Loading comments...</p>
