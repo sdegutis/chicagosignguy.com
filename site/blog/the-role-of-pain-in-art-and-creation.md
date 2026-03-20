@@ -3,7 +3,6 @@ title: The role of pain in art and creation
 image: /img/moviestills\Screenshot_2025-12-19_123424.png
 date: 2026-01-08
 list: Thoughts
-draft: true
 ---
 
 A few months ago, I was walking down an empty road.

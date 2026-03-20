@@ -3,7 +3,6 @@ title: Awkward Small Talk, only $2
 image: /img/awkwardsmalltalk.jpg
 date: 2026-01-07
 list: Jokes
-draft: true
 ---
 
 The world needs more cringe,
