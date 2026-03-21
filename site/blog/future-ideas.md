@@ -112,7 +112,7 @@ for me to ask for their number.
 But I never have.
 
 I met someone on Thursday
-who checked off some of these boxes,
+who does street art like me,
 and for the first time ever,
 I asked for someone's number
 while doing one of my signs.
