@@ -2,7 +2,7 @@
 title: Future Ideas, & Help Sign Guy Find Love
 image: /img/bookcover1.jpg
 date: 2026-03-20
-list: Experiments
+list: Thoughts
 ---
 
 These are some ideas I wrote down late last year.
