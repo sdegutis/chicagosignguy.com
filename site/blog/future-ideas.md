@@ -108,11 +108,11 @@ with anyone, ever.
 
 While doing my signs,
 many women have waited what seemed like 3-5 business days
-for me to ask for their number,
+for me to ask for their number.
 But I never have.
 
 I met someone on Thursday
-who checked off all these boxes,
+who checked off some of these boxes,
 and for the first time ever,
 I asked for someone's number
 while doing one of my signs.
