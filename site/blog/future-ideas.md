@@ -106,10 +106,11 @@ What I do mind,
 is not having ever made any meaningful human connections,
 with anyone, ever.
 
-While doing my signs,
+While doing my funny signs and serious surveys,
 many women have waited what seemed like 3-5 business days
-for me to ask for their number.
+for me to ask for their number, before walking away.
 But I never have.
+I could tell they all wanted an ordinary life.
 
 I met someone on Thursday
 who does street art like me,
