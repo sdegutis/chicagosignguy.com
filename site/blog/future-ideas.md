@@ -101,10 +101,12 @@ And I made them short, because I wanted to write them *on a sign*.
 I don't mind being poor.
 I'm intentionally poor, for various reasons.
 Financial success never made me happy.
+And there are so many benefits to voluntary poverty.
 
 What I do mind,
-is not having ever made any meaningful human connections,
-with anyone, ever.
+is not having *ever* made any meaningful human connections,
+*with anyone, ever*.
+(Except that's not true anymore. I think I have 2 or 3 friends now.)
 
 While doing my funny signs and serious surveys,
 many women have waited what seemed like 3-5 business days
