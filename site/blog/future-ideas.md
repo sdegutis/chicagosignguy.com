@@ -117,7 +117,7 @@ who does street art like me,
 and checks off some of these boxes.
 So for the first time ever,
 I asked for someone's number
-while doing one of my signs.
+while doing a sign.
 
 I told my friends a little about her,
 and they told me to just be myself.
