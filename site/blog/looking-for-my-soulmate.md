@@ -31,7 +31,7 @@ Someone asked if my soulmate has to have any political preference and I said no.
 
 One young woman I know, who back in December asked me to knock the Mario coins out of her and was disappointed that I wouldn't, read the sign today and suggested that maybe I'm looking for a female version of myself. It was an interesting thought I hadn't considered. After some thought, I think I'm just looking for someone in the same state of mind, with a common disillusionment. I'd be okay if she was wildly different in most ways.
 
-Another young woman I know, also a college student, and one who feels like a little sister to me, came up and we talked for a while about many things. I told her about what the other young man said before I did the sign, and she suggested that it comes from the fact that he's so young and inexperienced. She suggested that the about me section should be equal in length to the about her section to be balanced. I protested that my book and snowball business counted as about 5 slots.
+Another young woman I know, also a college student, and one who feels like a little sister to me, came up and we talked for a while about many things. I told her about what the other young man said before I did the sign, and she suggested that it comes from the fact that he's so young and inexperienced. She suggested that the about me section should be equal in length to the about her section to be fair and balanced. I protested that my book and snowball business counted as about 5 slots.
 
 Near the very end, a young black woman came up and asked if she has to be in her 30s and I said yeah. She said she is just a number baby and she's 25 and has 3 kids, as she walked back to her group. Her tone was clearly that she was joking but perhaps genuinely down.
 
