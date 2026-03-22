@@ -2,7 +2,7 @@
 title: Looking for my Soulmate
 image: /img/lookingformysoulmate.jpg
 date: 2026-03-21
-list: Experiment
+list: Experiments
 ---
 
 Today I wanted to see what would happen if I put out an advertisement for my soulmate. I had no idea what to expect, except that I almost definitely would not find her today.
