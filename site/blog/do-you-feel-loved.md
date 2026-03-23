@@ -84,7 +84,7 @@ I saw another young couple that I had met before and they remembered me but I do
 
 <a href='#content-toc' style='font-style:italic'>Back to top</a>
 
-One of my almost-friends stopped by but was running late for something.
+One of my pseudo-friends stopped by but was running late for something.
 She said "are you good?" and her question threw me off,
 because usually people only ask that when something is wrong,
 and I wasn't aware of giving off any such vibe.
@@ -170,7 +170,7 @@ which is entirely possible, though I didn't discern any obvious accent.
 
 <a href='#content-toc' style='font-style:italic'>Back to top</a>
 
-At the end, as I was leaving, I saw one of my almost-friends,
+At the end, as I was leaving, I saw one of my pseudo-friends,
 who invited me to hang out with him and his friends,
 but I would miss even my late train if I did,
 and have to take the midnight train.
