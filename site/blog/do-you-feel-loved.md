@@ -63,6 +63,8 @@ which just watered down the meaning of Usually.
 
 Very early on someone asked why there wasn't an always category, I said I don't think it's true for anyone that they feel loved 24/7/365. He said he would have put always if it was there. About 5 or 7 people said they would put always if it was there and put Usually since it wasn't. Around 5pm or so, someone I've talked with a few times came and did the survey and asked if she could put always, and I said I wouldn't stop her. After her a few people added theirs to it.
 
+One young man said that a lot of people love the idea of him that they have in their head, but not him per se.
+
 One friendly woman I'd never seen before asked me what my answer was and I said Rarely, and she said something nice that I don't remember and asked if I wanted a hug which I accepted. The hug felt rather meaningless and empty, a mere statement about her extroversion and compassion, and not at all a reflection of my actual worth.
 
 Two people who put Never were with friends or family, and still said yeah they were serious.
