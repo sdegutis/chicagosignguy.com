@@ -177,7 +177,7 @@ and chalked them up as too busy to read my sign.
 This was different.
 To this man, I wasn't even worth him paying the *slightest* attention
 to *any* of my words, spoken or written, *even when he had ample time.*
-He seems to live on a higher plane of existence than the rest of us mere mortals.
+He seems to live on a higher plane of existence than the rest of us mere mortals. Tsfpmo.
 
 The only way I could excuse him is if he barely speaks English and can't read any English,
 which is entirely possible, though I didn't discern any obvious accent.
