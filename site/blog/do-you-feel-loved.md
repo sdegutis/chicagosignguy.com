@@ -112,7 +112,7 @@ Shortly after, police came to Panera. Later police came again to Panera and I as
 
 Around 6pm this guy who was 4 inches taller than me came over and asked if my sign was religious, and started ranting about politics and evangelicals for literally 20 minutes, saying people on the left need to get guns and start killing people on the right, how women are dying from lack of access to health care, how he used to live in his car for a decade, among many other things. At some point, when he was very heated about a certain topic, I said I can't agree with him on his moral stance because I'm Catholic, and I wondered if he would get violent over it, but he didn't. Anyway he made me miss my train.
 
-Just as I was finishing talking to one of my friends,
+Just as I was finishing talking to one of my close acquaintances,
 an alarm went off in the Zara building and a couple firetrucks pulled up,
 and more emergency vehicles too, and blocked an area off with tape.
 I didn't find out what's going on, I went into Panera to warm up.
