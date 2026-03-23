@@ -146,19 +146,19 @@ the man smilingly looked at my sign for a solid 10 seconds
 while he stood there waiting for her to figure out the directions.
 
 As they walked past me again, I said "survey?"
-He said "sorry I don't have any money"
+He smilingly said "sorry I don't have any money"
 as he walked past me with his navigator wife.
-I replied "I didn't say anything about money"
+I replied "I said nothing about money"
 while they were still in earshot and they kept walking.
 I said "that was rude" but they didn't turn around.
 
-I felt some emotions in that moment, and didn't say anything else,
+I felt some emotions in that moment. I didn't say anything else,
 but if I had to put words to those emotions retrospectively, they'd be:
 "The fuck dude. You had plenty of time to read my sign,
 and clearly read some of it, and saw nothing about money.
 And I didn't ask for money, or mention money,
-and I'm wearing $600 pants and a $400 coat and $150 shoes.
-Go fuck yourself, imbecile."
+and I'm wearing $600 Hugo Boss pants, a $400 wool overcoat, and $160 Timberlands.
+Go fuck yourself."
 
 Of course I didn't say any of this,
 and my emotions might have overreacted,
