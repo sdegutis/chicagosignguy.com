@@ -115,7 +115,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
         </header>
 
         <main>
-          <h1 id='main-article'>{attrs.title}</h1>
+          <h1>{attrs.title}</h1>
           {attrs.children}
         </main>
 
@@ -259,6 +259,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       <p>
         <img src={blog.image} />
         <br />
+        <span id='main-article' />
         <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
       </p>
 

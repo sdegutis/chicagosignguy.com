@@ -5,8 +5,6 @@ date: 2026-03-22
 list: Surveys
 ---
 
-<div id="content-toc"></div>
-
 ## Table of Contents
 
 * <a href="#content-prologue">Prologue</a>
@@ -19,7 +17,7 @@ list: Surveys
 
 ## Prologue
 
-<a href='#content-toc' style='font-style:italic'>Back to top</a>
+<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 The sign was originally going to be "do you _feel_ like God loves you?" Because I rarely do, and I was going to do it outside St. Peter's again.
 The only time I *feel* like he does is when I'm first waking up in the morning under warm, soft, cozy blankets and my mind is blank.
@@ -33,7 +31,7 @@ but I think this counts as one of the seven spiritual works of mercy, which are 
 
 ## Results
 
-<a href='#content-toc' style='font-style:italic'>Back to top</a>
+<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 Rough tally counts:
 
@@ -92,7 +90,7 @@ I saw another young couple that I had met before and they remembered me but I do
 
 ## Events
 
-<a href='#content-toc' style='font-style:italic'>Back to top</a>
+<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 One of my close acquaintances stopped by but was running late for something.
 She said "are you good?" and her question threw me off,
@@ -131,7 +129,7 @@ I didn't find out what's going on, I went into Panera to warm up.
 
 ## Professional Ragebaiter
 
-<a href='#content-toc' style='font-style:italic'>Back to top</a>
+<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 I rarely get pissed off by anything or anyone while doing my signs,
 even when gang bangers tried to rob me or drug dealers tried to scare me away
@@ -178,7 +176,7 @@ which is entirely possible, though I didn't discern any obvious accent.
 
 ## Epilogue
 
-<a href='#content-toc' style='font-style:italic'>Back to top</a>
+<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 At the end, as I was leaving, I saw one of my close acquaintances,
 who invited me to hang out with him and his friends,
