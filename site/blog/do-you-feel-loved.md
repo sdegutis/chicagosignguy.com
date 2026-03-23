@@ -110,8 +110,10 @@ Among the ones that fit the theme for today was
 (Gary Jules [did it better](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP?si=988b6565ada14854)),
 and [Creep](https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe?si=e57ae0f121d84721).
 I wanted to see what would happen if I sang to myself in public. It turns out nothing. People just ignore you.
+As I was walking away from the cigar shop, a young woman walked by who was singing audibly with her headphones on, a rare treat.
+I almost stopped her to say I was just doing that before I bought my cigar, but didn't.
 
-I gave a few people a light with my giant lighter including a homeless woman who was surprised by how big it was (no Diddy). That was my proudest moment today, impressing a homeless woman.
+I gave a few people a light with my giant lighter including a homeless woman who was surprised by how big it was (no diddy). That was my proudest moment today, impressing a homeless woman.
 
 I helped someone move a solid wood desk about half a block. For those two minutes I felt like a useful human being.
 
@@ -168,6 +170,16 @@ but how arrogant do you have to be
 to smilingly stare at a survey with *very* few words,
 being held by an expensively dressed man,
 and smilingly assume that he wants money?
+
+To be clear, I don't mind people thinking I'm homeless.
+People who don't speak English have offered me money and I declined.
+Some people who do speak English even offered a buck or two,
+and while I appreciated it, I still declined.
+
+This was different.
+To this man, I wasn't even worth him paying the *slightest* attention
+to *any* of my words, spoken or written, *even when he had ample time.*
+He seems to live on a higher plane of existence than the rest of us mere mortals.
 
 The only way I could excuse him is if he barely speaks English and can't read any English,
 which is entirely possible, though I didn't discern any obvious accent.
