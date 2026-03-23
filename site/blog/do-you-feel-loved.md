@@ -48,6 +48,12 @@ Rough tally counts:
 
 Most people put Usually or Often. I feel like there's selection bias again. People who feel Rarely or Never are probably not walking around Chicago, or if they are they're probably not looking at random signs, or if they are they probably aren't in the mood to participate.
 
+Most of the Catholics coming out of Mass didn't see my sign,
+because an older man with a foreign accent,
+who came out early and stopped to talk with me,
+stood right in front of it and talked at me for about 5 whole minutes.
+He was very nice though, and oblivious, and supportive.
+
 I didn't put Always as the last option like I was about to,
 because I felt like people in a really good mood would put it down,
 even if it's not realistic.
