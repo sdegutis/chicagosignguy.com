@@ -65,3 +65,11 @@ function show(nodes) {
   ul.append(...nodes)
   container.replaceChildren(ul)
 }
+
+async function shareThisPage() {
+  const title = document.querySelector('h1').innerText
+  navigator.share({
+    url: location.href,
+    title,
+  })
+}

@@ -263,6 +263,10 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       </p>
 
       <p>
+        <a href="#" onclick="shareThisPage(); return false">Share this article</a> with curious people.
+      </p>
+
+      <p>
         <a href='#all-comments' style='font-style:italic'>Skip to comments</a>
       </p>
 
