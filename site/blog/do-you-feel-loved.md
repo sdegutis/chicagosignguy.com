@@ -23,10 +23,9 @@ list: Surveys
 
 The sign was originally going to be "do you _feel_ like God loves you?" Because I rarely do, and I was going to do it outside St. Peter's again.
 The only time I *feel* like he does is when I'm first waking up in the morning under warm, soft, cozy blankets and my mind is blank.
+I did do this survey outside St. Peter's but I made it more generic in case I wanted to do it elsewhere.
 
-I did do this survey outside St Peter's but I made it more generic so I could reuse it elsewhere. I got about 5 or 10 answers there, in Often or Usually. One of them was that same young woman I briefly mentioned a few weeks ago. She's too young for me, she's gotta be like 25 at most. Two of them were the homeless people outside the church.
-
-But I had nothing better to do today, so I wanted to do the survey at my normal spot at State and Randolph again.
+Since I had nothing better to do today, I wanted to do the survey at my normal spot at State and Randolph again.
 One or two priests have said I shouldn't work on Sundays and should find something else to do, like a hobby or helping at a soup kitchen,
 but I think this counts as one of the seven spiritual works of mercy, which are allowed today.
 
@@ -46,13 +45,18 @@ Rough tally counts:
 | Usually | 90    | 44%     |
 | Always  | 15    | 7%      |
 
-Most people put Usually or Often. I feel like there's selection bias again. People who feel Rarely or Never are probably not walking around Chicago, or if they are they're probably not looking at random signs, or if they are they probably aren't in the mood to participate.
-
 Most of the Catholics coming out of Mass didn't see my sign,
 because an older man with a foreign accent,
 who came out early and stopped to talk with me,
 stood right in front of it and talked at me for about 5 whole minutes.
 He was very nice though, and oblivious, and supportive.
+
+I got about 5 or 10 answers there, in Often or Usually. One of them was that same young woman I briefly mentioned a few weeks ago. She's too young for me, she's gotta be like 25 at most. Two of them were the homeless people outside the church.
+The security people didn't come out and shoo me away today, which was nice.
+
+Then I went to the State and Randolph location.
+
+Most people put Usually or Often. I feel like there's selection bias again. People who feel Rarely or Never are probably not walking around Chicago, or if they are they're probably not looking at random signs, or if they are they probably aren't in the mood to participate.
 
 I didn't put Always as the last option like I was about to,
 because I felt like people in a really good mood would put it down,
