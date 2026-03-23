@@ -69,7 +69,7 @@ function show(nodes) {
 async function shareThisPage() {
   const title = document.querySelector('h1').innerText
   navigator.share({
-    url: location.href,
+    url: location.href.replace(/#.+/, ''),
     title,
   })
 }
