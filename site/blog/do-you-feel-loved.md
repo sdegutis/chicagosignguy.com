@@ -138,7 +138,7 @@ looking at their phone and trying to figure out how to get to their destination.
 
 As the man passed me by smilingly, he didn't even look at my sign,
 but looked at me smilingly, and shook his head no,
-and waved his hand as if to say "pass," and kept walking by smilingly.
+and waved his hand as if to say "pass," and kept walking by.
 
 I saw him come back my way about 2 minutes later,
 and while his wife was checking directions,
@@ -165,12 +165,14 @@ and my emotions might have overreacted,
 but how arrogant do you have to be
 to smilingly stare at a survey with *very* few words,
 being held by an expensively dressed man,
-and smilingly assume that he wants money?
+and assume he's begging?
 
 To be clear, I don't mind people thinking I'm homeless.
+Some of the nicest people I've met are homeless people.
 People who don't speak English have offered me money and I declined.
-Some people who do speak English even offered a buck or two,
-and while I appreciated it, I still declined.
+Some people who do even offered me a buck or two,
+and while I appreciated it, I still declined,
+and chalked them up as too busy to read my sign.
 
 This was different.
 To this man, I wasn't even worth him paying the *slightest* attention
