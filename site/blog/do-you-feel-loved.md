@@ -199,3 +199,8 @@ and seemingly not for any selfish reasons,
 nor as a mere reflection of their own conceit,
 but just out of genuine and selfless compassion.
 When I talk to those people, I feel loved.
+
+My tentative plan next week is to do "Do you feel worthy of love?"
+I wonder what makes a person feel that way or not.
+This time I'll add "bonus question: why?"
+like I planned to do this week but didn't.
