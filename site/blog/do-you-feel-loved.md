@@ -76,7 +76,7 @@ In retrospect, I think Sometimes probably means Rarely.
 
 A large Ukrainian or something man came by and did his answer and asked for my answer and I said Rarely and he gave me a fist bump and then said something like "I love you bro" and walked away. I can't describe how it went down that well in words, but just know that in person, it was one of the coolest things ever, not even a little weird. He was just *that guy.*
 
-I saw another young couple that I had met before and they remembered me but I don't remember our conversation, only that I met them before, and only because the girl's eyes were so locked in and so big and round and doey. They were also probably high af though because their answers were like how they feel loved by the sun and the moon who look after them or take care of them or something.
+I saw another young couple that I had met before and they remembered me but I don't remember our conversation, only that I met them before, and only because the girl's eyes were so locked in and so big and so round and so doey. They were also probably high as fuck though because they said they feel loved by the sun and the moon who look after them from above or something. I'm not doing justice to how little what they said made sense. She stared at me silently with blank, happy eyes for *so long* bro, literally.
 
 <div id="content-events"></div>
 
