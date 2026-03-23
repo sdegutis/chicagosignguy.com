@@ -125,7 +125,7 @@ I didn't find out what's going on, I went into Panera to warm up.
 
 I rarely get pissed off by anything or anyone while doing my signs,
 even when gang bangers tried to rob me or drug dealers tried to scare me away
-because I'm making their customers lose out on drug money via begging.
+because I'm making their beggar customers lose out on drug money.
 
 One couple who were about 65 and looked like vegan hikers wandered by,
 looking at their phone and trying to figure out how to get to their destination.
