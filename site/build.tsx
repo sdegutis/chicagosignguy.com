@@ -274,9 +274,8 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       {blog.html}
     </article>
 
+    <p><a href='#main-article' class='back-to-top'>Back to top</a></p>
     <h2 id='all-comments'>Comments</h2>
-
-    <p><a href='#main-article' style='font-style:italic'>Back to top</a></p>
 
     <div id='comments' class={blogid}>
       <p style='font-style:italic'>Loading comments...</p>

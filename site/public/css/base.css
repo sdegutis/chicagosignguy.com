@@ -213,3 +213,9 @@ form :is(textarea, input):is(:focus, :active) {
 #comments p {
   white-space: pre-wrap;
 }
+
+.back-to-top {
+  font-style: italic;
+  float: right;
+  margin-top: .5em;
+}

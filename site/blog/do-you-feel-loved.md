@@ -14,10 +14,9 @@ list: Surveys
 * <a href="#content-epilogue">Epilogue</a>
 
 <div id="content-prologue"></div>
+<a href='#main-article' class='back-to-top'>Back to top</a>
 
 ## Prologue
-
-<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 The sign was originally going to be "do you _feel_ like God loves you?" Because I rarely do, and I was going to do it outside St. Peter's again.
 The only time I *feel* like he does is when I'm first waking up in the morning under warm, soft, cozy blankets and my mind is blank.
@@ -27,10 +26,9 @@ One or two priests have said I shouldn't work on Sundays and should find somethi
 but I think this counts as one of the seven spiritual works of mercy, which are allowed today.
 
 <div id="content-results"></div>
+<a href='#main-article' class='back-to-top'>Back to top</a>
 
 ## Results
-
-<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 Rough tally counts:
 
@@ -87,10 +85,9 @@ A large Ukrainian or something man came by and did his answer and asked for my a
 I saw another young couple that I had met before and they remembered me but I don't remember our conversation, only that I met them before, and only because the girl's eyes were so locked in and so big and so round and so doey. The couple were also probably high as fuck though because they said they feel loved by the sun and the moon who look after them from above or something. I'm not doing justice to how little what they said made sense. She stared at me silently with blank, happy eyes for *so long* bro, literally.
 
 <div id="content-events"></div>
+<a href='#main-article' class='back-to-top'>Back to top</a>
 
 ## Events
-
-<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 One of my close acquaintances stopped by but was running late for something.
 She said "are you good?" and her question threw me off,
@@ -128,10 +125,9 @@ and more emergency vehicles too, and blocked an area off with tape.
 I didn't find out what's going on, I went into Panera to warm up.
 
 <div id="content-ragebait"></div>
+<a href='#main-article' class='back-to-top'>Back to top</a>
 
 ## Professional Ragebaiter
-
-<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 I rarely get pissed off by anything or anyone while doing my signs,
 even when gang bangers tried to rob me or drug dealers tried to scare me away
@@ -185,10 +181,9 @@ The only way I could excuse him is if he barely speaks English and can't read an
 which is entirely possible, though I didn't discern any obvious accent.
 
 <div id="content-epilogue"></div>
+<a href='#main-article' class='back-to-top'>Back to top</a>
 
 ## Epilogue
-
-<a href='#main-article' style='font-style:italic'>Back to top</a>
 
 At the end, as I was leaving, I saw one of my close acquaintances,
 who invited me to hang out with him and his friends,
