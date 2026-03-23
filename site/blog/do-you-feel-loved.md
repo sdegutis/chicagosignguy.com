@@ -91,7 +91,7 @@ and I wasn't aware of giving off any such vibe.
 I asked her what she meant and she clarified asking if I'm okay,
 and I said "never, but you're running late."
 So she left, and I forgot to ask if she watched that movie yesterday
-that she said she was going to and which I recommended.
+that she said she was going to and which I recommend to people.
 I doubt it, but it doesn't matter.
 
 It was freezing and sometimes raining so I took a lot of breaks in that little area and sang some songs
