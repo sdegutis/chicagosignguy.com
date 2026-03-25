@@ -84,7 +84,7 @@ In retrospect, I think Sometimes probably means Rarely.
 
 A large Ukrainian or something man came by and did his answer and asked for my answer and I said Rarely and he gave me a fist bump and then said something like "I love you bro" and walked away. I can't describe how it went down that well in words, but just know that in person, it was one of the coolest things ever, not even a little weird. He was just *that guy.*
 
-I saw another young couple that I had met before and they remembered me but I don't remember our conversation, only that I met them before, and only because the girl's eyes were so locked in and so big and so round and so doey. The couple were also probably high as fuck though because they said they feel loved by the sun and the moon who look after them from above or something. I'm not doing justice to how little what they said made sense. She stared at me silently with blank, happy eyes for *so long* bro, literally.
+I saw another young couple that I had met before and they remembered me but I don't remember our conversation, only that I met them before, and only because the girl's eyes were so locked in and so big and so round and so doey. The couple were also probably high as <span style="filter:blur(3px)">fuck</span> though because they said they feel loved by the sun and the moon who look after them from above or something. I'm not doing justice to how little what they said made sense. She stared at me silently with blank, happy eyes for *so long* bro, literally.
 
 <div id="content-events"></div>
 <a href='#main-article' class='back-to-top'>Back to top</a>
@@ -156,11 +156,11 @@ I said "that was rude" but they didn't turn around.
 
 I felt some emotions in that moment. I didn't say anything else,
 but if I had to put words to those emotions retrospectively, they'd be:
-"The fuck dude. You had plenty of time to read my sign,
+"The <span style="filter:blur(3px)">fuck</span> dude. You had plenty of time to read my sign,
 and clearly read some of it, and saw nothing about money.
 And I didn't ask for money, or mention money,
 and I'm wearing $600 Hugo Boss pants, a $400 wool overcoat, and $160 Timberlands.
-Go fuck yourself."
+Go <span style="filter:blur(3px)">fuck</span> yourself."
 
 Of course I didn't say any of this,
 and my emotions might have overreacted,
