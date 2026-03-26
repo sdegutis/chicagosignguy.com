@@ -135,7 +135,7 @@ and he handed me a little Protestant booklet from his delivery truck.
 I answered all his questions simply and honestly,
 but he would rather that I had read from his little Protestant script.
 He wanted me to be just as much a brainwashed clone as he was.
-I really don't think he knows Jesus that well.
+I don't think he knows the same Jesus I do.
 
 I told him several times that I wasn't trying to convert anyone,
 I was just advertising my book, which I wrote for fun and profit.
