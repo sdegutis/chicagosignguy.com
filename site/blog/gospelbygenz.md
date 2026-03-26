@@ -130,7 +130,7 @@ He insisted that I got it wrong,
 and that I have a lot of learning to do,
 and he handed me a little Protestant booklet from his delivery truck.
 
-I answered question simply and honestly,
+I answered all his questions simply and honestly,
 but he would rather that I had read from his little Protestant script.
 He wanted me to be just as much a brainwashed clone as he was.
 I really don't think he knows Jesus that well.
