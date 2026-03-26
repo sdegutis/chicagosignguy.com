@@ -72,12 +72,13 @@ Design is hard.
 ## Interactions
 
 Many people glanced at the sign.
-Most looked away after 2 seconds and kept walking.
+Most looked away after about 2 seconds.
 They literally just "kept scrolling" lol.
 
 One pair of teenage girls did a second take,
 stopped to read for 2 seconds,
 and one told the other "it's Bible brain rot!"
+and they walked away laughing about it.
 
 Very early on, it occurred to me that
 I had put the title and the "on Amazon" and the "sale"
@@ -114,8 +115,9 @@ and asked what all of this was. He was talking fairly slowly,
 and I wasn't sure what he wanted for a while.
 
 He kept asking odd questions,
-like "what is the gospel to you?"
-and "what do you say when people say Jesus is the son of God?"
+like *"what do you say when people call Jesus the son of God?"*
+and *"what is the gospel to you?"*
+and *"why do we need Jesus for that?"*
 
 After a while, I thought he was just interested in Christianity,
 so I introduced myself, but he didn't give me his name, and seemed odd.
