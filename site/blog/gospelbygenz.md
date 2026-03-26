@@ -107,23 +107,40 @@ when I do other experiments,
 they seem a bit put off, and move on quickly.
 It always makes me feel a bit guilty for not doing a survey.
 
+## Preaching
+
 One guy came up to me about halfway through, a delivery driver,
 and asked what all of this was. He was talking fairly slowly,
 and I wasn't sure what he wanted for a while.
+
 He kept asking odd questions,
-like "what is the gospel?"
+like "what is the gospel to you?"
 and "what do you say when people say Jesus is the son of God?"
+
 After a while, I thought he was just interested in Christianity,
 so I introduced myself, but he didn't give me his name, and seemed odd.
-After a little while, he revealed that he is in fact a Christian,
+I was starting to think he was perhaps having a serious personal crisis.
+
+After a little while, he revealed that he is in fact a Christian
+(in fact a stereotypical Protestant, though he didn't call himself that),
 and he was testing me to see what my answer would be
 if someone asked what the gospel is.
+
 He insisted that I got it wrong,
 and that I have a lot of learning to do,
 and he handed me a little Protestant booklet from his delivery truck.
-It was adorable and sad at the same time.
+
+I answered question simply and honestly,
+but he would rather that I had read from his little Protestant script.
+He wanted me to be just as much a brainwashed clone as he was.
+I really don't think he knows Jesus that well.
+
 I told him several times that I wasn't trying to convert anyone,
 I was just advertising my book, which I wrote for fun and profit.
+But he was on a mission to get me to evangelize properly or whatever.
+
+Anyway he left and handed me a little booklet that he insisted I should read,
+which was as typical, useless, and boring as you could possibly expect, in every conceivable way.
 
 ## Epilogue
 
