@@ -60,7 +60,7 @@ I think I'll have this:
 >
 > The Gospel by Gen Z
 >
-> ★★★★☆ 4.6 stars
+> ★★★★☆ 4.6  
 > on Amazon
 >
 > 50% off SALE!
