@@ -58,7 +58,7 @@ I think I'll have this:
 > "mary was a pick-me girl for god  
 > and was simping for him in prayer..."
 >
-> get my book
+> get my book  
 > The Gospel by Gen Z
 >
 > ★★★★☆ 4.6  
@@ -142,7 +142,7 @@ But he was on a mission to get me to evangelize properly or whatever.
 Anyway he left and handed me a little booklet that he insisted I should read,
 which was as typical, useless, and boring as you could possibly expect, in every conceivable way.
 
-## Epilogue
+## Results
 
 I got about 3 sales while holding the sign for a few hours,
 and 1 more sale later that day (6 total for March 25th),
