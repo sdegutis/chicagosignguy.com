@@ -58,6 +58,7 @@ I think I'll have this:
 > "mary was a pick-me girl for god  
 > and was simping for him in prayer..."
 >
+> get my book
 > The Gospel by Gen Z
 >
 > ★★★★☆ 4.6  
@@ -65,8 +66,7 @@ I think I'll have this:
 >
 > 50% off SALE!
 
-It still doesn't make it clear that it's a *book* though.
-And it already feels just a little too busy.
+It already feels just a little too busy.
 Design is hard.
 
 ## Interactions
