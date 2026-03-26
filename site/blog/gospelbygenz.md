@@ -71,8 +71,8 @@ Most looked away after 2 seconds and kept walking.
 They literally just "kept scrolling" lol.
 
 One pair of teenage girls did a second take,
-stopped to read it a few seconds,
-and one said "bro this is literally Bible brain rot!"
+stopped to read for 2 seconds,
+and one told the other "it's Bible brain rot!"
 
 Very early on, it occurred to me that
 I had put the title and the "on Amazon" and the "sale"
@@ -89,11 +89,11 @@ She told me she quotes it all the time!
 As an art student, I'm curious what she thinks of my stylistic choices.
 
 One young woman read it for half a second,
-stopped, came up to me to read it more,
-took her earphone out when I started talking to her,
-and as soon as I said I'm advertising my book,
-her smile immediately disappeared and she kept walking.
-That made me feel really sad, like I was "selling out."
+stopped, came up to me to read more,
+took her earphone out when I started talking,
+and as soon as I said it's an ad for my book,
+her smile immediately disappeared and she walked away.
+That made me feel really sad, like I'm deceiving people.
 
 A few acquaintances that I met while doing my survey signs
 had stopped by to see what I was doing.
@@ -132,7 +132,7 @@ It's not entirely clear just how many of those sales came from my ad.
 There certainly seems to be a spike, where it doubled (from 3 to 6),
 so I think it's safe to say that the $7 profit from those 3 sales
 probably came from doing this sign.
-The poster cost $11, so it's a net loss of $4. Not a big loss.
+The poster cost $11, so it's a net loss of only $4.
 
 On a related note, sales of my book are down, so I am cutting costs.
 Comments have been disabled, and the email address is no longer functional.
