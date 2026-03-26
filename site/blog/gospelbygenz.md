@@ -20,12 +20,12 @@ It seemed fairly funny to me, so I went for it.
 
 ## Design
 
-The goal at first was to put very few words,
-then link to the book.
-I wanted to avoid making it so wordy that nobody reads it.
-I think I failed at that.
-If I ever do it again,
-it will definitely only have the first two sentences.
+My plan at first was to put the first couple sentences big,
+then follow up with several more sentences in smaller font,
+so that it wouldn't be too wordy or distracting.
+But I thought that would be too distracting anyway,
+so I compromised and put about 4 sentences all big.
+If I ever do it again, it will just be two sentences.
 
 I liked the idea I had to use blue as "bold"
 to make the Gen Z phrases stand out.
@@ -122,7 +122,19 @@ I was just advertising my book, which I wrote for fun and profit.
 
 ## Epilogue
 
-Anyway, on a related note, sales of my book are down, so I am cutting costs.
+I got about 3 sales while holding the sign for a few hours,
+and 1 more sale later that day (6 total for March 25th),
+2 more this morning, and 2 more this afternoon.
+
+![Sales](/img/gospelbygenzsales.png)
+
+It's not entirely clear just how many of those sales came from my ad.
+There certainly seems to be a spike, where it doubled (from 3 to 6),
+so I think it's safe to say that the $7 profit from those 3 sales
+probably came from doing this sign.
+The poster cost $11, so it's a net loss of $4. Not a big loss.
+
+On a related note, sales of my book are down, so I am cutting costs.
 Comments have been disabled, and the email address is no longer functional.
 
 If you want to support me doing these surveys,
