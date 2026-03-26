@@ -119,7 +119,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> <a href="mailto:Steven@ChicagoSignGuy.com">Steven@ChicagoSignGuy.com</a>, All Rights Reserved.</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved.</footer>
 
       </body>
     </html>
