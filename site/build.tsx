@@ -254,6 +254,11 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <p><a href='#main-article' class='back-to-top'>Back to top</a></p>
 
+    <h2>Leave a comment</h2>
+    <aside>
+      <p><i>Comments and email have been disabled to cut costs.</i></p>
+    </aside>
+
     <h2>All articles</h2>
     <AllArticles blogs={blogs} blog={blog} />
 
