@@ -40,6 +40,11 @@ About three quarters through the experiment,
 it occurred to me that I could just draw Amazon's 4.6 stars on it,
 so I did, but I was worried it made it look *even more* busy.
 
+But when adding the stars, I had to repeat the "on Amazon" part,
+to make it clear what the stars were for,
+which was redundant, since it was already up above, also.
+I wish I had thought of the stars earlier, and combined them.
+
 Later, I realized I could just write tiny text on the bottom.
 Originally I was going to put "listening to Mad World by Gary Jules"
 but then realized I could write the fact that I wrote this book,
