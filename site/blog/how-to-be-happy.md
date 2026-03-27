@@ -76,14 +76,16 @@ I wanted that person to be hugged by someone who they love and trust,
 and experience the love that comes from that experience.
 
 And that feeling made me *happy*.
+When I finishd it, I legitimately teared up out of happiness.
+
 This is, I think, the core of the gospel to me.
 I guess, following up from the post I wrote yesterday,
 when that guy asked me what the gospel was, because he was testing me
-(which in retrospect felt so deceitful and like a betrayal),
+(which in retrospect felt so deceitful and like a personal betrayal),
 my answer was more correct than his:
 
 I am a Christian because nobody else has ever *loved* me,
-and Jesus was the first person to actually *love* me *selflessly* and *truly* and *entirely*.
+and Jesus was the first person to actually *love* me, *selflessly* and *truly* and *entirely*.
 And I *felt* that love when I first believed it to be true. And it made me *happy*.
 That was so very long ago though, and I don't feel it anymore, either his love, or my happiness.
 
