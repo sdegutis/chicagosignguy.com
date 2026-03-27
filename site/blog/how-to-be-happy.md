@@ -33,7 +33,8 @@ It turns out she looks just like one of the librarians here.
 
 Most of the time, when I draw people on reddit asking to be drawn,
 it's just for practice, and it's fun, but there's a medium threshold for who I choose.
-I choose men who are handsome and women who are beautiful.
+I choose men who are handsome and women who are beautiful,
+and only when they're in relatively still and calm poses, for some reason.
 
 But I only see souls, I think.
 I have aphantasia, I think.
