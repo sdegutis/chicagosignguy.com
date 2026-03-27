@@ -143,7 +143,7 @@ function HomePage(blogs: Blogs) {
 
     <aside>
       <h3>Update, March 26th</h3>
-      <p><i>Comments, the mailing list, and my email address, have all been disabled to cut costs.</i></p>
+      <p><i>Comments, the mailing list, and my email, have all been disabled to cut costs.</i></p>
     </aside>
 
   </Html>
