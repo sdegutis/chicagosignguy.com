@@ -101,6 +101,9 @@ I think, in general, my heart yearns to love those who need love the most.
 People who have made mistakes, who perhaps think they don't deserve love, or who maybe the world agrees don't deserve love.
 These are the ones that call out to my heart, "*love me!*" and my soul responds "*bet!*"
 
+It lines up with a verse that just came to mind, "we love because he first loved us." (1 John 4:19)
+So, I guess that's a pretty cool little divine proof that my thoughts are on point.
+
 Don't get me wrong.
 None of what I'm saying implies anything creepy.
 I have thoughts like this all the time,
