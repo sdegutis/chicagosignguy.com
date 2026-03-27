@@ -91,9 +91,12 @@ That was so very long ago though, and I don't feel it anymore, either his love, 
 
 But I *do* feel happy when I feel *love* for others.
 So often, I have tried to chase after happiness with things I know don't provide it.
+Every single time I try to make myself happy, it backfires, and I'm worse off for it.
+*It never works.*
 
 Feeling *loved* makes me happy.
-But *loving others* makes me happy, even if it's as simple as an act of good will within my heart.
+But *loving others* also makes me happy,
+even if it's as simple as an act of good will within my heart.
 
 I wonder if this is where the cultural habit came from of wishing people a good morning.
 Maybe it was their serotonin fix centuries ago, and their descendents just carry on a dead tradition.
