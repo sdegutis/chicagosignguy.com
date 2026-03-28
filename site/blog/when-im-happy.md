@@ -1,5 +1,5 @@
 ---
-title: How to be happy
+title: When I'm happy
 image: /img/Elegant_Help_5296.jpg
 date: 2026-03-27
 list: Thoughts
