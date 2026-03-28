@@ -22,8 +22,8 @@ The most recent one I did was this one:
 I am afraid to go darker (though it looks darker in person).
 I just love it so much.
 I think it *perfectly* captures her soul,
-a sense of innocent, naive, childish peace.
-The kind *every* child should experience.
+a sense of innocent, naive, childish, wholesome peace.
+The kind *everyone* should experience.
 
 My first two thoughts when I saw her was,
 "wow, she looks *exactly* like someone I know,"
