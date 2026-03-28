@@ -52,9 +52,9 @@ Part of living life is experiencing *being human* in its fullness.
 *All of us are just humans.*
 
 After drawing her, I was so curious about this *other human*
-that I went through her [reddit profile](https://www.reddit.com/user/Elegant_Help_5296/).
-And I came across [this set of her sketches](https://www.reddit.com/r/ventart/comments/1rzxstz/i_didnt_know_where_to_post_it_lol/)
-about when she was presumably in a psych ward.
+that I went through her reddit profile.
+And I came across some of her sketches
+about when she was apparently in a psych ward.
 
 I got about halfway through,
 and all I could think was,
@@ -76,7 +76,8 @@ I wanted that person to be hugged by someone who they love and trust,
 and experience the love that comes from that experience.
 
 And that feeling made me *happy*.
-When I finishd it, I legitimately teared up out of happiness.
+When I finishd reading what she wrote,
+I legitimately teared up out of happiness.
 
 This is, I think, the core of the gospel to me.
 I guess, following up from the post I wrote yesterday,
