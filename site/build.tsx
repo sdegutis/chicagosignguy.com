@@ -130,21 +130,14 @@ function HomePage(blogs: Blogs) {
   return <Html title="Chicago Sign Guy">
 
     <article>
-      <p>
-        Hi. I'm <a href="/about.html">Steven</a>.
-      </p><p>
-        I do public surveys in Chicago.
-      </p><p>
-        Usually I write <a href="/articles.html">articles</a> about them.
-      </p><p>
-        Eventually I'll write a <a href="/book.html">book</a> too.
-      </p>
+      <p>Hi. I'm <a href="/about.html">Steven</a>.</p>
+      <p>I do public surveys in Chicago.</p>
+      <p>Usually I write <a href="/articles.html">articles</a> about them.</p>
+      <p>Eventually I'll write a <a href="/book.html">book</a> too.</p>
+      <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p>
+      <p>Here's someone's drawing of a polaroid someone took of me:</p>
+      <p><img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" /></p>
     </article>
-
-    <aside>
-      <h3>Update, March 26th</h3>
-      <p><i>Comments and the mailing list have all been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
-    </aside>
 
   </Html>
 }
