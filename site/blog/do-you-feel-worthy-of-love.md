@@ -15,7 +15,21 @@ I remember one acquainted couple running into me, and me just feeling very empty
 
 I remember one acquaintance passing me by, smiling and waving at me, and when I waved her over, she shook her head no, pointing to the friend she was with.
 
-Besides that, I don't remember *anything* about the demographics or answers or conversations. And I feel bad about that.
+For the bonus question, at least a few people thought they should write it down, and I had to explain it was meant to be a conversational discussion question.
+
+Nobody could really answer the bonus question beyond "we are all worthy of love, because we are all human."
+
+One or two people said that it's complicated, because there's different kinds of love. I agree with that. Love from family, friends, and romantic partner, are all different.
+
+A couple people asked if I'm redoing a survey, and I told them it's slightly different than last week, because this time it's about whether we feel *worthy* of love.
+The problem I had last week was that I got a lot more positive answers than I was expecting.
+You can feel *loved*, but at the same time, not feel *worthy* of that love.
+So last week I had planned to do this variation this week.
+
+Near the end, someone added the Not Really category, and I wasn't really sure how it was different than Sometimes, but I was glad they thought about it enough to add it.
+I haven't been asking follow up questions as much anymore, because I feel like I'm taking up people's time, and I don't want them to feel obligated to stay and answer.
+
+Besides that, I don't remember *anything* about the demographics or answers or conversations. Sorry guys.
 
 ## Sunday morning
 

@@ -62,6 +62,8 @@ Several times, people walked by who did a double take and a visible look like "h
 
 Many times, there were people who work or live locally who I've seen a bunch, who still didn't look at my survey, or merely glanced at it briefly, not long enough to read it. They very obviously would have put Please Stop. I wanna say it was like 20.
 
+The one and only time I asked someone "what topics" when they put Some Topics, they quickly said something that I didn't quite catch as they were walking away, as if they didn't really feel comfortable having a conversation, and that's exactly why I haven't been asking anyone follow-up questions. It's hard for me to feel out the vibe of when someone wants to stay and chat, and when they don't. I'll have to practice more. Speedrunning my character arc is fun but hard.
+
 One young woman who did the survey passed me again later and saw the Please Stops and as she walked passed shared her sympathy with me over it. That was so sweet!
 
 Near the end, I gave some art students my business card, telling them I tried my hand at graphic design, and they gave it the art student verbal stamp of approval, saying I should go to art school! I wonder what they'd think of my first book, The Gospel by Gen Z, and all the design decisions I made throughout it. I paid attention to every single ounce of detail possible when making that book in Adobe InDesign. (I don't even own a single copy of my book anymore lol, can you believe it?)
