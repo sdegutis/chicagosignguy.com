@@ -135,6 +135,7 @@ function HomePage(blogs: Blogs) {
       <p>Usually I write <a href="/articles.html">articles</a> about them.</p>
       <p>Eventually I'll write a <a href="/book.html">book</a> too.</p>
       <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p>
+      <p>You can help fund my surveys via <a href="https://account.venmo.com/u/chicagosignguy">venmo</a> or <a href="https://cash.app/$ChicagoSignGuy">cashapp</a>.</p>
       <p><img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" /></p>
     </article>
 
@@ -253,7 +254,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>Leave a comment</h2>
     <aside>
-      <p><i>Comments have been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
+      <p><i>Comments have been disabled to cut costs.</i></p>
     </aside>
 
     <h2>All articles</h2>
