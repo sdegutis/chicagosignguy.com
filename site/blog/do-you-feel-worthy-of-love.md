@@ -29,6 +29,14 @@ So last week I had planned to do this variation this week.
 Near the end, someone added the Not Really category, and I wasn't really sure how it was different than Sometimes, but I was glad they thought about it enough to add it.
 I haven't been asking follow up questions as much anymore, because I feel like I'm taking up people's time, and I don't want them to feel obligated to stay and answer.
 
+As far as I can remember, everyone who was holding a anti-Trump sign put Always. That stood out to me.
+
+One woman was about to put Always and then put Often, remarking to her friends that it would be a bit overconfident to put Always. I think they had a discussion about it as they walked away.
+
+One young woman put Never and I said that was my answer too, and she said oh I feel so sorry about that, and I said I feel sorry for you too, and I meant it to be sympathetic, a human to human connection, but it came out weird and possibly offensive, and I kind of regret my half of the whole conversation now. I meant only good. Frick, I don't like remembering this memory.
+
+One group of young men or teenage boys answered, and asked my answer, and I said Never, and it was awkward, so I said don't worry I'll figure it out, but that didn't solve the awkwardness.
+
 Besides that, I don't remember *anything* about the demographics or answers or conversations. Sorry guys.
 
 ## Sunday morning
@@ -38,3 +46,11 @@ This morning (Sunday), I used the same exact survey outside St. Peter's after Ma
 The homeless guy I've met a few times answered me with Sometimes, and said people "poop on him," meaning they treat him like he's subhuman.
 
 Two Catholics put Never. There were two more answers that I didn't pay enough attention to.
+
+## Thoughts
+
+Originally I marked Never, but I think my real answer is Sometimes.
+
+In terms of friendship, I usually assume I'm boring and nobody would want to spend time with me. Then people tell me what they like to do together, or I see people on the train or at fast food places or at bars or wherever, and they're usually being *at least* as boring as me, if not more so. Or rather, we're all just as interesting, in our own ways, to people with similar interests. In which case, yeah, I think I'm fine, probably a pretty good guy to have as a friend.
+
+In terms of romance, partly it's because I think I'm fat and ugly, that's the first thought I have about my lack of worth. Granted, I did gain like 20 lbs over this winter, but it should be easy to lose before the summer if I keep up diet and gym. But more importantly, I just always assume there are better options than me out there, and that someone would always prefer one of them over me. It's the same issue I have with my businesses, I always struggle because I don't advertise myself enough, because I figure it's hopeless in a whole *sea* of competition. But someone once told me, even though there's a million Chinese restaurants, another one always opens up and is successful. I think the same is true with dating. It's not so much about who they could be with, it's about whether they want to be with *me* or not, and vice versa.
