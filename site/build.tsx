@@ -107,7 +107,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
           <nav>
             <ul>
               <li><a href="/">ChicagoSignGuy.com</a></li>
-              <li><a href='/about.html'>Author</a></li>
+              <li><a href='/about.html'>Steven</a></li>
               <li><a href='/articles.html'>Articles</a></li>
               <li><a href='/book.html'>Book</a></li>
             </ul>
@@ -119,7 +119,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved. &mdash; Send me an <a href="mailto:steven@ChicagoSignGuy.com">email</a></footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved. <a href="mailto:steven@ChicagoSignGuy.com">Email</a> me.</footer>
 
       </body>
     </html>
@@ -276,7 +276,7 @@ function AboutPage() {
 
       <p>
         My name is Steven.
-        I'm a successful software engineer and best selling author.
+        I'm a successful software engineer and best selling <a href="https://gospelbygenz.com/">author</a>.
         But I feel deeply <b>unfulfilled</b>.
         I think I'm meant for more than making banks richer.
       </p>
