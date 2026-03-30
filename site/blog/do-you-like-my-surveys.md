@@ -40,7 +40,7 @@ Someone said it's like a nice little Easter egg when they go do stuff on Sundays
 
 Yes #9 gave me the sticker that I put near the top.
 
-One young man said it's like a side quest.
+One young man said it's like a side quest. He's the same young man who said people love the idea of him last week. He told me he was recovering from fun last night, and always in recovery. When I said I remember those days, he lamented that he would eventually become like me. I hinted that I have the most interesting life of anyone I've ever met, and almost told him he doesn't know the half of it. Truth is, he doesn't know even 10% of it, none of you do. But I am selective about who I invite into it.
 
 One young man put Please Stop because he misread it and then changed his answer right away to Yes. It was the first Please Stop, which I liked because I felt like it would make people more confident to put that.
 
