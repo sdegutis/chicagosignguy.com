@@ -119,7 +119,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved.</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved. &mdash; Send me an <a href="mailto:steven@ChicagoSignGuy.com">email</a></footer>
 
       </body>
     </html>
@@ -143,7 +143,7 @@ function HomePage(blogs: Blogs) {
 
     <aside>
       <h3>Update, March 26th</h3>
-      <p><i>Comments, the mailing list, and my email, have all been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
+      <p><i>Comments and the mailing list have all been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
     </aside>
 
   </Html>
@@ -261,7 +261,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>Leave a comment</h2>
     <aside>
-      <p><i>Comments and email have been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
+      <p><i>Comments have been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
     </aside>
 
     <h2>All articles</h2>
