@@ -143,7 +143,7 @@ function HomePage(blogs: Blogs) {
 
     <aside>
       <h3>Update, March 26th</h3>
-      <p><i>Comments, the mailing list, and my email, have all been disabled to cut costs.</i></p>
+      <p><i>Comments, the mailing list, and my email, have all been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
     </aside>
 
   </Html>
@@ -261,7 +261,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
 
     <h2>Leave a comment</h2>
     <aside>
-      <p><i>Comments and email have been disabled to cut costs.</i></p>
+      <p><i>Comments and email have been disabled to cut costs. Feel free to donate via Venmo or Cashapp to ChicagoSignGuy.</i></p>
     </aside>
 
     <h2>All articles</h2>
