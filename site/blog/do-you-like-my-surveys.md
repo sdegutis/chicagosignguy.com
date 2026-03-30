@@ -56,6 +56,8 @@ A good five or ten people who have done my surveys before have explicitly said w
 
 Someone said "please don't quit the surveys they're enjoyable."
 
+Someone, perhaps the same person who said that last thing, asked if I'm going to keep doing them in the coming months, and was happy when I said yes!
+
 Several times, people walked by who did a double take and a visible look like "huh?" I didn't add them though.
 
 Many times, there were people who work or live locally who I've seen a bunch, who still didn't look at my survey, or merely glanced at it briefly, not long enough to read it. They very obviously would have put Please Stop. I wanna say it was like 20.
