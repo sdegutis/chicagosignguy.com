@@ -43,18 +43,53 @@ Besides that, I don't remember *anything* about the demographics or answers or c
 
 This morning (Sunday), I used the same exact survey outside St. Peter's after Mass. I want to start doing my surveys over there too since I'm Catholic and to mix things up a bit. And since I was reusing a mostly finished survey, it hopefully gave those people more confidence to try the survey.
 
-The homeless guy I've met a few times answered me with Sometimes, and said people "poop on him," meaning they treat him like he's subhuman.
+The homeless guy I've met a few times answered me with Sometimes, and said people "poop on him," telling he he means they treat him like he's not even a person.
 
 Two Catholics put Never. There were two more answers that I didn't pay enough attention to.
 
 ## Thoughts
 
-Originally I marked Never, but I think my real answer is Sometimes.
+Today was the first time *nobody* could articulate *why* they felt this way.
+Which means I finally found a universally thought provoking question!
 
-In terms of friendship, I usually assume I'm boring and nobody would want to spend time with me. Then people tell me what they like to do together, or I see people on the train or at fast food places or at bars or wherever, and they're usually being *at least* as boring as me, if not more so. Or rather, we're all just as interesting, in our own ways, to people with similar interests. In which case, yeah, I think I'm fine, probably a pretty good guy to have as a friend.
+As for me, I put Never, but I think my real answer is Sometimes.
+I agree with the guy who said it depends on the type of love,
+love for family or friends or romantic love, etc.
 
-In terms of romance, partly it's because I think I'm fat and ugly, that's the first thought I have about my lack of worth. Granted, I did gain like 20 lbs over this winter, but it should be easy to lose before the summer if I keep up diet and gym.
+The first thing I notice when thinking of my own answer
+is that there's a *huge* disconnect between the *feeling* and the *objective facts*.
 
-More importantly, I just always assume there are better options than me out there, and that someone would always prefer one of them over me. It's the same issue I have with my businesses, I always struggle because I don't advertise myself enough, because I figure it's hopeless in a whole *sea* of competition.
+For example, I *feel* like I'm a boring person with boring interests,
+but *many* people have told me that that's *definitely* not the case.
+If I look at my life objectively, I agree, I'm an interesting person.
 
-But someone once told me, even though there's a million Chinese restaurants, another one always opens up and is successful. I think the same is true with dating. It's not so much about who they could be with, it's about whether they want to be with *me* or not, and vice versa.
+Another thing that happens in my head is that I compare myself to others.
+I tell myself that I'll never be as successful or good looking or entertaining as this or that random guy.
+But someone told me, comparison is the thief of joy.
+
+Relating both to friendship and romance,
+*objective* value is secondary to *subjective* value.
+Certain qualities draw you to a person,
+but it's *the person* that makes you stay,
+not any individual quantifiable thing *about* that person.
+
+In other words, *I* may think I'm boring,
+but *someone else* might think I'm very interesting.
+And it's *that* person's opinion that matters
+when it comes to *their* decision of whether to spend time with you.
+
+This implies some pretty good news:
+more people probably want to spend time with you than you realize!
+You just have to give them the chance and not shut them down preemptively.
+They may be *open* to the idea of having you as a friend or romantic partner,
+which right there shows that *they* think you might be worthy!
+Why prove them wrong?
+
+Moral faults may be the answer to that last question.
+Whenever I'm being an asshole, I feel less deserving of love, but more needing of it.
+Sometimes that feeling lingers even after I've rectified my moral failures, sometimes for years.
+
+It doesn't help that bad people tend to encourage such toxic thoughts.
+But knowing that God forgives me in Confession, and that I've healed of those faults,
+gives me confidence to ignore the haters, keep doing good,
+and open myself up to friendship and love from others.
