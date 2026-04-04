@@ -54,13 +54,15 @@ Part of living life is experiencing *being human* in its fullness.
 After drawing her, I was so curious about this *other human*
 that I went through her reddit profile.
 And I came across some of her sketches
-about when she was apparently in a psych ward.
+about when she was apparently in a psych ward,
+and all the people she met there.
 
 I got about halfway through,
 and all I could think was,
 "*I understand this person! And she understands me!*"
 
 I'm not saying I've had these same particular experiences she's venting about.
+(For instance, I've never been in a psych ward.)
 But that there's a deeper thing about being *human*.
 We're all just trying to *experience* each other's experience,
 and share *our own* experiences with each other.
@@ -76,7 +78,7 @@ I wanted that person to be hugged by someone who they love and trust,
 and experience the love that comes from that experience.
 
 And that feeling made me *happy*.
-When I finishd reading what she wrote,
+When I finished reading what she wrote,
 I legitimately teared up out of happiness.
 
 This is, I think, the core of the gospel to me.
