@@ -1,13 +1,11 @@
 ---
-title: Future Ideas, & Help Sign Guy Find Love
+title: Future Ideas
 image: /img/bookcover1.jpg
 date: 2026-03-20
 list: Thoughts
 ---
 
 These are some ideas I wrote down late last year.
-
-Or skip to the [Help Sign Guy Find Love](#help-sign-guy-find-love) section.
 
 ## Social Experiments
 
@@ -57,9 +55,10 @@ It's also fun for me, and brings joy and laughter to some people.
 * Terrible advice / $3
 
 
-<div id="help-sign-guy-find-love">
-
 ## Help Sign Guy Find Love
+
+This section is based on another section
+that I found in my notes, a whole note in and of itself.
 
 I've been doing these signs nearly every weekend
 for the past 6 months or so.
@@ -78,7 +77,7 @@ Athlete, geek, stoner, gym bro, lawyer, skater, artist, etc.
 I don't fit into *any category*.
 It's utterly frustrating in countless ways.
 I can relate to everyone, but only a little.
-All my hobbies and interests are *vastly* different from each other.
+All my hobbies and interests are *vastly* different and varied.
 
 So I took some notes in the middle of winter,
 which were my guesses of who I would want to be with,
