@@ -11,9 +11,9 @@ I used my same sign from yesterday, but the back of it, because I don't like sho
 
 As I was making the sign, someone asked what the survey was going to be and I said I was open to ideas. A guy probably high on weed came up and joined our conversation and suggested it should be whether WW3 is about to start. I don't think politics are interesting so I didn't choose that. After he left, the first guy suggested something about aliens. That's definitely worth considering, but I wasn't feeling it today.
 
-So I went with the idea I had a couple times earlier today, which was to gauge how people feel about my signs, to take a pulse.
+So I went with the idea I had a couple times earlier today, which was to gauge how people feel about my signs.
 
-I didn't like how I worded it. It felt too wordy. I should have put Yes, Some, No, and What? I was getting too carried away.
+I didn't like how I worded it. It felt too wordy. I should have put Yes, Some, No, and What? I got carried away.
 
 ## Results
 
@@ -52,15 +52,17 @@ One young woman jokingly almost put Please Stop but put yes. Her friend said "I 
 
 A policeman tallied yes, and that I got some good surveys. That was unexpected!
 
-A good five or ten people who have done my surveys before have explicitly said while tallying yes that they love my surveys.
+A good five or ten people who have done my surveys before explicitly said while tallying yes that they love my surveys.
+That made me really happy.
 
-Someone said "please don't quit the surveys they're enjoyable."
+I think it was one of them who said, "please don't quit, the surveys they're enjoyable."
+That also made me very happy.
 
 Someone, perhaps the same person who said that last thing, asked if I'm going to keep doing them in the coming months, and was happy when I said yes!
 
 Several times, people walked by who did a double take and a visible look like "huh?" I didn't add them though.
 
-Many times, there were people who work or live locally who I've seen a bunch, who still didn't look at my survey, or merely glanced at it briefly, not long enough to read it. They very obviously would have put Please Stop. I wanna say it was like 20.
+Many times, there were people who work or live locally who I've seen many times before, who still didn't look at my survey, or merely glanced at it briefly, not long enough to read it. They very obviously would have put Please Stop. I wanna say it was like 20 people.
 
 The one and only time I asked someone "what topics" when they put Some Topics, they quickly said something that I didn't quite catch as they were walking away, as if they didn't really feel comfortable having a conversation, and that's exactly why I haven't been asking anyone follow-up questions. It's hard for me to feel out the vibe of when someone wants to stay and chat, and when they don't. I'll have to practice more. Speedrunning my character arc is fun but hard.
 
@@ -70,9 +72,17 @@ Near the end, I gave some art students my business card, telling them I tried my
 
 ## Politics???
 
-Three young men came up and asked what I thought of Palestine, and I said I'm apolitical. They said by paying taxes I'm supporting genocide. Two of them said they were Jewish. I said I pay taxes to avoid going to jail and it's not really up to me what happens to the taxes. At first they were somewhat confrontational, but after they asked about my surveys and I explained what they were like, one of them tallied yes, and they kind of changed tone. He was about to use his own pen until I said he has to use my marker. I wasn't sure what he was going to try to write. Another of them asked if he could write his own category and I said no. We talked about our beards and then they left all friendly but said some mantra about Palestine or something.
+Three young men came up and asked what I thought of Palestine, and I said I'm apolitical. They said by paying taxes I'm supporting genocide. Two of them said they were Jewish. I said I pay taxes to avoid going to jail and it's not really up to me what happens to the taxes. At first they were somewhat confrontational, but after they asked about my surveys and I explained what they were like, one of them tallied yes, and they kind of changed tone.
 
-A young black man came up fairly aggressively and asked if I supported black reparations and I said I was apolitical. He still aggressively said don't worry I ain't gonna smack you just be honest, and I said I already was. I wasn't afraid of him because I believe in divine plot armor. If we try to fulfill our baptismal mission, then God will protect us from everything that's not in it. Job was protected from death by God. There were several times people tried to kill Jesus but it wasn't his time so they just simply couldn't for one reason or another. So I wasn't afraid of him and I only saw him as just another person who I was to love. I have more to do before God will let me die. Later he came back and asked what I thought about gaza and I said I didn't know anything about it and that I don't watch the news. He asked if I never see it on Facebook or TikTok and I said I don't have those. As he was leaving I gave him my business card.
+He was about to use his own pen, but I wasn't sure what he was going to try to write. So I said he has to use my marker, and when he asked why, I said it's just part of the rules. I wanted to say, "sorry, I don't make the rules," which is funny because I do, in fact, make the rules lol. But I forgot.
+
+Another guy in their group asked if he could write his own category and I said no. I brought up random subjects, such as complimenting their beards, and soon afterwards, they left all friendly, but called out some mantra about Palestine or something as they walked away. I didn't hear it.
+
+A young black man came up fairly aggressively and asked if I supported black reparations and I said I was apolitical. He still aggressively said don't worry I ain't gonna smack you just be honest, and I said I already was.
+
+I genuinely wasn't afraid of him because I believe in divine plot armor. If we try to fulfill our baptismal mission, then God will protect us from everything that's not in it. Job was protected from death by God. There were several times people tried to kill Jesus but it wasn't his time so they just simply couldn't for one reason or another. So I wasn't afraid of him, I only saw him as another person who I was to love. I have more to do before God will let me die.
+
+Later he came back and asked what I thought about gaza and I said I didn't know anything about it and that I don't watch the news. He asked if I never see it on Facebook or TikTok and I said I don't have those. As he was leaving I gave him my business card. Maybe he's reading this.
 
 ## Epilogue
 
