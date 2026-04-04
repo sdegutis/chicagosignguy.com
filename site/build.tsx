@@ -249,7 +249,7 @@ function BlogPage(blog: Blog, blogs: Blogs) {
         <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
       </p>
 
-      <p>
+      <p style='text-align:center; font-style:italic; border: 1px dashed var(--l); border-left: none; border-right: none; padding: .5em 0'>
         <a href="#" onclick="shareThisPage(); return false">Share this article</a> with curious people.
       </p>
 
