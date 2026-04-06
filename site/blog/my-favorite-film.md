@@ -14,12 +14,12 @@ in the form of a play, written in the 1940s by a Polish philosopher, adapted int
 And skip 6:26 to 7:29 if you're squeamish (graphic amputation scene).
 If you love this movie, we are now best friends.
 
-> ### Fun fact about Steven the Sign Guy
+> ### Fun fact about me
 > 
 > This movie is why I started smoking cigars 5 or 6 years ago.
 > It's the only vice God will have to pry out of my cold dead hands.
 > Not that the movie glorifies or recommends it,
-> but Adam smoking one while monologuing about art in one of the first scenes first gave me the idea.
+> but Adam smoking one while monologuing about art in one of the first scenes is what initially gave me the idea.
 
 ## Prelude
 
