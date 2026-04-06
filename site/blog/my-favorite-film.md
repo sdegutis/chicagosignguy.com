@@ -33,7 +33,7 @@ They just tend to walk past and keep looking forward, disproportionately more th
 My theory is that Catholics are generally a cowardly breed, terrified that a dragon lurks around every corner,
 waiting to steal your phone and wallet, scam you out of your bank account details, or call you evil for being pro-life.
 And I say this as a fellow Catholic, as constructive criticism, a sort of tough love I suppose.
-If God is on your side, shouldn't you have at least a *little* more courage?
+If God is on your side, shouldn't you have at least a *little* courage?
 
 Then I came over to the State St. spot, put posterboard down blank side up, and began thinking.
 But before long, a young man I know came over, and we talked about all sorts of things,
