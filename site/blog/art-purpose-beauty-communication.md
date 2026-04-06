@@ -5,6 +5,8 @@ date: 2025-12-19
 list: Thoughts
 ---
 
+> "You must take this form for me, this form that I embrace with my soul, and these patches of color on canvas. And you, and so many people, are one... are one. This is how I will preserve you in so many, many people. What is wrong with that? Can this be against you? No... No! This is not you. You are alien. You are distant. You are more and more alien to the one I know. My vision of you is fading. But at the same time, I see you more and more clearly. How can this be? But it is not you. So it is not true that I preserve you in so many people, in so many souls."
+
 It seems to me that, when a person likes a work of art, it says far more about the person than the art. Sure, art may be better or worse according to its intended genres. But when the style and content of the work resonate with a person, it says a lot about what they value in life, what they don't, and what they're trying to understand better.
 
 So I'm not sure what it says about me that I really like the movie Our God's Brother (1997). But I do think this film is a cinematic masterpiece, at least from a layman's perspective. And I think the atypical questions it raises are fundamental, and the answers it proposes are interesting. (Despite the title, the first two acts are not religious, and you can skip the third.)
@@ -66,7 +68,13 @@ As an aside, a Catholic deacon named Steven D. Greydanus has written an article 
 Helping others
 --------------
 
-> "You must take this form for me, this form that I embrace with my soul, and these patches of color on canvas. And you, and so many people, are one... are one. This is how I will preserve you in so many, many people. What is wrong with that? Can this be against you? No... No! This is not you. You are alien. You are distant. You are more and more alien to the one I know. My vision of you is fading. But at the same time, I see you more and more clearly. How can this be? But it is not you. So it is not true that I preserve you in so many people, in so many souls."
+> Did what just happened here not teach you anything? What happened was symbolic.
+> There's a great mass of people that wants to have, it simply wants to take.
+> What will you do if it needs more?
+> Let's count on that force of anger. Let's assume that by that force of anger, they're able to lift themselves up, and take possession of many goods.
+> Man's poverty is deeper than the resources of *all* those goods you are talking about.
+> All those goods man can aspire to by the force of his anger.
+> Yes, one man should not remain poor, and another rich.
 
 The most fundamental question of human social experience is how to relate to others, and how to help others in a general sense, and in the more specific senses that each individual's context and situation allows, or even demands.
 
