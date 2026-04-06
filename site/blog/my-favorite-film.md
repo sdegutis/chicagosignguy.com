@@ -112,6 +112,13 @@ The dialogue is so dense, yet so comprehensive and full of philosophical imagery
 I forgot just how very much of it is related directly to art,
 at least the first two acts must be.
 
+> ### Fun fact about me
+> 
+> I have for years wanted to act as Adam in this play.
+> But first it has to be brought back to stage.
+> And there's no indication that I'm a good actor.
+> But for this one purpose, I'm willing to become one.
+
 I'm fairly excited to see what people think of this movie.
 Whether you love it or hate it, agree or disagree with me about it, I don't care.
 I just want to hear what you think.
