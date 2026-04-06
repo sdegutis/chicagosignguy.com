@@ -80,7 +80,8 @@ The most fundamental question of human social experience is how to relate to oth
 
 To the artist (except Max, a mere utilitarian capitalist), this would mean the question of how to inspire beauty in others, how to recreate a positive experience that moves other souls toward a meaningful destiny.
 
-Yet the question still remains of what to do to help the poor. Without spoiling too much, the movie proposes that everyone should help the poor in their material needs, within our own means.
+Yet the question still remains of what to do to help the poor and needy.
+I won't spoil the movie's answer.
 
 Death and Conflagration
 -----------------------
