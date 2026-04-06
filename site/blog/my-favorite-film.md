@@ -52,6 +52,7 @@ but I think that *may* have been a mistake,
 because it will probably make it *much* harder for people to find than needed.
 But I still think it was not a mistake,
 because putting Our God's Brother would have *definitely* made every single eye roll, and nobody consider watching it.
+And adding "english full version" makes the correct video become the first result.
 
 This is the [correct YouTube video](https://www.youtube.com/watch?v=XwrSF4eSv5w)!
 But if you're squeamish, skip 6:26 to 7:29, it's a graphic amputation scene.
