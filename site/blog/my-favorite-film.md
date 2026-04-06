@@ -10,8 +10,9 @@ list: Surveys
 Watch [this movie (YouTube)](https://www.youtube.com/watch?v=XwrSF4eSv5w).
 Despite the misleading title, it's not really about religion,
 it's a philosophical treatise on [art, beauty, communication, and purpose](/blog/art-purpose-beauty-communication.html),
-written in the 1940s by a Polish philosopher, in the form of a play, adapted into an artistic movie in 1997.
+in the form of a play, written in the 1940s by a Polish philosopher, adapted into an artistic film in 1997.
 And skip 6:26 to 7:29 if you're squeamish (graphic amputation scene).
+If you love this movie, we are now best friends.
 
 ## Prelude
 
