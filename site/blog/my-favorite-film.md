@@ -13,11 +13,16 @@ It was the "do you *feel* loved?" survey, so I took it to St. Peter's and got a 
 Someone coming out of Mass recognized me from my State St surveys!
 And someone took a picture of me and a homeless guy making heart hands.
 
+Then I came over to the State St. spot, put the blank posterboard down, and began thinking.
+But before long, a young man I know came over, and we talked about all sorts of things,
+including a few Catholic saints who have lived very unusual lives.
+One of them was Adam Chmielowski, the subject of my favorite movie for the last few years.
+
 ## Prologue
 
-Afterwards, I took it to State St. and stared at it, imagining ideas.
+After he left, I stared at my poster for a while, imagining ideas.
 I wasn't in the mood to do any religious topics, even though it was easter.
-And the movie Our God's Brother (1997) has been on my mind a lot.
+And the movie Our God's Brother (1997) had just been on my mind.
 So I had the idea to "advertise" it to people I've met out there.
 It seems like a providential coincidence that there happened to be an art school nearby,
 and my favorite movie for the past 5 or 6 years has been hugely about the nature and purpose of art.
