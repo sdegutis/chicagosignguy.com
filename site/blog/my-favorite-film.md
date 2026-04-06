@@ -5,6 +5,14 @@ date: 2026-04-05
 list: Surveys
 ---
 
+## tl;dr
+
+Watch [this movie (YouTube)](https://www.youtube.com/watch?v=XwrSF4eSv5w).
+Despite the misleading title, it's not really about religion,
+it's a philosophical treatise on [art, beauty, communication, and purpose](/blog/art-purpose-beauty-communication.html),
+written in the 1940s by a Polish philosopher, in the form of a play, adapted into an artistic movie in 1997.
+And skip 6:26 to 7:29 if you're squeamish (graphic amputation scene).
+
 ## Prelude
 
 Blick was closed, so I almost didn't do a survey today.
@@ -27,8 +35,9 @@ So I had the idea to "advertise" it to people I've met out there.
 It seems like a providential coincidence that there happened to be an art school nearby,
 and my favorite movie for the past 5 or 6 years has been hugely about the nature and purpose of art.
 
-The only problem was I didn't want the title to scare people off like it did with me.
-Despite it having a vaguely religious subplot, the movie is actually just the philosophical ruminings
+The only problem was I didn't want the title to scare people off like it did with me, thinking it was a boring religious movie.
+First of all, it's far from boring if you're even slightly similar to me.
+And despite it having a vaguely religious subplot, the movie is actually just the philosophical ruminatings
 about art, destiny, purpose, life, love, and everything in between, by the Polish philosopher Karol Wojtyła, who later became Pope John Paul II.
 I will die on the hill that this is truly a movie about [art, beauty, purpose, and communication](/blog/art-purpose-beauty-communication.html)
 as I explained in that article.
@@ -38,9 +47,13 @@ trying to get as much information as I can on the sign,
 with a few words as possible.
 
 Eventually I chose the Polish name for my survey,
-but I think that may have been a mistake,
+but I think that *may* have been a mistake,
 because it will probably make it *much* harder for people to find than needed.
+But I still think it was not a mistake,
+because putting Our God's Brother would have *definitely* made every single eye roll, and nobody consider watching it.
+
 This is the [correct YouTube video](https://www.youtube.com/watch?v=XwrSF4eSv5w)!
+But if you're squeamish, skip 6:26 to 7:29, it's a graphic amputation scene.
 
 ## Results
 
