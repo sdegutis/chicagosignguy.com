@@ -26,10 +26,16 @@ If you love this movie, we are now best friends.
 Blick was closed, so I almost didn't do a survey today.
 But I found one of my old surveys, by the cardboards!
 It was the "do you *feel* loved?" survey, so I took it to St. Peter's and got a few answers there.
-Someone coming out of Mass recognized me from my State St surveys!
-And someone took a picture of me and a homeless guy making heart hands.
+Someone coming out of Mass recognized me from my State St surveys! That was cool.
 
-Then I came over to the State St. spot, put the blank posterboard down, and began thinking.
+In general, Catholics coming out of Mass don't seem to look up at my surveys.
+They just tend to walk past and keep looking forward, disproportionately more than random strangers on State St.
+My theory is that Catholics are generally a cowardly breed, terrified that a dragon lurks around every corner,
+waiting to steal your phone and wallet, scam you out of your bank account details, or call you evil for being pro-life.
+And I say this as a fellow Catholic, as constructive criticism, a sort of tough love I suppose.
+If God is on your side, shouldn't you have at least a *little* more courage?
+
+Then I came over to the State St. spot, put posterboard down blank side up, and began thinking.
 But before long, a young man I know came over, and we talked about all sorts of things,
 including a few Catholic saints who have lived very unusual lives.
 One of them was Adam Chmielowski, the subject of my favorite movie for the last few years.
