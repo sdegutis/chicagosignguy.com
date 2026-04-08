@@ -5,8 +5,7 @@ date: 2026-04-08
 list: Thoughts
 ---
 
-I've finished my prologue, and I'm hoping for some feedback.
-
+I've finished my prologue.
 It's entirely a true story, it happened to me a few years ago.
 
 ![Prologue page 1](/img/prologue_1.jpg)
