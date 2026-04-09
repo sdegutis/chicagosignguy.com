@@ -145,7 +145,24 @@ function HomePage(blogs: Blogs) {
 
     </article>
 
+    <MailingList />
+
   </Html>
+}
+
+function MailingList() {
+  return <>
+    <h2>Mailing list</h2>
+
+    <p>Get notified of new blog posts every week.</p>
+    <form method='POST' action='https://the.chicagosignguy.com/form/e'>
+      <fieldset>
+        <legend>Email address</legend>
+        <input autocomplete='email' name='email' type='text' />
+      </fieldset>
+      <input type='submit' value='Sign Up' />
+    </form>
+  </>
 }
 
 function PlaylistPage() {
@@ -227,6 +244,7 @@ function AllArticles(data: { blogs: Blogs, blog?: Blog, tag?: string }) {
 function AllArticlesPage(blogs: Blogs) {
   return <Html title="All Articles">
     <AllArticles blogs={blogs} tag="h2" />
+    <MailingList />
   </Html>
 }
 
@@ -290,6 +308,8 @@ function BlogPage(blog: Blog, blogs: Blogs) {
     <aside>
       <p><i>Comments have been disabled to cut costs.</i></p>
     </aside> */}
+
+    <MailingList />
 
     <h2>All articles</h2>
     <AllArticles blogs={blogs} blog={blog} />
