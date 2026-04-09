@@ -130,11 +130,13 @@ function HomePage(blogs: Blogs) {
   return <Html title="Chicago Sign Guy">
 
     <article>
-      <p>Hi. I'm <a href="/about.html">Steven</a>.</p>
-      <p>I do public surveys in Chicago.</p>
-      <p>Usually I write <a href="/articles.html">articles</a> about them.</p>
-      <p>Eventually I'll write a <a href="/book.html">book</a> too.</p>
-      <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p>
+      <p>Hi. I'm <a href="/about.html">Steven</a>.
+        I write <a href="/articles.html">articles</a> about the public surveys I do in Chicago about love.
+        I'm also writing a <a href="/book.html">book</a> about it.</p>
+
+      {/* <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p> */}
+
+      <MailingList />
 
       <figure>
         <img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" />
@@ -145,8 +147,6 @@ function HomePage(blogs: Blogs) {
 
     </article>
 
-    <MailingList />
-
   </Html>
 }
 
@@ -154,7 +154,7 @@ function MailingList() {
   return <>
     <h2>Mailing list</h2>
 
-    <p>Get notified of new blog posts every week.</p>
+    <p>Get notified of new articles every week.</p>
     <form method='POST' action='https://the.chicagosignguy.com/signup'>
       <fieldset>
         <legend>Email address</legend>
