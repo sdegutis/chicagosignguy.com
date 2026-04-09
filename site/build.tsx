@@ -253,10 +253,38 @@ function BlogPage(blog: Blog, blogs: Blogs) {
         <a href="#" onclick="shareThisPage(); return false">Share this article</a> with curious people.
       </p>
 
+      <p>
+        <a href='#all-comments' style='font-style:italic'>Skip to comments</a>
+      </p>
+
       {blog.html}
     </article>
 
     <p><a href='#main-article' class='back-to-top'>Back to top</a></p>
+    <h2 id='all-comments'>Comments</h2>
+
+    <div id='comments' class={blogid}>
+      <p style='font-style:italic'>Loading comments...</p>
+    </div>
+    <script type='module' src='/comments.js' />
+
+    <h2>Leave a comment</h2>
+    <aside>
+      <form method='POST' action='https://the.chicagosignguy.com/form/c'>
+        <input type='hidden' name='page' value={blogid} />
+        <fieldset>
+          <legend>Name or alias</legend>
+          <input autocomplete='name' name='name' type='text' />
+        </fieldset>
+        <fieldset>
+          <legend>Comment</legend>
+          <textarea name='comment' rows={3} />
+        </fieldset>
+        <fieldset>
+          <input type='submit' value='Add Comment' />
+        </fieldset>
+      </form>
+    </aside>
 
     {/* <h2>Leave a comment</h2>
     <aside>
