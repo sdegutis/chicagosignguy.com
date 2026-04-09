@@ -5,7 +5,7 @@ date: 2026-04-08
 list: Thoughts
 ---
 
-Spent a few hours writing a prologue this morning.
+Spent a few hours writing (and rewriting and typesetting) a prologue this morning.
 It's a true story, it happened to me a few years ago,
 although I don't remember the exact dialogue obviously.
 
