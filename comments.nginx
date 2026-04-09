@@ -1,0 +1,28 @@
+   location /addcomment {
+        content_by_lua_block {
+        ngx.req.read_body()
+        local args, err = ngx.req.get_post_args()
+        local file, err = io.open('/var/www/html/comments/'..args.page, 'a')
+        local name = args.name:gsub('<', '&lt;'):gsub('>', '&gt;')
+        local comment = args.comment:gsub('<', '&lt;'):gsub('>', '&gt;')
+        file:write(string.format('<p>%s: %s</p>\n', name, comment))
+        file:close()
+            return ngx.redirect("https://chicagosignguy.com/commented.html")
+        }
+    }
+
+   location /comments {
+       add_header Access-Control-Allow-Origin *;
+       try_files $uri =404;
+    }
+
+   location /signup {
+        content_by_lua_block {
+        ngx.req.read_body()
+        local args, err = ngx.req.get_post_args()
+        local file, err = io.open('/var/www/html/comments/emails', 'a')
+        file:write(args.email.."\n")
+        file:close()
+            return ngx.redirect("https://chicagosignguy.com/signedup.html")
+        }
+    }
