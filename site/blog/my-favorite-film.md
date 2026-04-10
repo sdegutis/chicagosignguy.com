@@ -123,5 +123,5 @@ I'm fairly excited to see what people think of this movie.
 Whether you love it or hate it, agree or disagree with me about it, I don't care.
 I just want to hear what you think.
 
-Feel free to [email me](mailto:steven@chicagosignguy.com) with your thoughts.
-With your permission, I'll include them in a follow-up article.
+There's now an anonymous comments section below,
+so feel free to put your honest thoughts there.
