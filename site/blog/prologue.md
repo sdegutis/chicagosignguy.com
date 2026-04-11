@@ -3,14 +3,12 @@ title: Prologue
 image: /img/prologue.png
 date: 2026-04-08
 list: Thoughts
-draft: true
 ---
 
-Spent a few hours writing (and rewriting and typesetting) a prologue this morning.
-It's a true story, it happened to me a few years ago,
-although I don't remember the exact things we said obviously, but it's close enough.
-
-Publishing it here to give you an idea of the book's theme.
+Here's a prologue I wrote and typeset this morning.
+I'm considerig using it in my book, but I'm on the fence.
+The book isn't fictional, and it's not entirely narrative either.
+But I like this prologue, so I might just keep it.
 
 There's now an anonymous comments section
 at the bottom of each article,
