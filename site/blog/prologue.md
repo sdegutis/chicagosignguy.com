@@ -3,6 +3,7 @@ title: Prologue
 image: /img/prologue.png
 date: 2026-04-08
 list: Thoughts
+draft: true
 ---
 
 Spent a few hours writing (and rewriting and typesetting) a prologue this morning.
