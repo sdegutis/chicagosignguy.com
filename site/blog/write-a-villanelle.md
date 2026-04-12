@@ -5,12 +5,13 @@ date: 2026-04-12
 list: Thoughts
 ---
 
+(The image above is from [my favorite movie](/blog/my-favorite-film.html).)
+
 Here's a little tool I made to help me write a [villanelle](https://en.wikipedia.org/wiki/Villanelle) for my book.
 Feel free to use it yourself if you want.
 
-(The image above is from [my favorite movie](/blog/my-favorite-film.html).)
-
-<div id='villanelle'>
+When you're done writing it,
+click here to <a href='#' download='villanelle' onclick='this.href=`data:text/plain;charset=utf-8,${encodeURIComponent(villanelle.textContent)}`'>download</a> the file.
 
 <style>
   #villanelle span {
@@ -27,6 +28,8 @@ Feel free to use it yourself if you want.
     }
   }
 </style>
+
+<div id='villanelle'>
 
 <p>
   <span contenteditable oninput="for (const el of document.querySelectorAll('#villanelle .a')) el.innerHTML = this.innerHTML"></span>
