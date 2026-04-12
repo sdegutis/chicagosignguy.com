@@ -74,7 +74,6 @@ Helping others
 > Let's count on that force of anger. Let's assume that by that force of anger, they're able to lift themselves up, and take possession of many goods.
 > Man's poverty is deeper than the resources of *all* those goods you are talking about.
 > All those goods man can aspire to by the force of his anger.
-> Yes, one man should not remain poor, and another rich.
 
 The most fundamental question of human social experience is how to relate to others, and how to help others in a general sense, and in the more specific senses that each individual's context and situation allows, or even demands.
 
