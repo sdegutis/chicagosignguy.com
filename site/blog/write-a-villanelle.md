@@ -29,8 +29,6 @@ click here to <a href='#' onclick='doimport(event)'>import</a> and edit it.
           .map(s => s.trim())
           .filter(s => s)
         const spans = document.querySelectorAll('#villanelle span')
-        console.log(lines)
-        console.log(spans)
         for (let i = 0; i < spans.length; i++)
           spans[i].innerText = lines[i]
       }
