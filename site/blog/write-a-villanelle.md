@@ -13,6 +13,33 @@ Feel free to use it yourself if you want.
 When you're done writing it,
 click here to <a href='#' download='villanelle' onclick='this.href=`data:text/plain;charset=utf-8,${encodeURIComponent(villanelle.textContent)}`'>download</a> the file.
 
+To rework one you've downloaded,
+click here to <a href='#' onclick='doimport(event)'>import</a> and edit it.
+
+<script>
+  function doimport(e) {
+    e.preventDefault()
+    const input = document.createElement('input')
+    input.type='file'
+    input.onchange = e => {
+      const reader = new FileReader()
+      reader.onload = () => {
+        const lines = reader.result
+          .split(/\r?\n/)
+          .map(s => s.trim())
+          .filter(s => s)
+        const spans = document.querySelectorAll('#villanelle span')
+        console.log(lines)
+        console.log(spans)
+        for (let i = 0; i < spans.length; i++)
+          spans[i].innerText = lines[i]
+      }
+      reader.readAsText(input.files[0])
+    }
+    input.click()
+  }
+</script>
+
 <style>
   #villanelle span {
     display: block;
