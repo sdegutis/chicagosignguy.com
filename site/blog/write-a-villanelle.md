@@ -27,7 +27,7 @@ click here to <a href='#' onclick='doimport(event)'>import</a> and edit it.
         const lines = reader.result
           .split(/\r?\n/)
           .map(s => s.trim())
-          .filter(s => s)
+          .filter((s, i) => i % 5 > 1 || i == 30)
         const spans = document.querySelectorAll('#villanelle span')
         for (let i = 0; i < spans.length; i++)
           spans[i].innerText = lines[i]
