@@ -11,10 +11,9 @@ Here's a little tool I made to help me write a [villanelle](https://en.wikipedia
 Feel free to use it yourself if you want.
 
 When you're done writing it,
-click here to <a href='#' download='villanelle' onclick='this.href=`data:text/plain;charset=utf-8,${encodeURIComponent(villanelle.textContent)}`'>download</a> the file.
-
-To rework one you've downloaded,
-click here to <a href='#' onclick='doimport(event)'>import</a> and edit it.
+you can <a href='#' download='villanelle' onclick='this.href=`data:text/plain;charset=utf-8,${encodeURIComponent(villanelle.textContent)}`'>download</a> the file.
+To rework one you've downloaded, just
+<a href='#' onclick='doimport(event)'>import</a> and edit it.
 
 <script>
   function doimport(e) {
