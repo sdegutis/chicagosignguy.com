@@ -5,8 +5,13 @@ date: 2026-05-03
 list: Surveys
 ---
 
-The song of the day is [Shia LaBeouf Live, by Rob Cantor](https://www.youtube.com/watch?v=o0u4M6vppCI).
-It's about actor Shia Labeouf, famous movie star from the original Transformers movies.
+Ignore the song of the day on the sign.
+It was a mistake putting it there.
+I was just trying to be silly so I put a silly song on there.
+But then I realized this meme song won't hit the same today as it did 11 years ago.
+So it will just confuse people.
+And then I felt bad, like I had deceived people.
+So just ignore the song.
 
 ## Prologue
 
@@ -25,6 +30,8 @@ And I realized it was because I feel so irreparably incompetent.
 And that this *incompetencia sin parangón* continually stands in the way of my happiness.
 And that feeling was growing stronger throughout the day.
 So I chose this topic on feeling hopeless.
+
+## First try
 
 Initially, I put all this:
 
@@ -73,17 +80,26 @@ At least one person said they feel hopeless because they just got broken up with
 
 At least one person mentioned politics as part of their reasoning for hopelessness.
 
-Someone asked my answer, and I said I felt hopeless earlier, but I just needed a nap. Even though I exaggerated and didn't nap, the rest I got actually did help.
+Someone asked my answer, and I said I felt hopeless earlier, but I just needed a nap.
+Even though I exaggerated and didn't nap, the rest I got actually did help.
 
 Someone came up to me near the end of my survey, someone who had just done my survey a few minutes prior.
 She said, "hey stranger, do you like KitKats?" I said "I do!" And she gave me one. And I said "for me?" in disbelief.
 I don't remember anything after that, except that I ate the KitKat right away, and couldn't stop smiling for the next few minutes straight.
+That small act of kindness really made my whole day.
 
 If anyone remembers their answer and I didn't write it here, please put it in the comments for everyone else!
 If I remember any more, I'll add them to the comments, too.
 
 ## Epilogue
 
-*TODO: write something interesting here tomorrow morning and hope nobody reads this tonight lol and make sure it leads into the following concluding sentence*
+As I was writing this article for the survey, it occurred to me that *I just have a cold.*
+That's why I was so tired all day, and felt so low energy.
+And like I told someone who asked me for my answer, whenever I'm tired or sick, I get emotional, which I think is somewhat common.
+
+It's good to recognize that our emotions are just that: emotions. We don't have to obey them,
+we don't have to give into any thoughts that come along with them.
+We can sit with them and examine them and reflect on where they come from
+and whether they line up with our actual goals.
 
 And so I think I'll hit the gym bright and early tomorrow morning after a good night's sleep.
