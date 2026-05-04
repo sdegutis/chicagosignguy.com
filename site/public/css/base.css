@@ -214,6 +214,13 @@ form :is(textarea, input):is(:focus, :active) {
   white-space: pre-wrap;
 }
 
+#comments .realsteven {
+  color: var(--h);
+  text-decoration: 1px underline dashed;
+  text-decoration-style: double;
+  text-underline-offset: 3px;
+}
+
 .back-to-top {
   font-style: italic;
   float: right;
