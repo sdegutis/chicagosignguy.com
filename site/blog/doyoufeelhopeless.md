@@ -52,9 +52,6 @@ So I flipped it over and started fresh with just Yes and No.
 | Not Today            | 1   | 1%  |
 | With Jesus Christ No | 1   | 1%  |
 
-It didn't directly correspond with the survey topic, which I do plan to do in the future.
-I just thought it was a fun song and wanted to share it.
-
 Overall, about 2/3 feel generally hopeful, and 1/3 of people feel hopeless at least sometimes.
 As I'm writing this, it occurs to me that that's the same number of angels (one third) that fell from heaven.
 What a neat coincidence.
