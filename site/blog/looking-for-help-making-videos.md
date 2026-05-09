@@ -23,7 +23,7 @@ I think a video format works *a lot* better for this kind of thing:
 * Nobody reads blogs.
 * It's already a lot of work to maintain a blog website.
 * I'm getting so burnt out running this website.
-* I still have writers block, so I need an alternate way to make money.
+* I still have writers block, and I'm living entirely off book royalties, which are just enough to live off of, so I need an alternate way to make money.
 
 So, I'm looking for help making videos.
 
