@@ -8,14 +8,16 @@ list: Surveys
 I did this survey for a few hours,
 until some group of hooligans came up
 and wrote all over the No section.
-
+So I just dropped the survey on the ground,
+walked about 30 feet away slowly,
+and sat down feeling completely defeated.
 Even before that, I already felt so defeated all day.
 But that was the nail in the coffin.
 
 I know nobody reads this blog,
 so I get to give you the inside scoop,
 "you" being nobody,
-since nobody will read this.
+since nobody will read this article.
 
 I'm flat broke. I have a little more than enough for a gym membership for the month so I can shower.
 I've been living off a little less than $200 per month in book royalties for a few months now.
