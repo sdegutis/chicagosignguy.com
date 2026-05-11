@@ -175,6 +175,27 @@ And in either case, it will be a success story,
 because I'm not giving into either loss of hope or loss of integrity,
 and I'm still following my principles to the end.
 
+I don't mind being broke and sleeping outside.
+It's basically like playing Minecraft, but in real life.
+What I do mind is living an empty, lonely, meaningless life.
+I'm tired of being a loser with no friends or helpful career or love interest.
+So I'm going to make a real difference in the world somehow, or die trying.
+
+So if you see me sitting outside selling graphite or charcoal sketches, that's me working my way up.
+And if you see me sitting outside busking with a broken guitar, I must have bought it from a thrift store with my sketch profits.
+And if you see me playing a cheap piano in that spot, I probably bought it with my guitar busking money.
+And if you see me selling copies of my new book on the corner, it's because I finally finished it.
+
+Although, I do think I need a muse.
+I think I need to fall in love as the last step of inspiration for that book.
+I wonder if I'll find someone who could love me despite this horrifying situation I'm in.
+I wonder if I'll meet someone who can look past that and see into my soul and love me for me.
+Granted, nobody has known about this situation for the past two weeks that I've been sleeping on the street.
+So I think it should be fine. I think I have a chance.
+
 Anyway, here's the survey I did last Friday:
 
 ![Do you like you?](/img/doyoulikeyou.jpg)
+
+I don't remember anything about people's conversations or answers.
+I'm sorry.
