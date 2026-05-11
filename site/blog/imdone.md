@@ -3,7 +3,6 @@ title: I'm Done
 image: /img/haveyoueverbeeninlove2.jpg
 date: 2026-05-10
 list: Surveys
-draft: true
 ---
 
 I did this survey for a few hours,
@@ -58,6 +57,9 @@ A capable man should provide for himself.
 
 Yes, I dug myself into this hole
 through my seemingly irreparable incompetence.
+I spent all my savings on wine and pizza for a year.
+And I didn't reinvest it properly.
+And I listened to the advice of imprudent, unknowledable, and uncharitable priests.
 And I deserve to be here.
 And I deserve to die here.
 And I will probably die here.
@@ -145,6 +147,7 @@ And I have an unusual but fun sense of humor that came up with signs that made t
 
 And, of course, I have a constant feeling of hopelessness and despair,
 perpetually convinced that my life is over and my world is ending and nothing matters and everything is pointless.
+I have had this since I was very little, and it's never quite left me.
 But that train of thought leads nowhere.
 
 So I'm going to keep going to the gym every day and working out really hard and getting stronger.
@@ -162,7 +165,7 @@ So don't even think to offer anything.
 And I don't want or need sympathy.
 I'm tired of feeling like a loser.
 Men used to build houses and fight off wolves with their bare hands.
-I'm going to become a good man, or die trying.
+I'm going to become a highly capable man, or die trying.
 
 Anyone who befriends me *now*,
 while I'm in this very deep hole,
