@@ -33,8 +33,8 @@ I was surprised by how few votes App and Work had.
 Among Public/Other, some specific answers given were:
 
 * At the ATM
-* Gym (he was a Mexican gym bro)
-* Climbing gym by Zara (white guy I think?)
+* Gym
+* Climbing gym
 * At a bar
 * At a bar during a dating event
 * Speed-dating
