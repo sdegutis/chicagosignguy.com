@@ -18,7 +18,8 @@ so my memory is slightly flawed.
 People's conversations were largely the same
 as when I did these topics on my typical corner,
 so I won't rehash those thoughts and opininos,
-and I won't repeat things that happened last week.
+and I won't repeat things that happened
+[last week](/blog/riverwalk-1.html).
 
 Throughout the time I left the survey there,
 I moved spots every 30 or 60 minutes,
