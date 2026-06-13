@@ -11,7 +11,12 @@ than standing on a side corner and holding the sign.
 
 Both sides of the poster had a different question.
 
-![back side](/img/riverwalk1b.jpg)
+![back side](/img/riverwalk2b.jpg)
+
+Songs of the day:
+
+* [Blood, Milk and Sky](https://www.youtube.com/watch?v=1PDaX4iaJAk), by White Zombie
+* [In Ear Park](https://www.youtube.com/watch?v=qSZdTaPcVk4), by Department of Eagles
 
 I'm writing this a week later,
 so my memory is slightly flawed.

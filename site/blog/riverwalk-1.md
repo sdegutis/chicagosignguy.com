@@ -12,7 +12,12 @@ Because one side got filled up so quickly,
 I decided to do another survey on the back side.
 So there's two surveys this week:
 
-![back side](/img/riverwalk2b.jpg)
+![back side](/img/riverwalk1b.jpg)
+
+Songs of the day:
+
+* [The Nurse Who Loved Me](https://www.youtube.com/watch?v=5AnpnL0Q11g), by A Perfect Circle
+* [A Stranger](https://www.youtube.com/watch?v=Qypuo3T4aHQ), by A Perfect Circle
 
 I'm writing this two weeks later,
 so my memory of events is not the best.
