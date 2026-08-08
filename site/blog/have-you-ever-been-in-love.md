@@ -7,6 +7,8 @@ list: Surveys
 
 This was my first survey, before I started taking notes on people's answers.
 
+Tangy from Quake Live does not believe in true love.
+
 Here's a video I found that someone took:
 
 <blockquote
