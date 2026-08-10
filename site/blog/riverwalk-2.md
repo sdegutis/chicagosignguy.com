@@ -3,6 +3,7 @@ title: "Riverwalk #2"
 image: /img/riverwalk2a.jpg
 date: 2026-06-07
 list: Surveys
+draft: true
 ---
 
 Once again, I did the survey at the Riverwalk!

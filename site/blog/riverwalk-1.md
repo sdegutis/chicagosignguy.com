@@ -3,6 +3,7 @@ title: "Riverwalk #1"
 image: /img/riverwalk1a.jpg
 date: 2026-05-31
 list: Surveys
+draft: true
 ---
 
 I wanted to sit and rest and listen to music this Sunday.
