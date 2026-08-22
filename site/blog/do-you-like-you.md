@@ -12,7 +12,6 @@ and defaced it with mean spirited words.
 So I just dropped the survey on the ground,
 walked about 30 feet away slowly,
 and sat down feeling completely defeated.
-
 Even before that, I already felt so defeated all day.
 But that was the nail in the coffin.
 
