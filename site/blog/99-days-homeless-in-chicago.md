@@ -226,6 +226,33 @@ So you won't see me as much,
 as I'm taking a little time off,
 to focus entirely on my book.
 
+Part of why I'm writing my book
+is to make enough money to pay off my few remaining debts.
+Part of it is to share what I've learned with my children about life.
+And part of it is to do my final philosophizing about life,
+to finally put all these scattered thoughts into organized words.
+
+Once the book is done,
+if God still wants me on earth,
+I will endure whatever suffering he wants,
+and even be homeless if he wills it,
+like St. Adam Chmielowski,
+or St. Ignatius of Loyola,
+or St. Benedict of Nursia,
+or St. Francis of Assisi,
+or countless others,
+giving whatever suffering I endure
+as currency to God to purchase souls.
+
+Besides, I don't like this world,
+it is unjust and corrupted.
+Anything good about this life
+will also be present in heaven.
+So why not use this lifetime
+to help populate heaven,
+and wait to enjoy true life then,
+but with more people?
+
 ![redsun](/img/redsun.jpg)
 
 
