@@ -150,7 +150,14 @@ First, not a single person out there is my type.
 I've never been a bar or nightlife kind of person,
 which is relatively incompatible with Catholicism.
 Second, even though I am hoping for true love,
-I would want it to be *romantic but celibate*.
+I would want it to be *romantic but celibate*,
+modeled after the marriage of the Virgin Mary and St. Joseph,
+who were both celibate virgins their whole lives,
+even during marriage, yet were *deeply* in love.
+This was a choice they each individually made before marriage,
+having no interest in physical pleasures, only spiritual ones.
+(Either would have yielded to the other if asked,
+and happily, given they were the most attractive people alive.)
 I do not plan on getting married ever again,
 and the appeal of sex has worn off long ago.
 I've all but lost hope that I'll ever find such a woman,
