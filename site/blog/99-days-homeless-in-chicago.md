@@ -143,6 +143,19 @@ you're either on drugs or have a mental illness.
 In general they're right.
 That's basically every other homeless person I saw except me.
 
+Many women (and some men) flirted with me
+when I was selling Terrible Advice by the bars.
+I'm listing this in the bad section for two reasons.
+First, not a single person out there is my type.
+I've never been a bar or nightlife kind of person,
+which is relatively incompatible with Catholicism.
+Second, even though I am hoping for true love,
+I would want it to be *romantic but celibate*.
+I do not plan on getting married ever again,
+and the appeal of sex has worn off long ago.
+I've all but lost hope that I'll ever find such a woman,
+who wants to fall in love, but without sex or marriage.
+
 One night when I was sleeping,
 I woke up and found two water bottles next to me.
 Apparently someone gave them to me, how nice of them.
@@ -226,6 +239,7 @@ So you won't see me as much,
 as I'm taking a little time off,
 to focus entirely on my book.
 
+<!-- 
 Part of why I'm writing my book
 is to make enough money to pay off my few remaining debts.
 Part of it is to share what I've learned with my children about life.
@@ -252,6 +266,7 @@ So why not use this lifetime
 to help populate heaven,
 and wait to enjoy true life then,
 but with more people?
+ -->
 
 ![redsun](/img/redsun.jpg)
 
