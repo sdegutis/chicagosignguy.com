@@ -27,7 +27,14 @@ Second, and probably more importantly,
 it's blatantly *religious* in nature.
 Generally, people with such a sign
 would be preaching or "evangelizing",
-typical sickening Protestant behavior.
+typical sickening Protestant behavior,
+and a deeply flawed misunderstanding,
+as true evangelization is simply *being good*.
+There are almost no good people in the world,
+so the few that become good will stand out like lamps,
+and draw people to them,
+and greatly enrich life like salt does to food.
+That's my goal, hopefully one day I can become good.
 
 ## Demographics
 
