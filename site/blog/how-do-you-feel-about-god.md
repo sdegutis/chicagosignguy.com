@@ -197,4 +197,45 @@ At some point he mentioned he smokes weed.
 
 ## My thoughts
 
-TODO
+I'm split half and half.
+Half the time I'm 👿
+and the other half 😍,
+almost nothing between.
+
+When I feel that I have no purpose,
+then my heart wanders around,
+looking for something to latch onto,
+whether food or relationships or games.
+Eventually, these disappoint me,
+and I become angry at God
+because nothing seems to satisfy me,
+and my soul screams at him,
+*"why have you made me this way!?"*
+
+But when I accept reality for what it is,
+and accept the purpose I was given by God
+within the limitations that came with my life,
+my burnout goes away, my restlessness is cured,
+and I stop seeking happiness in everything else
+except for fulfilling my purpose.
+And I find such joy in that fulfillment,
+that I fall more and more in love with God.
+
+As I mentioned above and in previous articles,
+one of the things I wanted was a relationship,
+but one that is both romantic and celibate,
+since I don't plan to get married any time soon,
+and sexuality is forbidden outside of marriage.
+
+When I'm restless, this frustrates me,
+in the original sense of the word *frustrate*,
+that is, my plan is thwarted, or frustrated, by God,
+who does so to protect me from calamities,
+and to help set me back on the path to my true happiness.
+
+That said, I don't think it's entirely off the table.
+When I thought I needed it for my happiness, God prevented it.
+But now that it would be an optional nice thing,
+and considering it could help me understand love better,
+which would definitely be a huge help in writing my book,
+I think God is more likely to allow me to find such love.
