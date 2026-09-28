@@ -239,6 +239,18 @@ An old man said "none of the above."
 When I asked if he meant Same,
 he said no, they're just different.
 
+At one point I saw a very old priest
+that I recognized from St. Peter's
+--I think he's retired now--
+walking about in normal clothes.
+I called out to him by name,
+and he probably didn't hear me.
+And he definitely didn't look at my sign,
+or at me, or towards me. At all.
+And he looked quite financially sound,
+not at all like a Franciscan,
+but at least middle class.
+
 ## Song of the Day
 
 Creep by Radiohead is hardly obscure,
