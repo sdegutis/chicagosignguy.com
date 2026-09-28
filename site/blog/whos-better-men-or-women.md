@@ -261,10 +261,3 @@ The best live rendition of this song
 was from the very first episode
 of Late Night with Conan O'Brien.
 You can literally see his pain.
-
-## My thoughts
-
-For this one, I'll save my thoughts for the book.
-It's too elaborite to really define here,
-and this would turn into a full on chapter of my book,
-and require some prerequisite chapters for context.
