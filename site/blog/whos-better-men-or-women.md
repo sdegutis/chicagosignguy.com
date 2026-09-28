@@ -256,6 +256,9 @@ by a woman who sings it in a jazzy style,
 but it destroys the song entirely,
 because it's a despairing, sad song,
 and she makes it an upbeat, happy one.
+It also goes from the sad loser singing it,
+to the kind of woman he worships singing it,
+adding a sad layer of unfortunate irony.
 
 The best live rendition of this song
 was from the very first episode
