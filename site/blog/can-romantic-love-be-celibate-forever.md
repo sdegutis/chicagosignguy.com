@@ -15,7 +15,7 @@ list: Surveys
 | No      | 58  | 39% |
 
 About 2/3 of people say Yes,
-ando nly 1/3 say No.
+and only 1/3 say No.
 
 There are two sides,
 worded slightly differently,
