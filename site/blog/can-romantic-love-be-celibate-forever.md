@@ -140,7 +140,61 @@ answered verbally saying
 I have no idea what they meant,
 and I think they misunderstood the survey.
 
-## Songs of the Day
+One young woman who takes my survey often,
+who seems to work somewhere nearby my spot,
+put No, saying sex deepens the connection.
+She said at some point in a relationship,
+she needs to "experience" the whole person.
+
+One young woman at the McDonald's in my hometown
+looked like she would have a thoughtful answer,
+because her aesthetic seems rather intentional,
+so I explained my book and asked for her answer.
+She said "I think it would be deeper."
+
+## Inspiration
+
+A few people asked what inspired the survey.
+Depending on the person,
+I gave different answers,
+all of them being true of course.
+
+I almost didn't do this survey,
+because I thought I would be the only Yes.
+And my Yes is entirely different from all the others,
+it's one that nobody who took it has mentioned at all.
+
+As a Catholic, I am required to believe
+that Joseph and Mary, the parents of Jesus,
+were voluntarily celibate for their whole lives,
+both before and after marriage,
+both having made vows of celibacy before marriage.
+
+And I also choose to believe that
+they had the strongest romance,
+and the deepest love,
+humanly possible.
+
+And I choose to believe that
+this type of romantic love
+is still possible today.
+
+In the middle ages, many couples imitated this,
+and chose to take vows of celibacy after marriage.
+
+So, in my ongoing search for a soulmate,
+I figured that I might find her this way.
+I thought everyone would put No,
+except me and perhaps one young woman,
+who would have the same reason.
+
+I didn't anticipate all the other reasons
+people had for maintaining a relationship
+in the face of celibacy, voluntary or not.
+
+And, of course, I didn't find my soulmate.
+
+## Song of the Day
 
 It was a bit of a cop-out song.
 I couldn't find any song fitting
