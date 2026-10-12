@@ -145,6 +145,13 @@ function HomePage(blogs: Blogs) {
         </figcaption>
       </figure>
 
+      <blockquote>
+        <p>
+          "You're gonna have to place a token on the site before trust"
+        </p>
+        <p>- a homosexual quake live player</p>
+      </blockquote>
+
     </article>
 
   </Html>
