@@ -20,15 +20,15 @@ a friendless, socially inept computer nerd.
 A year after college, I tried to become Catholic,
 but it was a short-lived conversion from my agnosticism,
 because everyone in my life was firmly anti-Christian,
-and in subtle ways worked hard to "save" me it, successfully.
+and in subtle ways worked hard to "save" me from it, successfully.
 I only really began to live as a Catholic a couple years ago.
 
 In 2023, I wrote a best-selling
 [comedy book](https://www.amazon.com/dp/B0CPDFKGLT)
 in order to pass the time
-and perhaps buy a little more.
-The next year, it made a quarter million dollars in royalties.
-Sales have since decreased steadily, to negligible amounts.
+and perhaps buy a little more time.
+Since then, it made $250k in royalties.
+But sales have since decreased steadily.
 
 For all of 2024, I lived in an empty three bedroom house,
 the whole time searching for solace or comfort in anything.
@@ -37,7 +37,7 @@ played chess, debated religion online, and created video games.
 
 But no hobby or endeavor felt worthwhile or fulfilling.
 No pain or pleasure moves me to action anymore.
-For the most part, I live only by principle now.
+For the most part, I now live only by principle.
 
 At this point in my life, I think it is too late for me to start over.
 I'm already burdened with a devastating lack of social skills from a broken childhood,
@@ -50,9 +50,9 @@ And I am getting more and more unwell as time goes on.
 
 ## My Present
 
-During 2024, I worked a lot on a theology book,
+During 2024, I worked on and off on a theology book,
 which currently sits at about 40,000 words.
-Throughout 2025, I drafted many more notes and chapters.
+Since then, I've drafted many more notes and chapters.
 My plan, God willing, is to split it into two separate books:
 
 * *Moral Responsibility* ([tentative cover](/img/moralresponsibilitycover.jpg))
@@ -60,12 +60,12 @@ My plan, God willing, is to split it into two separate books:
 
 Both books are meant to explain reality in the unique way I see it,
 a perspective of life which I've never heard or read anywhere else,
-both centered around Adam, Eve, and the Dragon, in the Garden of Eden.
+centered around Adam, Eve, and the Dragon, in the Garden of Eden.
 
-Both explore the hidden events that happened in that garden,
+Both explore the hidden events that unfolded in that mysterious Garden,
 extrapolated from years of my own deep dive into theology,
 relying on books written hundreds or thousands of years ago,
-by the most reputable saints, mystics, and theologians ever born.
+and only by the most reputable saints, mystics, and theologians ever born.
 
 Almost all the books that I found in my research
 are old enough to be in the public domain,
@@ -86,9 +86,9 @@ to perpetuate and scam people who are earnestly seeking the truth.
 
 ***What is Love?*** is meant to analyze
 every form and type of relationship the world has ever seen,
-to all the forms that Adam, Eve, and the Dragon had;
-and to the supernatural and mystical marriage of Jesus and Mary;
-and the natural but heavenly marriage of Mary and Joseph.
+comparing them to all the forms that Adam, Eve, and the Dragon had,
+and to the supernatural and mystical marriage of Jesus and Mary,
+and to the natural but heavenly marriage of Mary and Joseph.
 I was quite surprised by how many connections I was able to make,
 finding in the Garden of Eden everything
 from love triangles to cuckoldry,
@@ -108,21 +108,23 @@ instead pursuing my own happiness.
 I continuously believed the assertions
 that I am too unskilled at writing,
 that my topics are of interest to no one,
-and that it's an utterly pointless endeavor.
+that I couldn't possibly hold a reader's attention,
+that it would just be an exercise in narcissistic vanity,
+and that it's overall an utterly pointless endeavor.
 
 But I'm getting more and more unwell as time goes on.
 I read yesterday in the gospel where Jesus said,
 "to he who has not, even what he *thinks* he has will be taken from him." (Luke 8:18)
 I know that, in my case, Jesus means time.
 I may think I have time left, but any day, he may say to me,
-"you fool, this very night your life will be demanded from you." (Luke 12:20).
+"you fool, this very night your life will be demanded of you." (Luke 12:20).
 And I think to myself: why did God give me this knowledge and perspective,
-unless he wanted me to share it? (Judges 13:23, Revelation 1:19)
+unless he wanted me to share it? (Judges 13:23, Revelation 1:19, Luke, 11:33)
 
 There are only a few more questions I want to do surveys for:
 
-* Is "I hate you" hate speech?
-* Is the supernatural real?
+* Should "I hate you" be considered hate speech?
+* Do you believe in the supernatural?
 * Are you 100% sober from everything?
 * *(Possibly a couple more I can't remember right now.)*
 
@@ -132,4 +134,4 @@ The people that brighten my day are now too few and far between.
 Convinced that nobody will read this article,
 and out of pure boredom while I work on these books,
 I'm giving out my personal phone number: 815-245-1625.
-Feel free to text me, but I'll likely be entirely uninteresting.
+Feel free to text me about anything.
