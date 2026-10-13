@@ -132,6 +132,18 @@ And I'm getting tired of standing out in Chicago holding a sign.
 The people that brighten my day are now too few and far between.
 
 Convinced that nobody will read this article,
-and out of pure boredom while I work on these books,
+and as yet another one of my social experiments,
 I'm giving out my personal phone number: 815-245-1625.
 Feel free to text me about anything.
+
+## Bonus Content
+
+Instead of Song of the Day, this article has bonus videos.
+
+There are several clips from real life interactions
+that have captivated me throughout the years.
+I've chosen the ones centered around love,
+and uploaded them to both my
+[TikTok](https://www.tiktok.com/@chicagosignguy) and
+[YouTube](https://www.youtube.com/@ChicagoSignGuy),
+as a series called *What is Love?*, named like my book.
