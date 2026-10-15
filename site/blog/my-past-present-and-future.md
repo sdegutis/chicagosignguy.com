@@ -5,7 +5,6 @@ date: 2026-10-13
 list: Thoughts
 ---
 
-I am nearing the end of my life, I believe.
 I have lost everything a few years ago.
 I've lost my career as a software developer.
 I've lost my wife and children.
@@ -53,6 +52,7 @@ And I am getting more and more unwell as time goes on.
 During 2024, I worked on and off on a theology book,
 which currently sits at about 40,000 words.
 Since then, I've drafted many more notes and chapters.
+
 My plan, God willing, is to split it into two separate books:
 
 * *Moral Responsibility* ([tentative cover](/img/moralresponsibilitycover.jpg))
@@ -78,11 +78,8 @@ the Kingdom of the Dragon, which began in Eden,
 to the Kingdom of God, which began on the cross.
 It explains and compares citizenship in both kingdoms,
 connecting their principles to modern day life,
-and reexamining what Heaven and Hell truly are.
-It explains the fundamentals of Christianity from a new light,
-and hopefully destroys and humiliates the fundamental mistakes
-that allow countless false versions of Christianity
-to perpetuate and scam people who are earnestly seeking the truth.
+and reexamining what Heaven and Hell truly mean.
+Ideally, it will fundamentally redefine Christianity.
 
 ***What is Love?*** is meant to analyze
 every form and type of relationship the world has ever seen,
@@ -96,7 +93,7 @@ from bisexuality to bestiality,
 from gender fluidity to toxic masculinity,
 from polyamory to Mary's perpetual virginity,
 and, of course,
-the origin of all fairy tale happy endings.
+the origin and realization of all fairy tale happy endings.
 
 ## My Future
 
@@ -138,12 +135,15 @@ Feel free to text me about anything.
 
 ## Bonus Content
 
-Instead of Song of the Day, this article has bonus videos.
+First, here are some of my
+[music playlists](https://www.youtube.com/@ChicagoSignGuy/playlists)
+turned into YouTube playlists.
+The titles and descriptions of each should be enough for now.
 
-There are several clips from real life interactions
-that have captivated me throughout the years.
-I've chosen the ones centered around love,
-and uploaded them to both my
+I also have started uploading videos to both my
 [TikTok](https://www.tiktok.com/@chicagosignguy) and
-[YouTube](https://www.youtube.com/@ChicagoSignGuy),
-as a series called *What is Love?*, named like my book.
+[YouTube](https://www.youtube.com/@ChicagoSignGuy).
+But instead of being boring videos of my content,
+they're clips I've found on the internet
+that have captivated me for their pure authenticity,
+all centered around love and romance.
