@@ -5,12 +5,12 @@ date: 2026-10-13
 list: Thoughts
 ---
 
+## My Past
+
 I have lost everything a few years ago.
 I've lost my career as a software developer.
 I've lost my wife and children.
 I've lost almost all appetite for this life.
-
-## My Past
 
 The boring backstory nobody wants to read,
 is that I was raised as a secular liberal,
