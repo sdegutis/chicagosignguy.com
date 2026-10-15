@@ -16,15 +16,25 @@ The boring backstory nobody wants to read,
 is that I was raised as a secular liberal,
 a friendless, socially inept computer nerd.
 
+I don't remember most of my life.
+I remember, as child, doing everything I can
+to forget the past year entirely,
+because it was so horrifyingly upsetting.
+I also remember that it wasn't the first time.
+I think it's because of this that I struggle with memory.
+The few good memories I had of my past,
+were tarnished or ruined by revelations,
+such as being with a woman who was unfaithful.
+
 A year after college, I tried to become Catholic,
 but it was a short-lived conversion from my agnosticism,
 because everyone in my life was firmly anti-Christian,
 and in subtle ways worked hard to "save" me from it, successfully.
 I only really began to live as a Catholic a couple years ago.
 
-In 2023, I wrote a best-selling
+In 2023, I wrote a best-selling and critically-acclaimed
 [comedy book](https://www.amazon.com/dp/B0CPDFKGLT)
-in order to pass the time
+in order to pass the time,
 and perhaps buy a little more time.
 Since then, it made $250k in royalties.
 But sales have since decreased steadily.
