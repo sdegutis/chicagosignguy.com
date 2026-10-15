@@ -63,6 +63,21 @@ During 2024, I worked on and off on a theology book,
 which currently sits at about 40,000 words.
 Since then, I've drafted many more notes and chapters.
 
+Starting mid 2025, I began to do surveys in Chicago,
+entirely motivated by my pure loneliness and isolation.
+I didn't have any expectations or hopes at first,
+but over time I hoped to form meaningful friendships,
+and perhaps even find my soulmate.
+
+But these things, of course, never happened.
+I did meet many acquaintances I'm fairly fond of.
+And several women offered to help me break my vow of celibacy,
+which broke my heart, and which I of course refused or sabotaged.
+
+The only thing that really came of my surveys,
+were conversations and different perspectives
+that became notes and food for thought for my book.
+
 My plan, God willing, is to split it into two separate books:
 
 * *Moral Responsibility* ([tentative cover](/img/moralresponsibilitycover.jpg))
