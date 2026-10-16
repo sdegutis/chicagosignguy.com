@@ -45,13 +45,13 @@ just as Jesus calls the eye
 And the eye has three circles
 (sclera, iris, and pupil),
 each within the other,
-yet is one distinct circle.
+yet is one distinct whole.
 This mirrors the Trinity,
 who is one single Being,
 but also three distinct persons,
 Father, Son, and Holy Spirit,
 each residing within the other
-in an infinitely recursive way.
+in an infinitely recursive union.
 There are a few conclusions
 we can draw from all these facts.
 
