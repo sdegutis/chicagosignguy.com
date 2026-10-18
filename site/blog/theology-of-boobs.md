@@ -65,7 +65,14 @@ about what characteristics
 are fitting or not per gender,
 and what effects these tend to have.
 
-Obviously I can't go into detail here,
+But there's almost nothing about women's breasts themselves.
+There's only or two short paragraphs in the whole chapter,
+making the point that they are entirely meant for others,
+and how that connects to the psychology and sociology of women,
+for example, how it makes some women feel purely like objects.
+It also makes connections between men's breasts and women's breasts.
+
+Obviously I can't go into more detail here,
 as then I'd just be repeating what's in my book.
 Anyway, I hope this clears things up,
 and explains what I meant.
