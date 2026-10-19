@@ -3,6 +3,7 @@ title: Why I'm still single
 image: /img/smoking.jpg
 date: 2026-10-18
 list: Thoughts
+draft: true
 ---
 
 I have met a surprising number of women
