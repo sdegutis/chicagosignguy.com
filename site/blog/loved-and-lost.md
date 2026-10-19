@@ -46,9 +46,48 @@ builds character.
 Several people did not understand the question,
 and thought that "loved & lost" meant losing yourself.
 
-(There were more answers and interesting events,
-but I'm tired and just want to get this published for now.
-I'll probably edit it with more details tomorrow morning.)
+## My assistant
+
+A young man came up to me early on,
+when the results were about tied.
+
+He didn't take the survey itself,
+but asked many questions
+about how and why I was doing it.
+He seemed particularly interested
+in understanding my methodology.
+
+After a little while he left,
+and after an hour or two he came back.
+This time, he stayed for much longer.
+
+He told me he was a university student
+from California, studying computer science.
+He said that he owns a robotics company.
+
+At one point, I needed to relight my cigar,
+so he offered to hold the sign for me.
+Having talked with him for long enough,
+I trusted him to do it for a minute or two.
+When people came up to him to do the survey,
+he even asked why they marked what they did.
+
+So if you saw this young man with me,
+that's who he was and is,
+as far as I know.
+
+He was texting with his sister,
+and told me he was supposed to get coffee with her.
+Eventually she came by, too, while he was holding the sign.
+
+I told him he was very odd, and he thanked me.
+This reminded me of [a scene from Donnie Darko],
+another excellent film that few people seem to know.
+But Jake Gyllenhaal said that, to this day,
+Donnie Darko is still his favorite film he's ever done.
+
+He was very philosophical in the best kind of way.
+I very much appreciated our entire conversation.
 
 ## Song of the Day
 
@@ -61,3 +100,4 @@ but that gives it even more charm,
 and makes the tears flow even harder.
 
 [the first one]: /blog/shane-gillis.html
+[a scene from Donnie Darko]: https://www.youtube.com/watch?v=qGde1t7H4G0
