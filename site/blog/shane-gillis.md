@@ -53,11 +53,11 @@ One young man, a student of an art school,
 passed me by later during the second survey,
 and asked why I changed the survey question.
 While I was giving him an honest answer,
-he cut me off and said,
+he cut me off, clearly not listening to me, and said,
 "it's because you realized it was a stupid question, right?"
 Surprised by his rudeness, I replied, "no, it's a good question."
-He doubled down, and insisted there was only one right answer,
-and that the only correct answer was that it was "offensive."
+He said there was only one right answer, "offensive,"
+improvising a rant that I don't remember in the slightest.
 
 ## Song of the Day
 
