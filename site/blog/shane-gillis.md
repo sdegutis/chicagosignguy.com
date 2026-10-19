@@ -65,15 +65,13 @@ improvising a rant that I don't remember in the slightest.
 [You Know You're Right](https://www.youtube.com/watch?v=qv96yJYhk3M), by Nirvana.
 
 This is clearly a song of despair,
-of a man who is hated by a woman,
+of a man who is hated by a woman he loves,
 and who desperately tried to appease her,
 but who ultimately lost his appeals to her.
 Even in his defeat, as he yields to her,
 worshipping a woman wholly unworthy,
 he still tries to please her,
 offering even his defeat to her.
-
-I think it's a perfect fit.
 
 ## Philosophy Professor
 
