@@ -93,7 +93,7 @@ for using an Asian slur in a set.
 While looking into that situation,
 I came across a passionate essay
 written by Jewish comedian Ari Shaffir,
-on the role of free speech in comedy.
+on the necessity of free speech in comedy.
 
 That essay was buried in the description
 of [a YouTube video] that he uploaded,
