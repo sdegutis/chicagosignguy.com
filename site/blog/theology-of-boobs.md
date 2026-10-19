@@ -70,7 +70,7 @@ There's just a few points made in the whole chapter.
 
 One point is made that they are entirely meant for others,
 and how that connects to the psychology and sociology of women,
-for example, how it makes some women feel purely like objects.
+for example, how this fact causes resentment within some women.
 
 Another point makes connections between men's and women's breasts,
 again for the sake of discovering through inference ideal gender roles,
