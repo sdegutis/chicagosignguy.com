@@ -21,6 +21,9 @@ and this is one of my favorite theology books ever.
 He's also the author of [my favorite movie ever],
 which is essentially a philosophical treatise,
 and which I wrote an [article] and did a [survey] about.
+I have chopped the movie up into clips
+and uploaded them to my [TikTok] and [YouTube]
+so you can watch it conveniently.
 
 In this book, St. John Paul II
 connects countless Bible verses together
@@ -87,3 +90,5 @@ and explains what I meant.
 [my favorite movie ever]: https://www.youtube.com/watch?v=XwrSF4eSv5w
 [article]: /blog/art-purpose-beauty-communication.html
 [survey]: /blog/my-favorite-film.html
+[TikTok]: https://www.tiktok.com/@chicagosignguy
+[YouTube]: https://www.youtube.com/@ChicagoSignGuy

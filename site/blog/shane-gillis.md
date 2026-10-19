@@ -76,6 +76,38 @@ If Shane yields and apologizes,
 he makes the same mistake Kurt did.
 I think it's a perfect fit.
 
+## Philosophy Professor
+
+During this survey, a man came up to me,
+and stood talking with me for quite a while.
+He said he was a former professor of Philosophy,
+and is now transitioning into being an author.
+
+He told me that, at his university,
+there was extreme pressure
+both to avoid saying certain things,
+and to say certain things.
+
+He said that, as a Muslim man,
+some things he could not oblige in good conscience,
+such as put his "preferred pronouns" on his bio.
+
+I mentioned one of my favorite movies,
+[A Man For All Seasons] (1966),
+about St. Thomas More's downfall,
+all because the king tried to force him
+to declare something against his own conscience.
+
+He lamented that he couldn't do certain thought experiments,
+because some of the students would be too sensitive,
+and it would risk his job and career.
+But he said that philosophy requires *absolute* open-mindedness.
+
+Please watch A Man For All Seasons.
+I will try to chop it up
+and put it on my [TikTok] and [YouTube],
+just like I did with my other favorite film.
+
 ## Why this question?
 
 I started watching [Kill Tony] about a year ago,
@@ -119,3 +151,6 @@ so I'm reprinting it here for your convenience:
 <!-- [drunk Shane]: https://www.youtube.com/shorts/wNOQHWLLXwk -->
 [drunk Shane]: https://www.youtube.com/shorts/jHUMI5NFfT0
 [a YouTube video]: https://www.youtube.com/watch?v=6XizKz6y0LU
+[A Man For All Seasons]: https://www.youtube.com/watch?v=K_MIECLQ6vU
+[TikTok]: https://www.tiktok.com/@chicagosignguy
+[YouTube]: https://www.youtube.com/@ChicagoSignGuy
