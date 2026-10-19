@@ -5,15 +5,19 @@ date: 2026-10-18
 list: Surveys
 ---
 
+This is the first survey I did today,
+for a few hours before the [other one].
+
+It was in response to Shane Gillis
+saying on Saturday Night Live,
+"women dress like whores at the gym now."
+
 ## Results
 
 | Answer    | #   | %   |
 | --------- | --- | --- |
 | Offensive | 32  | 67% |
 | Allowed   | 16  | 33% |
-
-This is the first survey I did today,
-for a few hours before the [other one].
 
 Many people said scoffed and said it's obvious.
 Most of them were women or visibly liberal men.
