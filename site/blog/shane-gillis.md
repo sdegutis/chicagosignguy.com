@@ -62,7 +62,7 @@ improvising a rant that I don't remember in the slightest.
 
 ## Song of the Day
 
-[You Know You're Right](https://www.youtube.com/watch?v=qv96yJYhk3M), by Nirvana.
+[You Know You're Right](https://www.youtube.com/watch?v=qv96yJYhk3M) by Nirvana.
 
 This is a song of despair,
 of a man who is hated by his beloved,

@@ -52,7 +52,7 @@ I'll probably edit it with more details tomorrow morning.)
 
 ## Song of the Day
 
-[Last Kiss](https://www.youtube.com/watch?v=tNDWJ_KDkAc), by Pearl Jam.
+[Last Kiss](https://www.youtube.com/watch?v=tNDWJ_KDkAc) by Pearl Jam.
 
 It's a song of a man who lost his sweetheart in a car accident.
 
