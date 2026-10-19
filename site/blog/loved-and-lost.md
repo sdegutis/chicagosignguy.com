@@ -46,6 +46,11 @@ builds character.
 Several people did not understand the question,
 and thought that "loved & lost" meant losing yourself.
 
+Many people said that
+love is the greatest thing
+you can experience in this life,
+and that missing out on it would be a tragedy.
+
 ## The assistant
 
 A young man came up to me early on,
