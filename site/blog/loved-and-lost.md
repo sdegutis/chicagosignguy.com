@@ -46,6 +46,10 @@ builds character.
 Several people did not understand the question,
 and thought that "loved & lost" meant losing yourself.
 
+(There were more answers and interesting events,
+but I'm tired and just want to get this published for now.
+I'll probably edit it with more details tomorrow morning.)
+
 ## Song of the Day
 
 [Last Kiss](https://www.youtube.com/watch?v=tNDWJ_KDkAc), by Pearl Jam.
