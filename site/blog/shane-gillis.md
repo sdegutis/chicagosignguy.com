@@ -47,7 +47,8 @@ didn't find it funny or in good taste.
 The only obviously conservative person who put Allowed
 was a country man, clearly a father with his family.
 Everyone else did not have an obvious political bias.
-He didn't mark it, but said emphatically, "Allowed!"
+He didn't mark it himself, but as he walked by,
+he said "Allowed!" as he tapped the poster emphatically.
 
 One young man, a student of an art school,
 passed me by later during the second survey,
