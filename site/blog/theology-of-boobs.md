@@ -18,6 +18,7 @@ which were called [Theology of the Body],
 and which was later compiled into a [book].
 He may be my favorite philosopher of all time,
 and this is one of my favorite theology books ever.
+
 He's also the author of [my favorite movie ever],
 which is essentially a philosophical treatise,
 and which I wrote an [article] and did a [survey] about.
@@ -25,7 +26,7 @@ I have chopped the movie up into clips
 and uploaded them to my [TikTok] and [YouTube]
 so you can watch it conveniently.
 
-In this book, St. John Paul II
+In Theology of the Body, Pope John Paul II
 connects countless Bible verses together
 to draw many conclusions
 about personhood, gender,
