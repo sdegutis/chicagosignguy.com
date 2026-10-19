@@ -73,8 +73,6 @@ worshipping a woman wholly unworthy,
 he still tries to please her,
 offering even his defeat to her.
 
-If Shane yields and apologizes,
-he makes the same mistake Kurt did.
 I think it's a perfect fit.
 
 ## Philosophy Professor
