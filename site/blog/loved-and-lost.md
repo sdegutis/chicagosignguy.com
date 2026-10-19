@@ -46,7 +46,7 @@ builds character.
 Several people did not understand the question,
 and thought that "loved & lost" meant losing yourself.
 
-## My assistant
+## The assistant
 
 A young man came up to me early on,
 when the results were about tied.
@@ -88,6 +88,57 @@ Donnie Darko is still his favorite film he's ever done.
 
 He was very philosophical in the best kind of way.
 I very much appreciated our entire conversation.
+
+## The protestant
+
+Near the very end, three people came up to me,
+a couple, and a very "joyful" young man.
+They asked a few more questions than people typically do
+about my survey, why I'm doing it, and what I think.
+
+When I asked him what he thought of love,
+he first said he thinks love is dying for someone else.
+Then he said it's about being patient,
+which I said was like microdosing dying for someone else,
+but he was talking more than listening, so he didn't hear it.
+Then he said it's about being kind,
+at which point I realized he was just quoting 1 Corinthians 13.
+
+I called him out, saying, "oh, so you're a Christian."
+He said, "so then you know the Lord?"
+I said, "obviously you're a protestant."
+He laughed a little and said, "how can you tell?"
+
+We didn't get to talking too much,
+but in retrospect, one of the most obvious clues,
+was his feigned and counterfeit "joy".
+
+I've seen this countless times among "devout" "Christians",
+this effected joy, which in reality is actually giddiness,
+imitated from predecessors (in my opinion, going back to Eve),
+in an attempt to mask their underlying fear of death.
+
+Protestants inherently fear death,
+because they know they still love sin,
+and because they know they're wrong that Jesus will forgive them for it.
+
+Anyway,
+I didn't tell him any of that at the time,
+as our conversation was too short,
+and he was more interested in talking than listening,
+as all such protestant always are.
+
+He did ask what I believe to be the gospel,
+which I'm convinced is a trap question
+which protestants tend to deploy
+in order to show off their superior Biblical knowledge
+(which he absolutely does not have in comparison with me)
+and win a little debate, for their own ego's satisfaction.
+
+"Christians" like him piss me off to no end.
+
+I did tell him what I think it means to be a Christian though,
+that it meant sacrificing everything for the greater good.
 
 ## Song of the Day
 
