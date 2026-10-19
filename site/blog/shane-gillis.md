@@ -95,9 +95,10 @@ about St. Thomas More's downfall,
 all because the king tried to force him
 to declare something against his own conscience.
 
-He lamented that he couldn't do certain thought experiments,
+The professor lamented that
+he couldn't do certain thought experiments,
 because some of the students would be too sensitive,
-and it would risk his job and career.
+and it would risk his career.
 But he said that philosophy requires *absolute* open-mindedness.
 
 Please watch A Man For All Seasons.
