@@ -87,7 +87,7 @@ and to say certain things.
 
 He said that, as a Muslim man,
 some things he could not oblige in good conscience,
-such as put his "preferred pronouns" on his bio.
+such as putting his "preferred pronouns" on his bio.
 
 I mentioned one of my favorite movies,
 [A Man For All Seasons] (1966),
