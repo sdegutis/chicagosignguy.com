@@ -59,6 +59,23 @@ Surprised by his rudeness, I replied, "no, it's a good question."
 He doubled down, and insisted there was only one right answer,
 and that the only correct answer was that it was "offensive."
 
+## Song of the Day
+
+[You Know You're Right](https://www.youtube.com/watch?v=qv96yJYhk3M), by Nirvana.
+
+This is clearly a song of despair,
+of a man who is hated by a woman,
+and who desperately tried to appease her,
+but who ultimately lost his appeals to her.
+Even in his defeat, as he yields to her,
+worshipping a woman wholly unworthy,
+he still tries to please her,
+offering even his defeat to her.
+
+If Shane yields and apologizes,
+he makes the same mistake Kurt did.
+I think it's a perfect fit.
+
 ## Why this question?
 
 I started watching [Kill Tony] about a year ago,
