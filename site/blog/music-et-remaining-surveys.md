@@ -28,7 +28,8 @@ along with songs I think befit:
 * How's your self-esteem? ([Achilles Come Down] -- Gang of Youths)
 * Are your parents proud of you? ([Hurt] by Johnny Cash)
 * Who is more at fault, Adam or Eve? ([Love and War] -- Fleurie)
-* Do you believe in the supernatural? ([Chop Suey!] -- System of a Down)
+* Do you believe in the supernatural? ([Swamp Song] -- Sulek)
+* Do you do any occult things? ([Chop Suey!] -- System of a Down)
 * Do you do any drugs? ([Third Eye] -- Tool)
 
 (Passive by A Perfect Circle would have been *perfect*
@@ -146,6 +147,7 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Disarm]: https://www.youtube.com/watch?v=d1acEVmnVhI
 [Opium]: https://www.youtube.com/watch?v=p5GKTT2m2Qo
 [Blow Up the Outside World]: https://www.youtube.com/watch?v=x5wRNRtlIUo
+[Swamp Song]: https://www.youtube.com/watch?v=wWAo0VgdboM
 [Vermillion, pt. 2]: https://www.youtube.com/watch?v=LvetJ9U_tVY
 [Your Woman]: https://www.youtube.com/watch?v=3NoIusrv9OA
 [Carrion]: https://www.youtube.com/watch?v=j4d4e_n-4Dc
