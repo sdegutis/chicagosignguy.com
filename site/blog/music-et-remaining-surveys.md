@@ -161,8 +161,8 @@ that they need to be viewed at least once.
 * [a french girl singing je te laisserai des mots while it's raining :')](https://www.youtube.com/watch?v=QwoF1-1QgwA)
 * [Glycerine](https://www.youtube.com/watch?v=uHlN1Hy1bR4) -- Bush at Woodstock 99
 * [Take Me To Church](https://www.youtube.com/watch?v=1nnRC6jDOCI) -- Hozier in a subway
-* [King of Glory, Kind of Peace](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- a choir during Mass
 * [exit music for a film](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- Jack Flo at a talent show
+* [King of Glory, Kind of Peace](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- a choir during Mass
 
 
 
