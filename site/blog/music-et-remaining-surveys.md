@@ -23,7 +23,7 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-| Song                                  | Survey                                 |
+| Survey                                | Song                                   |
 | ------------------------------------- | -------------------------------------- |
 | Is the male loneliness epidemic real? | [Black] -- Aaron Lewis                 |
 | Do you hope to have kids?             | [H.] -- Tool                           |
