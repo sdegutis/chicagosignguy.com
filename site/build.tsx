@@ -2,6 +2,7 @@ import * as FrontMatter from 'front-matter'
 import { FileTree } from "immaculata/filetree.js"
 import { Pipeline } from 'immaculata/pipeline.js'
 import MarkdownIt from 'markdown-it'
+import footnote from 'markdown-it-footnote'
 
 const isDev = process.argv[2] == 'dev'
 
@@ -18,6 +19,7 @@ interface Blog {
 type Blogs = [string, Blog[]][]
 
 const md = new MarkdownIt({ html: true, typographer: true })
+md.use(footnote)
 const fm = FrontMatter.default as unknown as typeof FrontMatter['default']['default']
 
 const order = [
