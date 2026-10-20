@@ -143,6 +143,7 @@ but which a surprising number of people haven't heard:
 * [Paint It, Black] -- The Rolling Stones
 * [Pumped Up Kicks] -- Foster the People
 * [People Are Strange] -- The Doors
+* [Schism] -- Tool
 
 It's entirely possible that,
 by revealing this list of songs,
@@ -236,3 +237,4 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Pumped Up Kicks]: https://www.youtube.com/watch?v=SDTZ7iX4vTQ
 [People Are Strange]: https://www.youtube.com/watch?v=AgHaGrZkkv4
 [Close To You]: https://www.youtube.com/watch?v=re-6eOhrejE
+[Schism]: https://www.youtube.com/watch?v=80RtBeB61LE
