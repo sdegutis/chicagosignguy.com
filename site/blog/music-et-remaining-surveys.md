@@ -123,15 +123,15 @@ but to which I am assigning one retrospectively.
 | Survey                           | Song                                             |
 | -------------------------------- | ------------------------------------------------ |
 | Do you support LGBTQ+?           | [I Kissed A Girl] -- William Fitzsimmons         |
-| Do you feel fulfilled?           | TBD                                              |
+| Do you feel fulfilled?           | [Happy Face] -- Jagwar Twin                      |
 | Do you feel worthy of love?      | [Uninvited] -- Alanis Morissette                 |
 | Do you feel loved?               | [Opium] -- Marcy Playground                      |
 | Can women ask men out?           | [Everyday Normal Guy 2] -- Jon Lajoie            |
-| Do you feel worthy of respect?   | TBD                                              |
+| Do you feel worthy of respect?   | [The Unforgiven] -- Metallica                    |
 | Does the world need you?         | [Achilles Come Down] -- Gang of Youths           |
 | How alone do you feel?           | [We're Going to Be Friends] -- The White Stripes |
 | Are you ever anxious?            | [Mad World] -- Gary Jules                        |
-| Are soul mates real?             | TBD                                              |
+| Are soul mates real?             | [Mr. Brightside] -- Run River North              |
 | Should love ever be conditional? | [Carrion] -- Fiona Apple                         |
 | Do you deserve love?             | [Closer] -- Monarchy                             |
 | Have you ever been in love?      | [Your Woman] -- White Town                       |
@@ -222,3 +222,6 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Uninvited]: https://www.youtube.com/watch?v=ErSCdHJdUgU
 [The Past and Pending]: https://www.youtube.com/watch?v=7BA21a3vk_Y
 [Paint It, Black]: https://www.youtube.com/watch?v=EBUFtoC2oj4
+[Mr. Brightside]: https://www.youtube.com/watch?v=0u-7-xN9UsY
+[The Unforgiven]: https://www.youtube.com/watch?v=domjqjQ_WRI
+[Happy Face]: https://www.youtube.com/watch?v=VrQju5rBPMg
