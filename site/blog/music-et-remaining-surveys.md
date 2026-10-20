@@ -25,6 +25,7 @@ along with songs I think befit:
 
 | Survey                                | Song                               |
 | ------------------------------------- | ---------------------------------- |
+| Did you ever have an abusive partner? | [Pushit] -- Tool                   |
 | Is the male loneliness epidemic real? | [Black] -- Aaron Lewis             |
 | Do you hope to have kids?             | [H.] -- Tool                       |
 | How's your self-esteem?               | [Chop Suey!] -- System of a Down   |
