@@ -23,9 +23,10 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-* Is the male loneliness epidemic real? ([Black] -- Aaron Lewis covering Pearl Jam)
+* Is the male loneliness epidemic real? ([Black] -- Aaron Lewis)
 * Do you hope to have kids? ([H.] -- Tool)
-* Are your parents proud of you? ([Hurt] by Johnny Cash covering NIN)
+* How's your self-esteem? ([Achilles Come Down] -- Gang of Youths)
+* Are your parents proud of you? ([Hurt] by Johnny Cash)
 * Who is more at fault, Adam or Eve? ([Love and War] -- Fleurie)
 * Do you believe in the supernatural? ([Chop Suey!] -- System of a Down)
 * Do you do any drugs? ([Third Eye] -- Tool)
@@ -65,7 +66,6 @@ There are still more songs that I need to understand,
 and some that I just feel absolutely compelled to share,
 often simultaneously for their meaning and their beauty.
 
-* [Achilles Come Down] by Gang of Youths
 * [Blow Up the Outside World] by Soundgarden
 * [Vermillion, pt. 2] by Skipknot
 * [Black Dog Sin] by Joshua Burnside
