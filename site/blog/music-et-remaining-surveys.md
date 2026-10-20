@@ -23,22 +23,16 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-* ***Is the male loneliness epidemic real?***<br>
-  [Black] -- Aaron Lewis
-* ***Do you hope to have kids?***<br>
-  [H.] -- Tool
-* ***How's your self-esteem?***<br>
-  [Achilles Come Down] -- Gang of Youths
-* ***Are your parents proud of you?***<br>
-  [Hurt] -- Johnny Cash
-* ***Who is more at fault, Adam or Eve?***<br>
-  [Love and War] -- Fleurie
-* ***Do you believe in the supernatural?***<br>
-  [Swamp Song] -- Sulek
-* ***Do you do any occult things?***<br>
-  [Chop Suey!] -- System of a Down
-* ***Do you do any drugs?***<br>
-  [Third Eye] -- Tool
+| Song                                  | Survey                                 |
+| ------------------------------------- | -------------------------------------- |
+| Is the male loneliness epidemic real? | [Black] -- Aaron Lewis                 |
+| Do you hope to have kids?             | [H.] -- Tool                           |
+| How's your self-esteem?               | [Achilles Come Down] -- Gang of Youths |
+| Are your parents proud of you?        | [Hurt] -- Johnny Cash                  |
+| Who is more at fault, Adam or Eve?    | [Love and War] -- Fleurie              |
+| Do you believe in the supernatural?   | [Swamp Song] -- Sulek                  |
+| Do you do any occult things?          | [Chop Suey!] -- System of a Down       |
+| Do you do any drugs?                  | [Third Eye] -- Tool                    |
 
 (Passive by A Perfect Circle would have been *perfect*
 for "Are your parents proud of you?"
@@ -103,16 +97,52 @@ their refrains feel painfully soft and feminine.
 * [Double Sky (Reprise)] -- Meredi
 * [Somewhere Only We Know] -- rhianne
 
-(I remember singing this version of
-*Somewhere Only We Know*
-to help my daughters get to sleep.)
+Previous surveys with Songs of the Day:
+
+| Survey                                    | Song                                         |
+| ----------------------------------------- | -------------------------------------------- |
+| Love & Lost vs Never Loved?               | [Last Kiss] -- Pearl Jam                     |
+| Shane Gillis Monologue?                   | [You know you're right] -- Nirvana           |
+| Are you autistic?                         | [Passive] -- A Perfect Circle                |
+| Is feminism good or bad?                  | [Passive] -- A Perfect Circle                |
+| Can romantic love be celibate forever?    | [Sweet Dreams] -- Marilyn Manson             |
+| Is Lindsay Clancy innocent?               | [Pushit] -- Tool, [My Name is Mud] -- Primus |
+| Who's better, men or women?               | [Creep] -- Radiohead                         |
+| How do you feel about God?                | [Judith] -- A Perfect Circle                 |
+| Is Toxic Attractive?                      | [Serial Killer] -- JUDGE & Moncrieff         |
+| Where did you meet your romantic partner? | [Book of Love] -- Peter Gabriel              |
+| Do you like you?                          | [The Nurse Who Loved Me] -- A Perfect Circle |
+| Do you feel hopeless?                     | [Shia LaBeouf Live] -- Rob Cantor            |
+| Is romance dead?                          | [Stinkfist] -- Tool                          |
+| Are you in despair?                       | [Shepherd (Piano Version)] -- Joep Beving    |
+
+Previous surveys which did not have a Song of the Day,
+but to which I am assigning one retrospectively.
+
+| Survey                           | Song |
+| -------------------------------- | ---- |
+| Do you support LGBTQ+?           | TBD  |
+| Do you feel fulfilled?           | TBD  |
+| Do you feel worthy of love?      | TBD  |
+| Do you feel loved?               | TBD  |
+| Can women ask men out?           | TBD  |
+| Do you feel worthy of respect?   | TBD  |
+| Does the world need you?         | TBD  |
+| How alone do you feel?           | TBD  |
+| Are you ever anxious?            | TBD  |
+| Are soul mates real?             | TBD  |
+| Should love ever be conditional? | TBD  |
+| Do you deserve love?             | TBD  |
+| Have you ever been in love?      | TBD  |
 
 It's entirely possible that,
 by revealing this list of songs,
 I'm giving away secrets of my heart,
-perhaps too many.
+perhaps too many, perhaps even
+some that I myself am unaware of.
 But it's a risk I'm willing to take,
-in order to share beauty that moves me.
+in order to share beauty that moves me,
+and hopefully can move others.
 
 <!-- There are also live musical performances
 that are so raw, emotional, and powerful,
@@ -168,3 +198,20 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Shepherd]: https://www.youtube.com/watch?v=PZk8L9lNDkE
 [Double Sky (Reprise)]: https://www.youtube.com/watch?v=4pjdxjtwqjg
 [Somewhere Only We Know]: https://www.youtube.com/watch?v=3oxjuUFj13w
+
+[Last Kiss]: https://www.youtube.com/watch?v=tNDWJ_KDkAc
+[You know you're right]: https://www.youtube.com/watch?v=qv96yJYhk3M
+[Passive]: https://www.youtube.com/watch?v=oMe4kVNKvNk
+[Sweet Dreams]: https://www.youtube.com/watch?v=YxAiZolzGbM
+[Pushit]: https://www.youtube.com/watch?v=GGm72iNBF8E
+[Creep]: https://www.youtube.com/watch?v=XFkzRNyygfk
+[Judith]: https://www.youtube.com/watch?v=xTgKRCXybSM
+[Serial Killer]: https://www.youtube.com/watch?v=F0kuxeMEIcg
+[Book of Love]: https://www.youtube.com/watch?v=SZQIfEN_p2A
+[The Nurse Who Loved Me]: https://www.youtube.com/watch?v=5AnpnL0Q11g
+[Stinkfist]: https://www.youtube.com/watch?v=M1tIH55Bo8k
+[Shepherd (Piano Version)]: https://www.youtube.com/watch?v=bTVYNs9sfgw
+
+The music video for Judith
+was directed by David Fincher
+who also directed Fight Club.
