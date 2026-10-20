@@ -123,21 +123,21 @@ who also directed Fight Club.)
 Previous surveys which did not have a Song of the Day,
 but to which I am assigning one retrospectively.
 
-| Survey                           | Song                                     |
-| -------------------------------- | ---------------------------------------- |
-| Do you support LGBTQ+?           | [I Kissed A Girl] -- William Fitzsimmons |
-| Do you feel fulfilled?           | TBD                                      |
-| Do you feel worthy of love?      | TBD                                      |
-| Do you feel loved?               | TBD                                      |
-| Can women ask men out?           | TBD                                      |
-| Do you feel worthy of respect?   | TBD                                      |
-| Does the world need you?         | TBD                                      |
-| How alone do you feel?           | TBD                                      |
-| Are you ever anxious?            | TBD                                      |
-| Are soul mates real?             | TBD                                      |
-| Should love ever be conditional? | TBD                                      |
-| Do you deserve love?             | TBD                                      |
-| Have you ever been in love?      | TBD                                      |
+| Survey                           | Song                                             |
+| -------------------------------- | ------------------------------------------------ |
+| Do you support LGBTQ+?           | [I Kissed A Girl] -- William Fitzsimmons         |
+| Do you feel fulfilled?           | TBD                                              |
+| Do you feel worthy of love?      | TBD                                              |
+| Do you feel loved?               | TBD                                              |
+| Can women ask men out?           | [Everyday Normal Guy 2] -- Jon Lajoie            |
+| Do you feel worthy of respect?   | TBD                                              |
+| Does the world need you?         | TBD                                              |
+| How alone do you feel?           | [We're Going to Be Friends] -- The White Stripes |
+| Are you ever anxious?            | TBD                                              |
+| Are soul mates real?             | TBD                                              |
+| Should love ever be conditional? | TBD                                              |
+| Do you deserve love?             | TBD                                              |
+| Have you ever been in love?      | TBD                                              |
 
 It's entirely possible that,
 by revealing this list of songs,
@@ -218,3 +218,5 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Shepherd (Piano Version)]: https://www.youtube.com/watch?v=bTVYNs9sfgw
 
 [I Kissed A Girl]: https://www.youtube.com/watch?v=eYOCJn5xvTE
+[Everyday Normal Guy 2]: https://www.youtube.com/watch?v=GmG4X9PGOXs
+[We're Going to Be Friends]: https://www.youtube.com/watch?v=PKfD8d3XJok
