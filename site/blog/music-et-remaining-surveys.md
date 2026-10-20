@@ -6,8 +6,8 @@ list: Surveys
 ---
 
 Blick doubled their poster board prices,
-and started printing logos all over the back,
-effectively quadrupling their price.
+and began drawing their ads on the back,
+effectively quartering their worth.
 
 I also gave out my phone number in a previous article
 as a social experiment, just to see what would happen.
@@ -103,9 +103,9 @@ their refrains feel painfully soft and feminine.
 * [Double Sky (Reprise)] -- Meredi
 * [Somewhere Only We Know] -- rhianne
 
-(I remember playing this version of
+(I remember singing this version of
 *Somewhere Only We Know*
-to sing my daughters to sleep.)
+to help my daughters get to sleep.)
 
 It's entirely possible that,
 by revealing this list of songs,
