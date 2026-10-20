@@ -23,16 +23,16 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-| Survey                                | Song                             |
-| ------------------------------------- | -------------------------------- |
-| Is the male loneliness epidemic real? | [Black] -- Aaron Lewis           |
-| Do you hope to have kids?             | [H.] -- Tool                     |
-| How's your self-esteem?               | TBD                              |
-| Are your parents proud of you?        | [Hurt] -- Johnny Cash            |
-| Who is more at fault, Adam or Eve?    | [Love and War] -- Fleurie        |
-| Do you believe in the supernatural?   | [Swamp Song] -- Sulek            |
-| Do you do any occult things?          | [Chop Suey!] -- System of a Down |
-| Do you do any drugs?                  | [Third Eye] -- Tool              |
+| Survey                                | Song                               |
+| ------------------------------------- | ---------------------------------- |
+| Is the male loneliness epidemic real? | [Black] -- Aaron Lewis             |
+| Do you hope to have kids?             | [H.] -- Tool                       |
+| How's your self-esteem?               | [Chop Suey!] -- System of a Down   |
+| Are your parents proud of you?        | [Hurt] -- Johnny Cash              |
+| Who is more at fault, Adam or Eve?    | [Love and War] -- Fleurie          |
+| Do you believe in the supernatural?   | [Swamp Song] -- Sulek              |
+| Do you do any occult things?          | [Third Eye] -- Tool                |
+| Do you do any drugs?                  | [Black Dog Sin] -- Joshua Burnside |
 
 (Passive by A Perfect Circle would have been *perfect*
 for "Are your parents proud of you?"
@@ -69,13 +69,11 @@ There are still more songs that I need to understand,
 and some that I just feel absolutely compelled to share,
 often simultaneously for their meaning and their beauty.
 
-* [Black Dog Sin] -- Joshua Burnside
 * [Jolene] -- The White Stripes
 * [We Never Change] -- Coldplay
 * [Vermillion, pt. 2] -- Skipknot
 * [Around the Bay] -- Department of Eagles
 * [Counting Bodies Like Sheep] -- A Perfect Circle
-* [Shia LaBeouf Live] -- Rob Cantor
 * [Blow Up the Outside World] -- Soundgarden
 * [Disarm] -- Smashing Pumpkins
 * [The Past and Pending] -- The Shins
