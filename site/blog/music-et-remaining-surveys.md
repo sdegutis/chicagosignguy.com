@@ -75,14 +75,14 @@ There are still more songs that I need to understand,
 and some that I just feel absolutely compelled to share,
 often simultaneously for their meaning and their beauty.
 
-* [Blow Up the Outside World] -- Soundgarden
-* [Vermillion, pt. 2] -- Skipknot
 * [Black Dog Sin] -- Joshua Burnside
-* [Around the Bay] -- Department of Eagles
-* [Counting Bodies Like Sheep] -- A Perfect Circle
 * [Jolene] -- The White Stripes
 * [We Never Change] -- Coldplay
+* [Vermillion, pt. 2] -- Skipknot
+* [Around the Bay] -- Department of Eagles
+* [Counting Bodies Like Sheep] -- A Perfect Circle
 * [Shia LaBeouf Live] -- Rob Cantor
+* [Blow Up the Outside World] -- Soundgarden
 * [Disarm] -- Smashing Pumpkins
 <!-- * [Who is She?] -- I Monster -->
 <!-- * [Opium] -- Marcy Playground -->
