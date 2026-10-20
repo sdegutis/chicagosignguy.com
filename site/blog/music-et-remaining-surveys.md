@@ -3,6 +3,7 @@ title: Remaining Surveys
 image: /img/smoking.jpg
 date: 2026-10-19
 list: Thoughts
+draft: true
 ---
 
 Blick doubled their poster board prices,
