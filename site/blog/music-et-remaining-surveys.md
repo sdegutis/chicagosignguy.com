@@ -67,33 +67,33 @@ There are still more songs that I need to understand,
 and some that I just feel absolutely compelled to share,
 often simultaneously for their meaning and their beauty.
 
-* [Blow Up the Outside World] by Soundgarden
-* [Vermillion, pt. 2] by Skipknot
-* [Black Dog Sin] by Joshua Burnside
-* [Around the Bay] by Department of Eagles
-* [Counting Bodies Like Sheep To The Rhythm Of The War Drums] by A Perfect Circle
-* [Jolene] by The White Stripes
-* [We Never Change] by Coldplay
-* [Shia LaBeouf Live] by Rob Cantor
-* [Disarm] by Smashing Pumpkins
-<!-- * [Who is She?] by I Monster -->
-<!-- * [Opium] by Marcy Playground -->
-<!-- * [Your Woman] by White Town -->
-<!-- * [Carrion] by Fiona Apple -->
+* [Blow Up the Outside World] -- Soundgarden
+* [Vermillion, pt. 2] -- Skipknot
+* [Black Dog Sin] -- Joshua Burnside
+* [Around the Bay] -- Department of Eagles
+* [Counting Bodies Like Sheep] -- A Perfect Circle
+* [Jolene] -- The White Stripes
+* [We Never Change] -- Coldplay
+* [Shia LaBeouf Live] -- Rob Cantor
+* [Disarm] -- Smashing Pumpkins
+<!-- * [Who is She?] -- I Monster -->
+<!-- * [Opium] -- Marcy Playground -->
+<!-- * [Your Woman] -- White Town -->
+<!-- * [Carrion] -- Fiona Apple -->
 
 There are also several songs that have in common
 a sort of hauntingly beautiful, angelic chorus.
 Even though they all reside in disparate genres,
 their refrains feel painfully soft and feminine.
 
-* [Return of the Phantom Stranger] by Rob Zombie
-* [Blood, Milk, and Sky] by White Zombie
-* [Subwoofer Lullaby] by C418
-* [Warmth] by C418
-* [Sol and Luna] by Joep Beving
-* [Shepherd] by Joep Beving
-* [Double Sky (Reprise)] by Meredi
-* [Somewhere Only We Know] by rhianne
+* [Return of the Phantom Stranger] -- Rob Zombie
+* [Blood, Milk, and Sky] -- White Zombie
+* [Subwoofer Lullaby] -- C418
+* [Warmth] -- C418
+* [Sol and Luna] -- Joep Beving
+* [Shepherd] -- Joep Beving
+* [Double Sky (Reprise)] -- Meredi
+* [Somewhere Only We Know] -- rhianne
 
 (I remember playing this version of
 *Somewhere Only We Know*
@@ -140,7 +140,7 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Achilles Come Down]: https://www.youtube.com/watch?v=T_V76Dm42bY
 [Black Dog Sin]: https://www.youtube.com/watch?v=7eDbux9IGlw
 [Around the Bay]: https://www.youtube.com/watch?v=4PAAA8u7Isg
-[Counting Bodies Like Sheep To The Rhythm Of The War Drums]: https://www.youtube.com/watch?v=giaZnIr-faM
+[Counting Bodies Like Sheep]: https://www.youtube.com/watch?v=giaZnIr-faM
 [Jolene]: https://www.youtube.com/watch?v=yXlULkwhgrc
 [We Never Change]: https://www.youtube.com/watch?v=uZSobH1wiiM
 [Shia LaBeouf Live]: https://www.youtube.com/watch?v=o0u4M6vppCI
