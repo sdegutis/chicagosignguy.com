@@ -35,8 +35,6 @@ along with songs I think befit:
 | Do you do any occult things?          | [Third Eye] -- Tool                |
 | Do you do any drugs?                  | [Black Dog Sin] -- Joshua Burnside |
 
-[The rest of the article was removed
-as it was deemed boring and unnecessary.]
 
 <!-- 
 (Passive by A Perfect Circle would have been *perfect*
