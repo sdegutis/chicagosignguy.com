@@ -1,5 +1,5 @@
 ---
-title: Music & Remaining Surveys
+title: Remaining Surveys
 image: /img/smoking.jpg
 date: 2026-10-19
 list: Thoughts
@@ -35,6 +35,10 @@ along with songs I think befit:
 | Do you do any occult things?          | [Third Eye] -- Tool                |
 | Do you do any drugs?                  | [Black Dog Sin] -- Joshua Burnside |
 
+[The rest of the article was removed
+as it was deemed boring and unnecessary.]
+
+<!-- 
 (Passive by A Perfect Circle would have been *perfect*
 for "Are your parents proud of you?"
 But I already used that up on a previous survey.
@@ -165,7 +169,7 @@ that they need to be viewed at least once.
 * [exit music for a film](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- Jack Flo at a talent show
 * [King of Glory, Kind of Peace](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- a choir during Mass
 
-
+ -->
 
 
 
