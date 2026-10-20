@@ -23,16 +23,16 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-| Survey                                | Song                                   |
-| ------------------------------------- | -------------------------------------- |
-| Is the male loneliness epidemic real? | [Black] -- Aaron Lewis                 |
-| Do you hope to have kids?             | [H.] -- Tool                           |
-| How's your self-esteem?               | [Achilles Come Down] -- Gang of Youths |
-| Are your parents proud of you?        | [Hurt] -- Johnny Cash                  |
-| Who is more at fault, Adam or Eve?    | [Love and War] -- Fleurie              |
-| Do you believe in the supernatural?   | [Swamp Song] -- Sulek                  |
-| Do you do any occult things?          | [Chop Suey!] -- System of a Down       |
-| Do you do any drugs?                  | [Third Eye] -- Tool                    |
+| Survey                                | Song                             |
+| ------------------------------------- | -------------------------------- |
+| Is the male loneliness epidemic real? | [Black] -- Aaron Lewis           |
+| Do you hope to have kids?             | [H.] -- Tool                     |
+| How's your self-esteem?               | TBD                              |
+| Are your parents proud of you?        | [Hurt] -- Johnny Cash            |
+| Who is more at fault, Adam or Eve?    | [Love and War] -- Fleurie        |
+| Do you believe in the supernatural?   | [Swamp Song] -- Sulek            |
+| Do you do any occult things?          | [Chop Suey!] -- System of a Down |
+| Do you do any drugs?                  | [Third Eye] -- Tool              |
 
 (Passive by A Perfect Circle would have been *perfect*
 for "Are your parents proud of you?"
@@ -131,9 +131,9 @@ but to which I am assigning one retrospectively.
 | Do you feel loved?               | TBD                                              |
 | Can women ask men out?           | [Everyday Normal Guy 2] -- Jon Lajoie            |
 | Do you feel worthy of respect?   | TBD                                              |
-| Does the world need you?         | TBD                                              |
+| Does the world need you?         | [Achilles Come Down] -- Gang of Youths           |
 | How alone do you feel?           | [We're Going to Be Friends] -- The White Stripes |
-| Are you ever anxious?            | TBD                                              |
+| Are you ever anxious?            | [Mad World] -- Gary Jules                        |
 | Are soul mates real?             | TBD                                              |
 | Should love ever be conditional? | TBD                                              |
 | Do you deserve love?             | TBD                                              |
@@ -220,3 +220,4 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [I Kissed A Girl]: https://www.youtube.com/watch?v=eYOCJn5xvTE
 [Everyday Normal Guy 2]: https://www.youtube.com/watch?v=GmG4X9PGOXs
 [We're Going to Be Friends]: https://www.youtube.com/watch?v=PKfD8d3XJok
+[Mad World]: https://www.youtube.com/watch?v=etSbOs3aUqI
