@@ -69,7 +69,6 @@ There are still more songs that I need to understand,
 and some that I just feel absolutely compelled to share,
 often simultaneously for their meaning and their beauty.
 
-* [Jolene] -- The White Stripes
 * [We Never Change] -- Coldplay
 * [Vermillion, pt. 2] -- Skipknot
 * [Around the Bay] -- Department of Eagles
@@ -152,23 +151,22 @@ But it's a risk I'm willing to take,
 in order to share beauty that moves me,
 and hopefully can move others.
 
-<!-- There are also live musical performances
+There are also live musical performances
 that are so raw, emotional, and powerful,
 that they need to be viewed at least once.
 
-* [Creep (video)] by Radiohead on Late Night with Conan O'Brien in 1993
-* [Iris in the rain]
-* [French girl sings piano rain]
-* [Glycerine (video)] by Bush at Woodstock 99
-* [Hozier] subway
-* king of glory = https://www.youtube.com/watch?v=ze5fxkUcpbc&t=1959s
+* [Jolene] -- The White Stripes
+* [Creep](https://www.youtube.com/watch?v=J_sH-GrUeUw) -- Radiohead on Late Night with Conan O'Brien in 1993
+* [Iris in the rain](https://www.youtube.com/watch?v=_HZM0QiuUS8) -- Goo Goo Dolls
+* [a french girl singing je te laisserai des mots while it's raining :')](https://www.youtube.com/watch?v=QwoF1-1QgwA)
+* [Glycerine](https://www.youtube.com/watch?v=uHlN1Hy1bR4) -- Bush at Woodstock 99
+* [Take Me To Church](https://www.youtube.com/watch?v=1nnRC6jDOCI) -- Hozier in a subway
+* [King of Glory, Kind of Peace](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- a choir during Mass
+* [exit music for a film](https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s) -- Jack Flo at a talent show
 
-https://www.youtube.com/watch?v=_HZM0QiuUS8
-https://www.youtube.com/watch?v=uHlN1Hy1bR4
-https://www.youtube.com/watch?v=J_sH-GrUeUw
-https://www.youtube.com/watch?v=QwoF1-1QgwA
-https://www.youtube.com/watch?v=1nnRC6jDOCI
-https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
+
+
+
 
 
 
