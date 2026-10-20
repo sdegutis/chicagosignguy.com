@@ -116,24 +116,28 @@ Previous surveys with Songs of the Day:
 | Is romance dead?                          | [Stinkfist] -- Tool                          |
 | Are you in despair?                       | [Shepherd (Piano Version)] -- Joep Beving    |
 
+(The music video for Judith
+was directed by David Fincher
+who also directed Fight Club.)
+
 Previous surveys which did not have a Song of the Day,
 but to which I am assigning one retrospectively.
 
-| Survey                           | Song |
-| -------------------------------- | ---- |
-| Do you support LGBTQ+?           | TBD  |
-| Do you feel fulfilled?           | TBD  |
-| Do you feel worthy of love?      | TBD  |
-| Do you feel loved?               | TBD  |
-| Can women ask men out?           | TBD  |
-| Do you feel worthy of respect?   | TBD  |
-| Does the world need you?         | TBD  |
-| How alone do you feel?           | TBD  |
-| Are you ever anxious?            | TBD  |
-| Are soul mates real?             | TBD  |
-| Should love ever be conditional? | TBD  |
-| Do you deserve love?             | TBD  |
-| Have you ever been in love?      | TBD  |
+| Survey                           | Song                                     |
+| -------------------------------- | ---------------------------------------- |
+| Do you support LGBTQ+?           | [I Kissed A Girl] -- William Fitzsimmons |
+| Do you feel fulfilled?           | TBD                                      |
+| Do you feel worthy of love?      | TBD                                      |
+| Do you feel loved?               | TBD                                      |
+| Can women ask men out?           | TBD                                      |
+| Do you feel worthy of respect?   | TBD                                      |
+| Does the world need you?         | TBD                                      |
+| How alone do you feel?           | TBD                                      |
+| Are you ever anxious?            | TBD                                      |
+| Are soul mates real?             | TBD                                      |
+| Should love ever be conditional? | TBD                                      |
+| Do you deserve love?             | TBD                                      |
+| Have you ever been in love?      | TBD                                      |
 
 It's entirely possible that,
 by revealing this list of songs,
@@ -213,6 +217,4 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Stinkfist]: https://www.youtube.com/watch?v=M1tIH55Bo8k
 [Shepherd (Piano Version)]: https://www.youtube.com/watch?v=bTVYNs9sfgw
 
-The music video for Judith
-was directed by David Fincher
-who also directed Fight Club.
+[I Kissed A Girl]: https://www.youtube.com/watch?v=eYOCJn5xvTE
