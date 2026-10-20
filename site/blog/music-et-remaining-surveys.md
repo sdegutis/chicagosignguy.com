@@ -78,10 +78,7 @@ often simultaneously for their meaning and their beauty.
 * [Shia LaBeouf Live] -- Rob Cantor
 * [Blow Up the Outside World] -- Soundgarden
 * [Disarm] -- Smashing Pumpkins
-<!-- * [Who is She?] -- I Monster -->
-<!-- * [Opium] -- Marcy Playground -->
-<!-- * [Your Woman] -- White Town -->
-<!-- * [Carrion] -- Fiona Apple -->
+* [The Past and Pending] -- The Shins
 
 There are also several songs that have in common
 a sort of hauntingly beautiful, angelic chorus.
@@ -127,17 +124,17 @@ but to which I am assigning one retrospectively.
 | -------------------------------- | ------------------------------------------------ |
 | Do you support LGBTQ+?           | [I Kissed A Girl] -- William Fitzsimmons         |
 | Do you feel fulfilled?           | TBD                                              |
-| Do you feel worthy of love?      | TBD                                              |
-| Do you feel loved?               | TBD                                              |
+| Do you feel worthy of love?      | [Uninvited] -- Alanis Morissette                 |
+| Do you feel loved?               | [Opium] -- Marcy Playground                      |
 | Can women ask men out?           | [Everyday Normal Guy 2] -- Jon Lajoie            |
 | Do you feel worthy of respect?   | TBD                                              |
 | Does the world need you?         | [Achilles Come Down] -- Gang of Youths           |
 | How alone do you feel?           | [We're Going to Be Friends] -- The White Stripes |
 | Are you ever anxious?            | [Mad World] -- Gary Jules                        |
 | Are soul mates real?             | TBD                                              |
-| Should love ever be conditional? | TBD                                              |
-| Do you deserve love?             | TBD                                              |
-| Have you ever been in love?      | TBD                                              |
+| Should love ever be conditional? | [Carrion] -- Fiona Apple                         |
+| Do you deserve love?             | [Closer] -- Monarchy                             |
+| Have you ever been in love?      | [Your Woman] -- White Town                       |
 
 It's entirely possible that,
 by revealing this list of songs,
@@ -221,3 +218,7 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Everyday Normal Guy 2]: https://www.youtube.com/watch?v=GmG4X9PGOXs
 [We're Going to Be Friends]: https://www.youtube.com/watch?v=PKfD8d3XJok
 [Mad World]: https://www.youtube.com/watch?v=etSbOs3aUqI
+[Closer]: https://www.youtube.com/watch?v=FF7SDOYRGNA
+[Uninvited]: https://www.youtube.com/watch?v=ErSCdHJdUgU
+[The Past and Pending]: https://www.youtube.com/watch?v=7BA21a3vk_Y
+[Paint It, Black]: https://www.youtube.com/watch?v=EBUFtoC2oj4
