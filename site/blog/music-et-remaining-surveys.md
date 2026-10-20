@@ -23,14 +23,22 @@ there are a few more topics
 that I need to cover,
 along with songs I think befit:
 
-* Is the male loneliness epidemic real? ([Black] -- Aaron Lewis)
-* Do you hope to have kids? ([H.] -- Tool)
-* How's your self-esteem? ([Achilles Come Down] -- Gang of Youths)
-* Are your parents proud of you? ([Hurt] by Johnny Cash)
-* Who is more at fault, Adam or Eve? ([Love and War] -- Fleurie)
-* Do you believe in the supernatural? ([Swamp Song] -- Sulek)
-* Do you do any occult things? ([Chop Suey!] -- System of a Down)
-* Do you do any drugs? ([Third Eye] -- Tool)
+* Is the male loneliness epidemic real?<br>
+  [Black] -- Aaron Lewis
+* Do you hope to have kids?<br>
+  [H.] -- Tool
+* How's your self-esteem?<br>
+  [Achilles Come Down] -- Gang of Youths
+* Are your parents proud of you?<br>
+  [Hurt] by Johnny Cash
+* Who is more at fault, Adam or Eve?<br>
+  [Love and War] -- Fleurie
+* Do you believe in the supernatural?<br>
+  [Swamp Song] -- Sulek
+* Do you do any occult things?<br>
+  [Chop Suey!] -- System of a Down
+* Do you do any drugs?<br>
+  [Third Eye] -- Tool
 
 (Passive by A Perfect Circle would have been *perfect*
 for "Are your parents proud of you?"
