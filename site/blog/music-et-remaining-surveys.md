@@ -93,6 +93,7 @@ their refrains feel painfully soft and feminine.
 * [Shepherd] -- Joep Beving
 * [Double Sky (Reprise)] -- Meredi
 * [Somewhere Only We Know] -- rhianne
+* [Close To You] -- Mirrormask soundtrack
 
 Previous surveys with Songs of the Day:
 
@@ -135,6 +136,13 @@ but to which I am assigning one retrospectively.
 | Should love ever be conditional? | [Carrion] -- Fiona Apple                         |
 | Do you deserve love?             | [Closer] -- Monarchy                             |
 | Have you ever been in love?      | [Your Woman] -- White Town                       |
+
+And then there are classics which were quite popular,
+but which a surprising number of people haven't heard:
+
+* [Paint It, Black] -- The Rolling Stones
+* [Pumped Up Kicks] -- Foster the People
+* [People Are Strange] -- The Doors
 
 It's entirely possible that,
 by revealing this list of songs,
@@ -225,3 +233,6 @@ https://www.youtube.com/watch?v=nfuYmE1CxP4&t=44s -->
 [Mr. Brightside]: https://www.youtube.com/watch?v=0u-7-xN9UsY
 [The Unforgiven]: https://www.youtube.com/watch?v=domjqjQ_WRI
 [Happy Face]: https://www.youtube.com/watch?v=VrQju5rBPMg
+[Pumped Up Kicks]: https://www.youtube.com/watch?v=SDTZ7iX4vTQ
+[People Are Strange]: https://www.youtube.com/watch?v=AgHaGrZkkv4
+[Close To You]: https://www.youtube.com/watch?v=re-6eOhrejE
