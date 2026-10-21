@@ -3,6 +3,7 @@ title: The Theology of Boobs
 image: /img/adameve.jpg
 date: 2026-10-16
 list: Thoughts
+draft: true
 ---
 
 *(Image credit: Adam et Eve, by Lothar von Seebach, c. 1910)*
