@@ -6,6 +6,7 @@ import footnote from 'markdown-it-footnote'
 
 const isDev = process.argv[2] == 'dev'
 
+
 interface Blog {
   path: string
   title: string
