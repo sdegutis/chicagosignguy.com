@@ -3,7 +3,7 @@ title: The Theology of Boobs
 image: /img/adameve.jpg
 date: 2026-10-16
 list: Thoughts
-draft: true
+draft: false
 ---
 
 *(Image credit: Adam et Eve, by Lothar von Seebach, c. 1910)*
@@ -81,6 +81,7 @@ Another point makes connections between men's and women's breasts,
 again for the sake of discovering through inference ideal gender roles,
 drawing out philosophical principles from literal and physical facts.
 
+There are a few more points besides these two.
 Obviously I can't go into more detail here,
 as then I'd just be repeating what's in my book.
 
