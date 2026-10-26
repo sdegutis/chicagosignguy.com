@@ -61,6 +61,12 @@ I will pick up the pen, write until my fingers bleed,
 and remove every shadow of a doubt, from every mind on earth,
 that these ideologies can produce anything but rotten fruit.
 
+But you can't fight fire with more fire.
+You catch more bees with honey than vinegar.
+So my book will not be a villainous rant.
+Rather, I will describe the beauty I see in life,
+the poetic, mystical way I view reality.
+
 This is my only life's purpose now.
 I am no longer hoping to make friends.
 I am no longer hoping to fall in love.
@@ -68,3 +74,4 @@ I am no longer hoping to become normal.
 
 I am Frankenstein's monster.
 And I will have my revenge.
+And it will be beautiful.
