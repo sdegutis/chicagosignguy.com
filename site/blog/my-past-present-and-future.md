@@ -14,7 +14,7 @@ I've lost my wife and children.
 I've lost almost all appetite for this life.
 
 The boring backstory nobody wants to read,
-is that I was raised as a secular liberal,
+is that I was raised without creed or common sense,
 a friendless, socially inept computer nerd.
 
 I don't remember most of my life.
