@@ -277,6 +277,13 @@ function BlogPage(blog: Blog, blogs: Blogs) {
       {blog.html}
     </article>
 
+    <h2>Feedback</h2>
+
+    <section>
+      <p>Comments have been disabled.</p>
+      <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> instead.</p>
+    </section>
+
     <p><a href='#main-article' class='back-to-top'>Back to top</a></p>
 
     <MailingList />
