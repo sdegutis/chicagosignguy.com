@@ -133,11 +133,10 @@ function HomePage(blogs: Blogs) {
   return <Html title="Chicago Sign Guy">
 
     <article>
-      <p>Hi. I'm <a href="/about.html">Steven</a>.
-        I write <a href="/articles.html">articles</a> about the public surveys I do in Chicago about love.
-        I'm also writing a <a href="/book.html">book</a> about it.</p>
-
-      {/* <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p> */}
+      <p>Hi. I'm <a href="/about.html">Steven</a>.</p>
+      <p>I do <a href="/articles.html">public surveys</a> in Chicago.</p>
+      <p>I'm also writing a <a href="/book.html">book</a> about it.</p>
+      <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p>
 
       <MailingList />
 
