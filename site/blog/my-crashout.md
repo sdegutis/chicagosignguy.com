@@ -67,7 +67,7 @@ So my book will not be a villainous rant.
 Rather, I will describe the beauty I see in life,
 the poetic, mystical way I view reality.
 
-This is my only life's purpose now.
+This is my only purpose and goal in life now.
 I am no longer hoping to make friends.
 I am no longer hoping to fall in love.
 I am no longer hoping to become normal.
