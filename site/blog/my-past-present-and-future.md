@@ -3,7 +3,7 @@ title: My past, present, and future
 image: /img/smoking.jpg
 date: 2026-10-13
 list: Thoughts
-draft: true
+draft: false
 ---
 
 ## My Past

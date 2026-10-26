@@ -6,6 +6,7 @@ import footnote from 'markdown-it-footnote'
 
 const isDev = process.argv[2] == 'dev'
 
+
 interface Blog {
   path: string
   title: string
@@ -121,7 +122,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
           {attrs.children}
         </main>
 
-        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved.</footer>
+        <footer>&copy; 2025-<script>{`document.write(new Date().getFullYear())`}</script> ChicagoSignGuy.com, All Rights Reserved. <a href="mailto:steven@chicagosignguy.com">Email me</a></footer>
 
       </body>
     </html>
