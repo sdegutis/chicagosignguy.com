@@ -62,6 +62,10 @@ header, footer {
   font-optical-sizing: auto;
 }
 
+hr {
+  border: 1px dashed currentColor;
+}
+
 nav ul {
   padding: 0;
   margin: 0;
