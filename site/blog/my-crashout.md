@@ -3,7 +3,7 @@ title: My crashout
 image: /img/me.jpg
 date: 2026-10-26
 list: Thoughts
-draft: true
+# draft: true
 ---
 
 Yesterday, I briefly mentioned that I had crashed out,
@@ -23,7 +23,7 @@ But something in me is incompatible with it.
 A few years ago, I still had some hope left in me.
 So I decided to brute force my way out of this hell.
 I began to try again to form real friendships,
-to learn how to be normal, and to fall in love.
+to learn how to be normal, and to fall in love[^1].
 
 Now I have nobody in my life anymore.
 And every opportunity to change that,
@@ -76,3 +76,10 @@ I am no longer hoping to become normal.
 I am Frankenstein's monster.
 And I will have my revenge.
 And it will be beautiful.
+
+[^1]: I was married for a few years.
+I found out after she divorced me
+that she was cheating on me the whole time
+with my step-brother.
+Over time, I began to remember
+all the red flags I was ignoring.

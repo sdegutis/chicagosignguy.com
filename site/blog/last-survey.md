@@ -38,7 +38,7 @@ I've been thinking about it constantly for years.
 Part of me wonders if I'm cursed to isolation.
 
 But I also realized I've been trying to *deserve* love.
-Yet when I see couples, or friend hanging out,
+Yet when I see couples, or a group of friends hanging out,
 it's clear that they're there because they *want* to be.
 
 While I'm writing this, I'm listening
