@@ -3,6 +3,7 @@ title: Last Survey
 image: /img/howalonedoyoufeel.jpg
 date: 2026-10-31
 list: Thoughts
+draft: true
 ---
 
 I started doing these surveys a year ago.
