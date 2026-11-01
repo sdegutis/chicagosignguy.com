@@ -3,7 +3,7 @@ title: My crashout
 image: /img/me.jpg
 date: 2026-10-26
 list: Thoughts
-draft: true
+# draft: true
 ---
 
 Yesterday, I briefly mentioned that I had crashed out,
