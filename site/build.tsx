@@ -144,13 +144,6 @@ function HomePage(blogs: Blogs) {
       <img src='/img/cover3.png' alt="Cover 3" />
       <img src='/img/cover4.png' alt="Cover 4" />
 
-      {/* <figure>
-        <img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" />
-        <figcaption>
-          Someone's drawing of a polaroid someone else took of me.
-        </figcaption>
-      </figure> */}
-
     </article>
 
   </Html>
@@ -344,6 +337,13 @@ function AboutPage() {
       <p>
         So by late 2026, I plan to publish a <a href="/book.html">book</a> on all this.
       </p>
+
+      <figure>
+        <img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" />
+        <figcaption>
+          Someone's drawing of a polaroid someone else took of me.
+        </figcaption>
+      </figure>
 
       {/* <p>
         I also made a <a href="/playlist.html">Spotify playlist</a> of my favorite songs ever.
