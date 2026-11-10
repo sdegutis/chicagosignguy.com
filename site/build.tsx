@@ -112,7 +112,7 @@ function Html(attrs: { title: string, image?: string, children: any }) {
               <li><a href="/">ChicagoSignGuy.com</a></li>
               <li><a href='/about.html'>Steven</a></li>
               <li><a href='/articles.html'>Articles</a></li>
-              <li><a href='/book.html'>Book</a></li>
+              <li><a href='/book.html'>Books</a></li>
             </ul>
           </nav>
         </header>
@@ -359,14 +359,27 @@ function BookPage() {
 
     <article>
 
-      <p>
-        I'm working on a book called "What is love?", partly based on my surveys,
-        results and discussions they've led to.
-        I plan to publish it by autumn of 2026.
-      </p>
+      <p>I'm working on a few books:</p>
 
-      <p><img src='/img/bookcover1.jpg' alt="My new book's cover" /></p>
+      <img src='/img/cover1.png' alt="Cover 1" />
+      <img src='/img/cover2.png' alt="Cover 2" />
+      <img src='/img/cover3.png' alt="Cover 3" />
+      <img src='/img/cover4.png' alt="Cover 4" />
 
+      <p>I've also published a few books:</p>
+
+      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0CPDFKGLT'>
+        <img src='/img/cover6b.jpg' alt="Cover 6b" />
+        <img src='/img/cover6a.jpg' alt="Cover 6a" />
+      </a>
+      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0DS2N3GH2'>
+        <img src='/img/cover7b.jpg' alt="Cover 7b" />
+        <img src='/img/cover7a.jpg' alt="Cover 7a" />
+      </a>
+      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0CY257G9W'>
+        <img src='/img/cover8b.jpg' alt="Cover 8b" />
+        <img src='/img/cover8a.jpg' alt="Cover 8a" />
+      </a>
     </article>
 
   </Html>

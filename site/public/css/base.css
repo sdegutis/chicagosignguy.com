@@ -230,3 +230,10 @@ form :is(textarea, input):is(:focus, :active) {
   float: right;
   margin-top: .5em;
 }
+
+.combinedcoverbook {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 45% 45%;
+  margin: 1em 0;
+}
