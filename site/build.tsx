@@ -135,17 +135,21 @@ function HomePage(blogs: Blogs) {
     <article>
       <p>Hi. I'm <a href="/about.html">Steven</a>.</p>
       <p>I do <a href="/articles.html">public surveys</a> in Chicago.</p>
-      <p>I'm also writing a <a href="/book.html">book</a> about it.</p>
-      <p>Send me an <a href="mailto:steven@ChicagoSignGuy.com?subject=hi">email</a> and say hi.</p>
+      <p>I'm also writing some books:</p>
 
       <MailingList />
 
-      <figure>
+      <img src='/img/cover1.png' alt="Cover 1" />
+      <img src='/img/cover2.png' alt="Cover 2" />
+      <img src='/img/cover3.png' alt="Cover 3" />
+      <img src='/img/cover4.png' alt="Cover 4" />
+
+      {/* <figure>
         <img src='/img/drewme.jpg' alt="Someone's drawing of a polaroid someone took of me" />
         <figcaption>
           Someone's drawing of a polaroid someone else took of me.
         </figcaption>
-      </figure>
+      </figure> */}
 
     </article>
 
