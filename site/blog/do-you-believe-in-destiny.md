@@ -12,16 +12,6 @@ list: Surveys
 | Yes    | 142 | %76 |
 | No     | 46  | %24 |
 
-I don't have the $10 for a train ticket for next week,
-or the $6 for the survey poster board from Blick.
-So unless someone [cashapp]'s or [venmo]'s me,
-this is the last survey this month.
-
-[cashapp]: https://venmo.com/ChicagoSignGuy
-[venmo]: https://cash.app/ChicagoSignGuy
-
-
-
 <!-- 
 I also spent an hour
 doing a preview of
