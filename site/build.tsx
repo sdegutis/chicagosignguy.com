@@ -365,6 +365,7 @@ function BookPage() {
       <img src='/img/cover2.png' alt="Cover 2" />
       <img src='/img/cover3.png' alt="Cover 3" />
       <img src='/img/cover4.png' alt="Cover 4" />
+      <img src='/img/cover5.png' alt="Cover 5" />
 
       <p>I've also published a few books:</p>
 
