@@ -373,9 +373,8 @@ function BookPage() {
         <img src='/img/cover6b.jpg' alt="Cover 6b" />
         <img src='/img/cover6a.jpg' alt="Cover 6a" />
       </a>
-      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0DS2N3GH2'>
-        <img src='/img/cover7b.jpg' alt="Cover 7b" />
-        <img src='/img/cover7a.jpg' alt="Cover 7a" />
+      <a style='display: inline-block; max-width: 90%' href='https://www.amazon.com/dp/B0DS2N3GH2'>
+        <img src='/img/cover7c.png' alt="Cover 7c" />
       </a>
       <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0CY257G9W'>
         <img src='/img/cover8b.jpg' alt="Cover 8b" />
