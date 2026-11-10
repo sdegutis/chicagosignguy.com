@@ -232,8 +232,8 @@ form :is(textarea, input):is(:focus, :active) {
 }
 
 .combinedcoverbook {
-  max-width: 100%;
+  max-width: 90%;
   display: grid;
-  grid-template-columns: 45% 45%;
+  grid-template-columns: 50% 50%;
   margin: 1em 0;
 }
