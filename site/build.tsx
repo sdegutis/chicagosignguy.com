@@ -380,6 +380,9 @@ function BookPage() {
         <img src='/img/cover8b.jpg' alt="Cover 8b" />
         <img src='/img/cover8a.jpg' alt="Cover 8a" />
       </a>
+
+      <p>I am now realizing I need to choose a new cover for one of my new books.</p>
+
     </article>
 
   </Html>
