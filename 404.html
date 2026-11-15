@@ -71,6 +71,15 @@
       width: 90%;
       margin: 0 auto 3em;
     }
+
+    img {
+      max-width: 100%;
+    }
+
+    .combinedcoverbook {
+      display: grid;
+      grid-template-columns: 45% 45%;
+    }
   </style>
 </head>
 
@@ -81,9 +90,32 @@
   <main>
     <article>
       <p>Hi, I'm Steven.</p>
-      <p>I'm working on some books.</p>
+      <p>I've published three books:</p>
+
+      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0CPDFKGLT'>
+        <img src='cover6b.jpg' alt="Cover 6b" />
+        <img src='cover6a.jpg' alt="Cover 6a" />
+      </a>
+      <a style='display: inline-block; max-width: 90%' href='https://www.amazon.com/dp/B0DS2N3GH2'>
+        <img src='cover7c.png' alt="Cover 7c" />
+      </a>
+      <a class='combinedcoverbook' href='https://www.amazon.com/dp/B0CY257G9W'>
+        <img src='cover8b.jpg' alt="Cover 8b" />
+        <img src='cover8a.jpg' alt="Cover 8a" />
+      </a>
+
+
+      <p>I'm working on a few more books:</p>
+
+      <img src='cover1.png' alt="Cover 1" />
+      <img src='cover2.png' alt="Cover 2" />
+      <img src='cover3.png' alt="Cover 3" />
+      <!-- <img src='cover4.png' alt="Cover 4" /> -->
+      <img src='cover5.png' alt="Cover 5" />
+
       <p>You can email me at <a href="mailto:steven@chicagosignguy.com">steven@chicagosignguy.com</a>.</p>
     </article>
+
   </main>
   <footer>© 2025-2026 ChicagoSignGuy.com, All Rights Reserved.</footer>
 </body>
