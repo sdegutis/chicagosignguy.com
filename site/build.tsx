@@ -66,6 +66,29 @@ export function processSite(tree: FileTree) {
     pipeline.add(f.path.slice('/public'.length), f.content)
   })
 
+  pipeline.add('/all.html',
+    <Html title="Chicago Sign Guy">
+      <div id='article-list' data-order={order.join(',')}>
+        {posts.map(([title, blogs]) => <>
+          <h1>{title}</h1>
+          {blogs.toReversed().map(blog => <>
+            <article>
+              <h2>{blog.title}</h2>
+              <p>
+                <img src={blog.image} />
+                <br />
+                <span id='main-article' />
+                <small style='font-style: italic'>Written on {blog.date.toLocaleDateString('en-US', { dateStyle: 'long' })}</small>
+              </p>
+
+              {blog.html}
+            </article>
+          </>)}
+        </>)}
+      </div>
+    </Html>
+  )
+
   pipeline.add('/index.html', HomePage(posts))
   pipeline.add('/about.html', AboutPage())
   pipeline.add('/commented.html', <Html title="The comment thing worked.">
@@ -135,14 +158,15 @@ function HomePage(blogs: Blogs) {
     <article>
       <p>Hi. I'm <a href="/about.html">Steven</a>.</p>
       <p>I do <a href="/articles.html">public surveys</a> in Chicago.</p>
-      <p>I'm also writing some books:</p>
+      <p>I'm also writing some <a href="/book.html">books</a>.</p>
+      <p>You can email me at <a href="mailto:steven@chicagosignguy.com">steven@chicagosignguy.com</a>.</p>
 
       <MailingList />
-
+      {/* 
       <img src='/img/cover1.png' alt="Cover 1" />
       <img src='/img/cover2.png' alt="Cover 2" />
       <img src='/img/cover3.png' alt="Cover 3" />
-      <img src='/img/cover4.png' alt="Cover 4" />
+      <img src='/img/cover4.png' alt="Cover 4" /> */}
 
     </article>
 
