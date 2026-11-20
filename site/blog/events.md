@@ -13,6 +13,9 @@ while my life and family were being actively destroyed.
 I wrote them down for the protection of me and my family,
 but they were never able to be used for that purpose.
 
+The last time I read through them all was sometime in 2022.
+I am publishing them now, as-is, with typos and all.
+
 
 <!-- It's inevitable that my story should come out.
 There is much more to my life story than what's here.
