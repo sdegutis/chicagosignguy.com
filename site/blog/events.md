@@ -8,7 +8,11 @@ list: Thoughts
 ### Introduction
 
 What follows are two months of events that I documented
-while my life was being actively destroyed.
+while my life and family were being actively destroyed.
+
+I wrote them down for the protection of me and my family,
+but they were never able to be used for that purpose.
+
 
 <!-- It's inevitable that my story should come out.
 There is much more to my life story than what's here.
