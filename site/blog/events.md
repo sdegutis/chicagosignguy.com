@@ -3,6 +3,7 @@ title: How my life was destroyed
 image: /img/me.jpg
 date: 2026-11-20
 list: Thoughts
+draft: true
 ---
 
 ### Introduction
