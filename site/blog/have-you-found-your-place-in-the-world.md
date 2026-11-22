@@ -57,6 +57,9 @@ which was to see what it's like to fall in love,
 but with radical celibacy, that is, no sexuality at all.
 I told her this after telling her the same thing backfired
 with a young redheaded woman that I met last week.
+The redhead never texted me back.
+This woman at least said no in a text message.
+I expected both, I'm not disappointed.
 
 ### My answer
 
