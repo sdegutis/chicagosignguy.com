@@ -6,6 +6,23 @@ list: Thoughts
 draft: true
 ---
 
+<!-- ### Introduction
+
+My life is fully over. I've mourned it thoroughly.
+Sometimes I still try to live, to gain what I never had.
+But I have accepted it, hopefully for the final time.
+
+For the past five years, my thoughts have been consumed
+with trying to understand why it all happened this way.
+Is it inevitable? Is there still hope? Was it preventable?
+
+Far too many questions remain elusive and inconclusive.
+But a few things I now know with assuring certainty.
+Some still help me each day. Some could have years ago. -->
+
+
+
+
 ### Introduction
 
 What follows are two months of events that I documented

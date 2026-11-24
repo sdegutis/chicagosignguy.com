@@ -1,6 +1,6 @@
 ---
 title: 99 days homeless in Chicago
-image: /img/homelessday10.jpg
+image: /img/homeless.jpg
 date: 2026-08-22
 list: Experiments
 # draft: true
