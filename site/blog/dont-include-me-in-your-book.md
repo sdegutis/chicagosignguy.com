@@ -102,137 +102,217 @@ Over the past year, I've met many people,
 and some of them I've texted with.
 I've deleted all their numbers.
 
-* Charles, a white Catholic man, who is detransitioning back to male,
-  and who is in a band and going to college for software.
-  We met in Chicago this past summer while I was living there,
-  and smoked and talked about theology for hours.
-  We then texted for months over the summer about
-  the struggles of being a young man in the city.
-  One day I texted him while in a bad mood, saying I give up on life.
-  Usually he would encourage me to keep going.
-  This time he just never texted back.
-  That was months ago.
+#### Charles
 
-* Fionn, a young woman who I met while doing my Awkward Smalltalk sign in early May.
-  We talked for an hour or two, it turned into an ad hoc date.
-  But at the end, I didn't kiss her, even though she gave me three chances.
-  It didn't occur to me until a few months later that those were invites.
-  Later that night, over text, I told her I was homeless
-  (this was during my [99 days homeless in chicago experiment] over the summer).
-  The only next time I saw her, I was wandering Chicago at night,
-  lonely and bored, audibly cursing God for making me this way.
-  I coincidentally saw her with some of her friends,
-  made it even more awkward, and left.
-  She never texted me back after that.
+Charles, a white Catholic man, who is detransitioning back to male,
+and who is in a band and going to college for software.
 
-* Prairie, a young Jewish woman that I met while selling Terrible Advice one day.
-  She was a bit flirty, and so I got her number, but told her my intentions
-  of wanting to fall in love with someone but without sexuality at all.
-  We went on a few dates around Chicago, I played piano for her for a bit,
-  and she kept texting me raunchy things, which for me became a temptation.
-  She was 19 and in college, and told me her parents were overprotective,
-  and kept a close eye on her and all her whereabouts, so that dating would be hard.
-  But she also told me not to believe everything people say.
-  She kept trying to get me to install Signal and only talk to her there.
-  A few months later, I put two and two together, and realized she had a boyfriend,
-  and that she was trying to cheat on him with me.
-  We only saw each other in person two times after the first meeting.
-  I pushed her away several times through texts, but she kept texting me back.
-  One of those times, she offered me oral sex if I came to Skokie, which I declined.
-  Some days I hate that Catholicism is true.
-  One day I pushed her away permanently, saying "genuinely, **** you, lose my number."
-  It was not because of anything she had done wrong or offensive,
-  but purely because I was so utterly lonely, and she had a reasonably busy life.
-  I was simply hurting very badly by how few texts I get from anyone, ever.
-  This was mid summer.
+We met in Chicago this past summer while I was living there,
+and smoked and talked about theology for hours.
 
-* Jacylin? I forget her name. Another young woman who I flirted with a bit,
-  then got her number, and we texted quite a few times that evening.
-  She was at a friend's rock concert managing it for her, and doodling some art,
-  and sent me what she was drawing, and I sent her some of what I drew.
-  After that day, I apparently texted her far too much,
-  and I got completely radio silence, until one day.
-  I had crashed out that day and sent all 7 or so people the same text,
-  saying that I'm tired of failing to figure out how to socialize.
-  She said I should be a man and stop whining like a little bitch.
-  She also told me I was texting too much, and to lose her number.
+We then texted for months over the summer about
+the struggles of being a young man in the city.
 
-* Bri, a young professional welder with colored hair,
-  who I met while doing one of my money making signs.
-  She seemed cool and we vibed quite well I thought.
-  I got her number and tried to schedule hanging out.
-  After a week or something, she texted back, saying that
-  she didn't text back for so long because she wasn't sure
-  how to ask whether I was romantically interested or not,
-  and telling me up front that she has a boyfriend.
-  I also wasn't sure what my intentions were at the time.
-  I still thought she was cool and said we should hang out,
-  and said her boyfriend's probably cool and he should come too.
-  We texted a lot and scheduled several times to hang out,
-  but each time they fell through, always on her end.
-  I sent her the same crashout text I sent the other woman,
-  and I never heard back from her again after that.
+One day I texted him while in a bad mood, saying I give up on life.
+Usually he would encourage me to keep going.
+This time he just never texted back.
+That was months ago.
 
-* A young man, I don't remember his name.
-  It was about midnight one day this summer,
-  and I was walking back to where I sleep
-  after selling Terrible Advice by the bars.
-  I saw him and his friend on the bridge,
-  and in a moment of hope to find friends,
-  I stopped to talk to them about the band Tool.
-  We talked about several things for ten minutes,
-  then I got his numbers,
-  and we agreed to get drinks some time.
-  A day or a few days later,
-  I texted him saying it was a mistake,
-  that I can't possibly make friends,
-  and that I don't really know how to socialize,
-  and that I would delete his number.
-  He texted me back trying to be encouraging,
-  saying that it's hard for men out there,
-  and that he's still down to hang out and get drinks.
-  I insisted that it's impossible for me.
+#### Fionn
 
-* Sam, the art store employee.
+Fionn, a young woman who I met while doing my Awkward Smalltalk sign in early May.
+We talked for an hour or two, it turned into an ad hoc date.
+But at the end, I didn't kiss her, even though she gave me three chances.
+It didn't occur to me until a few months later that those were invites.
 
-* The thrift store woman.
-  I saw her in the summer
-  before going on the train,
-  and got her number to go thrifting.
-  We texted a bit,
-  and she called me once thinking I was someone else,
-  and said I had a similar voice to her boyfriend.
-  We never went thrifting.
-  I think I sent her the same crashout text as the others.
+Later that night, over text, I told her I was homeless
+(this was during my [99 days homeless in chicago experiment] over the summer).
+She replied suggesting some resources that could help me.
 
-* Tamila? Something like that.
-  A young black Russian woman,
-  who I met at the library.
-  We texted, we hung out once,
-  we went thrifting together once.
+The only next time I saw her, I was wandering Chicago at night,
+lonely and bored, audibly cursing God for making me this way.
+I coincidentally saw her with some of her friends,
+made it even more awkward, and left.
 
-  I think I sent her the same crashout text.
-  She insisted that she had done nothing wrong,
-  and seemed to take offense at me cutting her off.
-  That was early to mid summer.
+She never texted me back after that.
 
-  I saw her again a few weeks ago,
-  and she was happy to see me again,
-  and we caught up.
-  I then offered her the fall in love experiment.
-  She awkwardly said no and awkwardly left.
-  
-  Then last weekend she awkwardly passed me by,
-  in awkward silence, and with a single awkward glance.
+#### Prairie
 
-* More coming soon, trying to remember...
+Prairie, a young Jewish woman that I met while selling Terrible Advice one day.
+She was a bit flirty, and so I got her number, but told her my intentions
+of wanting to fall in love with someone but without sexuality at all.
+We went on a few dates around Chicago, I played piano for her for a bit,
+and she kept texting me raunchy things, which for me was a temptation.
 
-* Efrend, a young Mexican Catholic man and gym bro.
-  He still has my number but hasn't texted me in a long time.
-  He doesn't really belong on this list.
-  He's a genuine guy, a good guy.
-  But he's the only person
-  who still has my number
-  and still might text me one day.
+She was 19 and in college, and told me her parents were overprotective,
+and kept a close eye on her and all her whereabouts, so that dating would be hard.
+But she also told me not to believe everything people say.
+She kept trying to get me to install Signal and only talk to her there.
+A few months later, I put two and two together, and realized she had a boyfriend,
+and that she was trying to cheat on him with me.
+
+We only saw each other in person two times after the first meeting.
+I pushed her away several times through texts, but she kept texting me back.
+One of those times, she offered me oral sex if I came to Skokie, which I declined.
+Some days I hate that Catholicism is true.
+
+One day I pushed her away permanently, saying "genuinely, **** you, lose my number."
+It was not because of anything she had done wrong or offensive,
+but purely because I was so utterly lonely, and she had a reasonably busy life.
+I was simply hurting very badly by how few texts I get from anyone, ever.
+
+This was mid summer.
+
+#### Rock concert girl
+
+Jacylin? I forget her name. Another young woman who I flirted with a bit,
+then got her number, and we texted quite a few times that evening.
+
+She was at a friend's rock concert managing it for her, and doodling some art,
+and sent me what she was drawing, and I sent her some of what I drew.
+
+After that day, I apparently texted her far too much,
+and I got completely radio silence, until one day.
+I had crashed out that day and sent all 7 or so people the same text,
+saying that I'm tired of failing to figure out how to socialize.
+
+She said I should be a man and stop whining like a little bitch.
+She also told me I was texting too much, and to lose her number.
+
+#### Bri
+
+Bri, a young professional welder with colored hair,
+who I met while doing one of my money making signs.
+She seemed cool and we vibed quite well I thought.
+I got her number and tried to schedule hanging out.
+
+After a week or something, she texted back, saying that
+she didn't text back for so long because she wasn't sure
+how to ask whether I was romantically interested or not,
+and telling me up front that she has a boyfriend.
+
+I also wasn't sure what my intentions were at the time.
+I still thought she was cool and said we should hang out,
+and said her boyfriend's probably cool and he should come too.
+
+We texted a lot and scheduled several times to hang out,
+but each time they fell through, always on her end.
+
+I sent her the same crashout text I sent the other woman,
+and I never heard back from her again after that.
+
+#### Bridge guy
+
+A young man, I don't remember his name.
+It was about midnight one day this summer,
+and I was walking back to where I sleep
+after selling Terrible Advice by the bars.
+I saw him and his friend on the bridge,
+and in a moment of hope to find friends,
+I stopped to talk to them about the band Tool.
+We talked about several things for ten minutes,
+then I got his numbers,
+and we agreed to get drinks some time.
+A day or a few days later,
+I texted him saying it was a mistake,
+that I can't possibly make friends,
+and that I don't really know how to socialize,
+and that I would delete his number.
+He texted me back trying to be encouraging,
+saying that it's hard for men out there,
+and that he's still down to hang out and get drinks.
+I insisted that it's impossible for me.
+
+#### Art store girls
+
+Trish and Sam, the Blick employees.
+
+I flirted with Trish while at Blick one day.
+She obviously declined to give me her number.
+I don't know how you can get stupider than me.
+
+I flirted with Sam one day while doing my survey,
+until she told me she works at Blick, then I stopped.
+I think she gave me her number to help with social media,
+suggesting that the surveys could be really good content.
+That fell through, and I don't remember anything we said.
+
+The next time I saw her was when I was going to sleep,
+I was still doing the homeless experiment out in Chicago.
+She stopped to say hi, and we talked, and it was awkward.
+I didn't tell her that it was a homeless experiment.
+
+Now I hate going into Blick.
+
+#### Thrift store girl
+
+I saw her in the summer
+before going on the train,
+and got her number to go thrifting.
+
+We texted a bit,
+and she called me once thinking I was someone else,
+and said I had a similar voice to her boyfriend.
+
+We never went thrifting.
+
+One day I overtly asked if she wanted to hook up,
+and by her reply she was clearly caught off guard,
+and never texted me back after that.
+
+#### Tamila
+
+Tamila? Something like that.
+A young black Russian woman,
+who I met at the library.
+We texted, we hung out once,
+we went thrifting together once.
+
+I think I sent her the same crashout text.
+She insisted that she had done nothing wrong,
+and seemed to take offense at me cutting her off.
+That was early to mid summer.
+
+I saw her again a few weeks ago,
+and she was happy to see me again,
+and we caught up.
+I then offered her the fall in love experiment.
+She awkwardly said no and awkwardly left.
+
+Then last weekend she awkwardly passed me by,
+in awkward silence, and with a single awkward glance.
+
+#### Efrend
+
+Efrend, a young Mexican Catholic man and gym bro.
+He still has my number but hasn't texted me in a long time.
+He doesn't really belong on this list.
+He's a genuine guy, a good guy.
+But he's the only person
+who still has my number
+and still might text me one day.
+
+#### The girl from the story
+
+In a sample [prologue](/blog/prologue.html) I wrote,
+which I probably won't be including in my book,
+I told a true story that happened to me about 4 years ago.
+
+What I left out is what happened afterward.
+I got her number that night before she left.
+That same night I sent her a photo of Dick Cheney,
+telling her that it was a "dick pic."
+She sent me a photo of the dinner she was making.
+I forget what else we said that night.
+
+The next day I was feeling sad that she would be moving soon.
+So I texted asking if there's any last thing she wanted to tell me,
+since we would never be able to see each other ever again.
+She texted back saying "that's weird as fuck" and "lose my number".
+It didn't occur to me until years later that people can move or travel.
+
+#### More?
+
+More coming soon, trying to remember...
 
 [99 days homeless in chicago experiment]: /blog/99-days-homeless-in-chicago.html
