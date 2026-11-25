@@ -26,21 +26,27 @@ She awkwardly declined, so I offered to delete her number.
 She again said not yet, and that she will think it all over.
 
 A few hours later, she texted me, politely saying no thanks.
-I texted her about it, and said I am now deleting her number,
-and that if she wanted to text me back, she can.
+She said that, in general, she now felt uncomfortable with me.
+We texted for a bit, and said I am now deleting her number,
+so that, if she wanted to text me back, the ball is in her court.
 
-She texted back a few times, and each time I deleted her number.
+She texted back a few times, and each time
+we talked for a little bit, and then I deleted her number.
 To be clear, not once was she ever changing her mind.
-We were simply talking about the subject itself,
-a sort of meta-discussion about socializing,
-most of which I don't remember literally at all.
+We were simply talking about socializing itself.
+Most of the conversations I don't remember at all.
+I just remember her being uncomfortable with me.
+
 The entire thing took place within a few hours.
 
-After the fourth or so time of me deleting her number,
-I never heard back. I had given her my website to check out,
-and didn't really expect a response in the first place.
+At one point, I gave her this website to check out,
+thinking maybe she would read it
+and it would put her mind at ease about me.
 
-### The survey
+After the fourth or so time of her texting me, us talking,
+and me deleting her number, I never heard back.
+
+### The train
 
 The next day, I see her on the same train I take to Chicago.
 Not wanting to make anything more awkward than it already was,
@@ -67,7 +73,11 @@ I would have immediately acquiesced.
 But the fact that she came out immediately hostile here,
 treating me like a danger or a villain with ill intent,
 is so deeply hurtful, so incredibly hurtful,
-that this entire story belongs *centrally* in my book.
+that this entire story *definitely* belongs in my book.
+
+What's most ironic is that, until she sent these texts,
+I had forgotten entirely about her,
+and she wasn't even going to a small part of my book.
 
 All day I had been feeling defeated by life.
 I kept remembering countless social faux pas
@@ -83,3 +93,74 @@ I am too broken.
 I am going to stop trying to make friends.
 I will publish my book,
 and live out my days in quiet isolation.
+
+### Other people who treat me like a leper
+
+Over the past year, I've met many people,
+and some of them I've texted with.
+I've deleted all their numbers.
+
+* Charles, a white Catholic man, who is detransitioning back to male,
+  and who is in a band and going to college for software.
+  We met in Chicago this past summer while I was living there,
+  and smoked and talked about theology for hours.
+  We then texted for months over the summer about
+  the struggles of being a young man in the city.
+  One day I texted him while in a bad mood, saying I give up on life.
+  Usually he would encourage me to keep going.
+  This time he just never texted back.
+  That was months ago.
+
+* Fionn, a young woman who I met while doing my Awkward Smalltalk sign in early May.
+  We talked for an hour or two, it turned into an ad hoc date.
+  But at the end, I didn't kiss her, even though she gave me three chances.
+  It didn't occur to me until a few months later that those were invites.
+  Later that night, over text, I told her I was homeless
+  (this was during my [99 days homeless in chicago experiment] over the summer).
+  The only next time I saw her, I was wandering Chicago at night,
+  lonely and bored, audibly cursing God for making me this way.
+  I coincidentally saw her with some of her friends,
+  made it even more awkward, and left.
+  She never texted me back after that.
+
+* Prairie, a young Jewish woman that I met while selling Terrible Advice one day.
+  She was a bit flirty, and so I got her number, but told her my intentions
+  of wanting to fall in love with someone but without sexuality at all.
+  We went on a few dates around Chicago, I played piano for her for a bit,
+  and she kept texting me raunchy things, which for me became a temptation.
+  She was 19 and in college, and told me her parents were overprotective,
+  and kept a close eye on her and all her whereabouts, so that dating would be hard.
+  But she also told me not to believe everything people say.
+  She kept trying to get me to install Signal and only talk to her there.
+  A few months later, I put two and two together, and realized she had a boyfriend,
+  and that she was trying to cheat on him with me.
+  We only saw each other in person two times after the first meeting.
+  I pushed her away several times through texts, but she kept texting me back.
+  One of those times, she offered me oral sex if I came to Skokie, which I declined.
+  Some days I hate that Catholicism is true.
+  One day I pushed her away permanently, saying "genuinely, **** you, lose my number."
+  It was not because of anything she had done wrong or offensive,
+  but purely because I was so utterly lonely, and she had a reasonably busy life.
+  I was simply hurting very badly by how few texts I get from anyone, ever.
+  This was mid summer.
+
+* Jacylin? I forget her name. Another young woman who I flirted with a bit,
+  then got her number, and we texted quite a few times that evening.
+  She was at a friend's rock concert managing it for her, and doodling some art,
+  and sent me what she was drawing, and I sent her some of what I drew.
+  After that day, I apparently texted her far too much,
+  and I got completely radio silence, until one day,
+  when she told me I was texting too much,
+  and politely to lose her number.
+
+* More coming soon, trying to remember...
+
+* Efrend, a young Mexican Catholic man and gym bro.
+  He still has my number but hasn't texted me in a long time.
+  He doesn't really belong on this list.
+  He's a genuine guy, a good guy.
+  But he's the only person
+  who still has my number
+  and still might text me one day.
+
+[99 days homeless in chicago experiment]: /blog/99-days-homeless-in-chicago.html
