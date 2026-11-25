@@ -40,9 +40,13 @@ After the fourth or so time of me deleting her number,
 I never heard back. I had given her my website to check out,
 and didn't really expect a response in the first place.
 
+### The survey
+
 The next day, I see her on the same train I take to Chicago.
 Not wanting to make anything more awkward than it already was,
 I ignore her entirely. That's the last I see or hear of her.
+
+### The texts
 
 Until today, out of nowhere,
 she texts me around lunch,
@@ -61,7 +65,7 @@ If she had just admitted any of that,
 I would have immediately acquiesced.
 
 But the fact that she came out immediately hostile here,
-treating me like a danger or villain with ill intent,
+treating me like a danger or a villain with ill intent,
 is so deeply hurtful, so incredibly hurtful,
 that this entire story belongs *centrally* in my book.
 
@@ -71,3 +75,8 @@ that I had made in the past few months,
 and many I had made throughout my whole life.
 I kept trying to figure out what was wrong with me,
 why my personality seems irreparably broken.
+
+Then for her to text like this out of nowhere,
+it was just the nail in the coffin.
+I am defeated.
+I am too broken.
