@@ -151,9 +151,48 @@ I've deleted all their numbers.
   She was at a friend's rock concert managing it for her, and doodling some art,
   and sent me what she was drawing, and I sent her some of what I drew.
   After that day, I apparently texted her far too much,
-  and I got completely radio silence, until one day,
-  when she told me I was texting too much,
-  and politely to lose her number.
+  and I got completely radio silence, until one day.
+  I had crashed out that day and sent all 7 or so people the same text,
+  saying that I'm tired of failing to figure out how to socialize.
+  She basically said I was being a little girl about it and not a man.
+  She also told me I was texting too much, and to lose her number.
+
+* Another young woman, I can't remember her name.
+  She was a young professional welder with colored hair,
+  who I met while doing one of my money making signs.
+  She seemed cool and we vibed quite well I thought.
+  I got her number and tried to schedule hanging out.
+  After a week or something, she texted back, saying that
+  she didn't text back for so long because she wasn't sure
+  how to ask whether I was romantically interested or not,
+  and telling me up front that she has a boyfriend.
+  I also wasn't sure what my intentions were at the time.
+  I still thought she was cool and said we should hang out,
+  and said her boyfriend's probably cool and he should come too.
+  We texted a lot and scheduled several times to hang out,
+  but each time they fell through, always on her end.
+  I sent her the same crashout text I sent the other woman,
+  and I never heard back from her again after that.
+
+* A young man, I don't remember his name.
+  It was about midnight one day this summer,
+  and I was walking back to where I sleep
+  after selling Terrible Advice by the bars.
+  I saw him and his friend on the bridge,
+  and in a moment of hope to find friends,
+  I stopped to talk to them about the band Tool.
+  We talked about several things for ten minutes,
+  then I got his numbers,
+  and we agreed to get drinks some time.
+  A day or a few days later,
+  I texted him saying it was a mistake,
+  that I can't possibly make friends,
+  and that I don't really know how to socialize,
+  and that I would delete his number.
+  He texted me back trying to be encouraging,
+  saying that it's hard for men out there,
+  and that he's still down to hang out and get drinks.
+  I insisted that it's impossible for me.
 
 * More coming soon, trying to remember...
 
