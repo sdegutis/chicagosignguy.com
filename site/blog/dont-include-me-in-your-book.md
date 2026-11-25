@@ -80,3 +80,6 @@ Then for her to text like this out of nowhere,
 it was just the nail in the coffin.
 I am defeated.
 I am too broken.
+I am going to stop trying to make friends.
+I will publish my book,
+and live out my days in quiet isolation.
