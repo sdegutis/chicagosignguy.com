@@ -154,11 +154,10 @@ I've deleted all their numbers.
   and I got completely radio silence, until one day.
   I had crashed out that day and sent all 7 or so people the same text,
   saying that I'm tired of failing to figure out how to socialize.
-  She basically said I was being a little girl about it and not a man.
+  She said I should be a man and stop whining like a little bitch.
   She also told me I was texting too much, and to lose her number.
 
-* Another young woman, I can't remember her name.
-  She was a young professional welder with colored hair,
+* Bri, a young professional welder with colored hair,
   who I met while doing one of my money making signs.
   She seemed cool and we vibed quite well I thought.
   I got her number and tried to schedule hanging out.
@@ -193,6 +192,38 @@ I've deleted all their numbers.
   saying that it's hard for men out there,
   and that he's still down to hang out and get drinks.
   I insisted that it's impossible for me.
+
+* Sam, the art store employee.
+
+* The thrift store woman.
+  I saw her in the summer
+  before going on the train,
+  and got her number to go thrifting.
+  We texted a bit,
+  and she called me once thinking I was someone else,
+  and said I had a similar voice to her boyfriend.
+  We never went thrifting.
+  I think I sent her the same crashout text as the others.
+
+* Tamila? Something like that.
+  A young black Russian woman,
+  who I met at the library.
+  We texted, we hung out once,
+  we went thrifting together once.
+
+  I think I sent her the same crashout text.
+  She insisted that she had done nothing wrong,
+  and seemed to take offense at me cutting her off.
+  That was early to mid summer.
+
+  I saw her again a few weeks ago,
+  and she was happy to see me again,
+  and we caught up.
+  I then offered her the fall in love experiment.
+  She awkwardly said no and awkwardly left.
+  
+  Then last weekend she awkwardly passed me by,
+  in awkward silence, and with a single awkward glance.
 
 * More coming soon, trying to remember...
 
