@@ -9,17 +9,27 @@ The following texts were sent to me today,
 regarding a brief interaction I had on Saturday
 with someone who I had forgotten about.
 
-For context, she gave me her number,
-then told me she was uneasy not knowing my intentions,
-so I told her my intentions to see if we could fall in love.
-She awkwardly said no, so I offered to delete her number.
+### The survey
+
+For context, she was a young autistic woman I met on Saturday.
+I was doing one of my surveys, and she stopped to talk to me,
+asking me many questions, seeming fairly excited.
+
+We talked for maybe 45 minutes, and seemed to think a lot alike.
+So I asked for her number, saying we should talk some more.
+It was clearly not flirtatious or romantic, to be clear.
+
+But after getting her number, I did bring that up,
+saying that ultimately I am looking for someone
+to fall in love with while remaining completely celibate.
+She awkwardly declined, so I offered to delete her number.
 She again said not yet, and that she will think it all over.
 
 A few hours later, she texted me, politely saying no thanks.
 I texted her about it, and said I am now deleting her number,
 and that if she wanted to text me back, she can.
 
-She texted back a few times, each time I deleted my number.
+She texted back a few times, and each time I deleted her number.
 To be clear, not once was she ever changing her mind.
 We were simply talking about the subject itself,
 a sort of meta-discussion about socializing,
@@ -43,10 +53,17 @@ with the following request:
 ![image 3](/img/dont3.png)
 ![image 4](/img/dont4.png)
 
-During all of this, I was playing Quake Live
-on the White Lightning Chicago freeze tag server,
-and kicking major ass despite having low ELO.
-I had to stop many times to read and reply to her.
+I know her reason already.
+I am weird and make her uncomfortable.
+My texts were probably too unorthodox.
+Ignoring her completely on the train was the wrong call.
+If she had just admitted any of that,
+I would have immediately acquiesced.
+
+But the fact that she came out immediately hostile here,
+treating me like a danger or villain with ill intent,
+is so deeply hurtful, so incredibly hurtful,
+that this entire story belongs *centrally* in my book.
 
 All day I had been feeling defeated by life.
 I kept remembering countless social faux pas
@@ -54,21 +71,3 @@ that I had made in the past few months,
 and many I had made throughout my whole life.
 I kept trying to figure out what was wrong with me,
 why my personality seems irreparably broken.
-
-After she stopped replying, I focused on Quake again.
-I was talking to the other players in there,
-some of whom I had come to think of as friends.
-And I must have said something "annoying" again,
-because some of them called me out on being annoying.
-One of the admins, YOWZA, said something along the lines of
-"just mute him like the rest of us do."
-So I renamed myself to "YOWZA is a prick"
-knowing full well he would ban me for it.
-And sure enough, he banned me for 30 days.
-
-That was the entirety of my social life.
-Taken away in a heartbeat by a mean bully.
-
-I'm going to publish my books very soon.
-And then I pray God takes me up to heaven,
-so I can finally have friends and be happy.
