@@ -60,8 +60,11 @@ she texts me around lunch,
 with the following request:
 
 ![image 1](/img/dont1.png)
+
 ![image 2](/img/dont2.png)
+
 ![image 3](/img/dont3.png)
+
 ![image 4](/img/dont4.png)
 
 I already know her reason.
@@ -207,21 +210,25 @@ A young man, I don't remember his name.
 It was about midnight one day this summer,
 and I was walking back to where I sleep
 after selling Terrible Advice by the bars.
+
 I saw him and his friend on the bridge,
 and in a moment of hope to find friends,
 I stopped to talk to them about the band Tool.
 We talked about several things for ten minutes,
-then I got his numbers,
+and I told them I'm trying to make new friends,
+and I got his number,
 and we agreed to get drinks some time.
+
 A day or a few days later,
 I texted him saying it was a mistake,
 that I can't possibly make friends,
 and that I don't really know how to socialize,
 and that I would delete his number.
-He texted me back trying to be encouraging,
+
+But he texted me back, trying to be encouraging,
 saying that it's hard for men out there,
 and that he's still down to hang out and get drinks.
-I insisted that it's impossible for me.
+I insisted that it's hopeless for me.
 
 #### Art store girls
 
