@@ -168,7 +168,7 @@ This was mid summer.
 
 #### Rock concert girl
 
-Jacylin? I forget her name. Another young woman who I flirted with a bit,
+Jacylin? I forget her name. A young black woman who I flirted with a bit,
 then got her number, and we texted quite a few times that evening.
 
 She was at a friend's rock concert managing it for her, and doodling some art,
@@ -229,6 +229,54 @@ But he texted me back, trying to be encouraging,
 saying that it's hard for men out there,
 and that he's still down to hang out and get drinks.
 I insisted that it's hopeless for me.
+
+#### Evangelist killer
+
+I forget her name, but I met her about a year ago.
+
+A young Protestant came up to me,
+and was doing his Protestant thing,
+trying to evangelize me
+and everyone who came up to me.
+
+Then these two black girls came up to me,
+and I was relatively annoyed at this guy's naivety,
+so while he was trying to evangelize them,
+I pushed him with the really hard questions
+about life, the ones he even struggles with.
+
+He kept trying to debate us,
+and you could see his eyes light up
+when he was asked a question
+that he had memorized an answer for.
+It was so annoying and sad.
+
+Anyway, one of the young black women
+was crushing him in this little "debate"
+and I had gained a lot of respect for her.
+I asked her to help light my cigar
+while her friend talked with him,
+and she used her hands as a wind shield for me.
+
+Anyway, we talked a bit, and I got her number.
+I called her the "evangelist killer"
+because of how she demolished his arguments.
+
+We texted a few times, she said she was likely autistic,
+and I don't remember much else we talked about.
+
+I tried to ask her out on a date
+but she said that I'm not her type.
+I asked if she wanted to just hang out,
+and she said she had moved for work.
+
+I eventually became very despairing again,
+and it came through in my texts.
+She stopped replying shortly after that.
+
+This was last winter,
+so I'm likely forgetting a lot of details,
+and possibly misremembering what I do remember.
 
 #### Art store girls
 
