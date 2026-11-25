@@ -107,8 +107,10 @@ I've deleted all their numbers.
 
 #### Charles
 
-Charles, a white Catholic man, who is detransitioning back to male,
-and who is in a band and going to college for software.
+Charles, who transitioned to female around 20,
+and now around 30 is transitioning back to male,
+and has recently begun to practice Catholicism.
+He's in a band, and going to college for software.
 
 We met in Chicago this past summer while I was living there,
 and smoked and talked about theology for hours.
