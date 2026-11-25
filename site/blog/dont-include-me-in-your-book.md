@@ -297,13 +297,16 @@ and still might text me one day.
 In a sample [prologue](/blog/prologue.html) I wrote,
 which I probably won't be including in my book,
 I told a true story that happened to me about 4 years ago.
-
 What I left out is what happened afterward.
-I got her number that night before she left.
-That same night I sent her a photo of Dick Cheney,
+
+First, I got her number shortly after meeting her,
+before the events of that story happened.
+
+That night, afters she left, I sent her a photo of Dick Cheney,
 telling her that it was a "dick pic."
 She sent me a photo of the dinner she was making.
-I forget what else we said that night.
+I forget what else we said that night,
+but we were still vibing over text.
 
 The next day I was feeling sad that she would be moving soon.
 So I texted asking if there's any last thing she wanted to tell me,
@@ -311,8 +314,8 @@ since we would never be able to see each other ever again.
 She texted back saying "that's weird as fuck" and "lose my number".
 It didn't occur to me until years later that people can move or travel.
 
-#### More?
+### My conclusion
 
-More coming soon, trying to remember...
+I'm hopelessly stupid.
 
 [99 days homeless in chicago experiment]: /blog/99-days-homeless-in-chicago.html
