@@ -37,14 +37,14 @@ We were simply talking about socializing itself.
 Most of the conversations I don't remember at all.
 I just remember her being uncomfortable with me.
 
-The entire thing took place within a few hours.
-
 At one point, I gave her this website to check out,
 thinking maybe she would read it
 and it would put her mind at ease about me.
 
 After the fourth or so time of her texting me, us talking,
 and me deleting her number, I never heard back.
+
+The entire thing took place within a few hours.
 
 ### The train
 
