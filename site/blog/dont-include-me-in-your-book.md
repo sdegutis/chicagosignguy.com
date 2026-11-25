@@ -27,7 +27,7 @@ She again said not yet, and that she will think it all over.
 
 A few hours later, she texted me, politely saying no thanks.
 She said that, in general, she now felt uncomfortable with me.
-We texted for a bit, and said I am now deleting her number,
+We texted for a bit, and I said I am now deleting her number,
 so that, if she wanted to text me back, the ball is in her court.
 
 She texted back a few times, and each time
@@ -48,13 +48,14 @@ and me deleting her number, I never heard back.
 
 ### The train
 
-The next day, I see her on the same train I take to Chicago.
+A few days later, I see her on the same train I take to Chicago.
 Not wanting to make anything more awkward than it already was,
 I ignore her entirely. That's the last I see or hear of her.
+Until today.
 
 ### The texts
 
-Until today, out of nowhere,
+Today, out of nowhere,
 she texts me around lunch,
 with the following request:
 
@@ -63,21 +64,22 @@ with the following request:
 ![image 3](/img/dont3.png)
 ![image 4](/img/dont4.png)
 
-I know her reason already.
-I am weird and make her uncomfortable.
+I already know her reason.
+I am weird, and I make her uncomfortable.
 My texts were probably too unorthodox.
 Ignoring her completely on the train was the wrong call.
 If she had just admitted any of that,
 I would have immediately acquiesced.
 
 But the fact that she came out immediately hostile here,
-treating me like a danger or a villain with ill intent,
-is so deeply hurtful, so incredibly hurtful,
+treating me like a danger, or a villain with ill intent,
+or someone she can't be seen with even *hypothetically*,
+is so deeply hurtful, so incredibly offensive and unjust,
 that this entire story *definitely* belongs in my book.
 
 What's most ironic is that, until she sent these texts,
-I had forgotten entirely about her,
-and she wasn't even going to a small part of my book.
+I had literally forgotten entirely about her,
+and she wasn't even going to have a small part in my book.
 
 All day I had been feeling defeated by life.
 I kept remembering countless social faux pas
