@@ -141,7 +141,9 @@ Prairie, a young Jewish woman that I met while selling Terrible Advice one day.
 She was a bit flirty, and so I got her number, but told her my intentions
 of wanting to fall in love with someone but without sexuality at all.
 We went on a few dates around Chicago, I played piano for her for a bit,
-and she kept texting me raunchy things, which for me was a temptation.
+and we talked for hours and hours about everything that came to mind.
+I told her I was open to the idea of loosening up on my sexual morals.
+She kept texting me raunchy things, and I kept texting her likewise.
 
 She was 19 and in college, and told me her parents were overprotective,
 and kept a close eye on her and all her whereabouts, so that dating would be hard.
