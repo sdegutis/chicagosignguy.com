@@ -334,6 +334,9 @@ She awkwardly said no and awkwardly left.
 
 Then last weekend she awkwardly passed me by,
 in awkward silence, and with a single awkward glance.
+I tried to give her a look of disdain and grave offense,
+since I took offense at her choosing awkwardness last time.
+But she didn't look at me long or closely enough to pick it up.
 
 #### Blonde girl
 
