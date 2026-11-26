@@ -341,6 +341,24 @@ She awkwardly said no and awkwardly left.
 Then last weekend she awkwardly passed me by,
 in awkward silence, and with a single awkward glance.
 
+#### Blonde girl
+
+About a month ago, a bleach blonde did one of my surveys.
+Shortly after, I posted an article that included my phone number.
+She was the only one to text me,
+and she said she texted me because it sounded like a suicide note.
+
+I lied by saying it had nothing to do with me dying young.
+I asked if she wanted me to delete her number, and she said no.
+We texted for a few days about life in general.
+It was never romantic or meant to be, in either direction.
+I don't remember any particulars that we talked about.
+
+But at some point we brought up the question,
+would you rather be alone in the woods with a man or bear.
+Despite me not answering, she figured my answer was bear,
+and seemingly blocked me, as I never heard from her again.
+
 #### Efrend
 
 Efrend, a young Mexican Catholic man and gym bro.
