@@ -321,7 +321,7 @@ and never texted me back after that.
 
 #### Tamila
 
-Tamila? Something like that.
+Tamila? Tamara? Something like that.
 A young black Russian woman,
 who I met at the library.
 We texted, we hung out once,
