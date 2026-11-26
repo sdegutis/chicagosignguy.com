@@ -59,13 +59,7 @@ Today, out of nowhere,
 she texts me around lunch,
 with the following request:
 
-![image 1](/img/dont1.png)
-
-![image 2](/img/dont2.png)
-
-![image 3](/img/dont3.png)
-
-![image 4](/img/dont4.png)
+![texts](/img/dontall.png)
 
 I already know her reason.
 I am weird, and I make her uncomfortable.
