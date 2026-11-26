@@ -170,9 +170,11 @@ This was mid summer.
 
 #### Rock concert girl
 
-Jacylin? I forget her name. A young black woman who I flirted with a bit,
-then got her number, and we texted quite a few times that evening.
+Jacylin? Jacinta? I forget her name, but something like that.
+A young black woman who was on break from work, who I flirted with a bit,
+who asked me to try to spell her name and talked about random stuff with me.
 
+I got her number, and we texted quite a few times that evening.
 She was at a friend's rock concert managing it for her, and doodling some art,
 and sent me what she was drawing, and I sent her some of what I drew.
 
