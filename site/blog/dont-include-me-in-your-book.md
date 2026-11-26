@@ -326,7 +326,7 @@ One day I overtly asked if she wanted to hook up,
 and by her reply she was clearly caught off guard,
 and never texted me back after that.
 
-#### Tamila
+#### Russian girl
 
 Tamila? Tamara? Something like that.
 A young black Russian woman,
