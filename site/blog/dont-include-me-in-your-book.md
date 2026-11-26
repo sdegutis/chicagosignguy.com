@@ -434,10 +434,11 @@ The next day I was feeling sad that she would be moving soon.
 So I texted asking if there's any last thing she wanted to tell me,
 since we would never be able to see each other ever again.
 She texted back saying "that's weird as fuck" and "lose my number".
-It didn't occur to me until years later that people can move or travel.
+It didn't occur to me until years later that we could see each other again,
+all one of us had to do was move or travel.
 
 ### My conclusion
 
-I'm hopelessly stupid.
+I'm hopelessly incompetent.
 
 [99 days homeless in chicago experiment]: /blog/99-days-homeless-in-chicago.html
