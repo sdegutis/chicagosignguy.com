@@ -353,6 +353,41 @@ would you rather be alone in the woods with a man or bear.
 Despite me not answering, she figured my answer was bear,
 and seemingly blocked me, as I never heard from her again.
 
+#### Addi
+
+Addi, I met her about two months ago.
+A young woman who lives in the same town as me.
+I saw her pretending to be homeless in Chicago,
+selling drawings on the sidewalk as she drew more.
+She told me she makes at least $100 per day doing it.
+
+We talked a bit, and somehow it turned into flirting.
+She said she's poly and lives with her main.
+We bought beer and talked on the train back here.
+
+We texted a bit, and made plans to hook up on Monday,
+and on Monday morning I promptly sabotaged it all,
+and immediately got on the train to Chicago.
+Sometimes I really hate being Catholic.
+
+Anyway, after a few days of texting,
+she texted saying we should just be friends.
+I told her I still wanted to hang out,
+but then I changed my mind.
+I assume she lost my number after this.
+
+A few weeks later I saw her in the same spot.
+Not knowing what to do, I gave her a dollar.
+It was, I suppose, meant to be an insult,
+considering she's pretending to be homeless.
+
+A few months later I saw her again in the same spot.
+We had a conversation about our opposing ideologies,
+until I had to leave to catch the train.
+I asked for her number and she accepted,
+but only on the condition it was platonic.
+I declined.
+
 #### Efrend
 
 Efrend, a young Mexican Catholic man and gym bro.
