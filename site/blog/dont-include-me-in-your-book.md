@@ -260,8 +260,15 @@ Anyway, we talked a bit, and I got her number.
 I called her the "evangelist killer"
 because of how she demolished his arguments.
 
+After I posted that article,
+her friend "D" commented on it,
+back when this website had comments.
+
 We texted a few times, she said she was likely autistic,
-and I don't remember much else we talked about.
+and I asked her quite a lot about that,
+but I don't remember much else we talked about.
+I do remember that one time I tried to impress her
+by telling her about a piano song I was learning.
 
 I tried to ask her out on a date
 but she said that I'm not her type.
@@ -275,6 +282,10 @@ She stopped replying shortly after that.
 This was last winter,
 so I'm likely forgetting a lot of details,
 and possibly misremembering what I do remember.
+
+I've seen her friend "D" pass by at least once.
+She just walks by awkwardly and avoids me,
+and even avoids making eye contact with me.
 
 #### Art store girls
 
